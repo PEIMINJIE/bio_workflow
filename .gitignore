@@ -2,6 +2,10 @@
 .env
 
 # don't upload downloaded PDFs
+data_query_1/output/llm_json/
+data_query_2_version1/output/llm_json/
+data_query_2_version2/output/llm_json/
+
 data_query_1/input/pdfs/
 data_query_2_version1/input/pdfs/
 data_query_2_version2/input/pdfs/
