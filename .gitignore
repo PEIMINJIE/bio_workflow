@@ -1,10 +1,12 @@
 # secrets
 .env
 
+# don't upload downloaded PDFs
+data_query_1/input/pdfs/
+data_query_2_version1/input/pdfs/
+data_query_2_version2/input/pdfs/
+
 # exclude literature/pdf datasets
-data_query_1/
-data_query_2_version1/
-data_query_2_version2/
 *.pdf
 
 # python junk
