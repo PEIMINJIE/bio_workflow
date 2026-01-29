@@ -1,0 +1,31 @@
+# secrets
+.env
+
+# exclude literature/pdf datasets
+data_query_1/
+data_query_2_version1/
+data_query_2_version2/
+*.pdf
+
+# python junk
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+
+# archives / big binaries (optional but safe)
+*.zip
+*.7z
+*.rar
+*.tif
+*.tiff
+*.mp4
+*.mov
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.npy
+*.npz

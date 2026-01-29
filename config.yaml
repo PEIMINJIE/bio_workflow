@@ -1,0 +1,82 @@
+project:
+  name: viral-lysis-screening
+  output_dir: data/output
+  cache_dir: data/cache
+search:
+  query: |
+    (virus OR viral OR virion) AND (lysis OR "lysis buffer" OR "detergent lysis")
+    AND (detergent OR surfactant OR "Triton X-100" OR TX-100 OR "NP-40" OR NP40 OR IGEPAL OR Tween OR SDS OR CHAPS OR saponin OR digitonin)
+    NOT (review OR "systematic review" OR "meta-analysis" OR ELISA OR immunoassay OR antibody OR antigen OR serology OR vaccine OR neutralization OR cytokine OR "flow cytometry" OR disinfectant OR sanitizer)
+  review_filter_enabled: true
+  review_filter_terms:
+    - review
+    - systematic review
+    - meta-analysis
+    - meta analysis
+    - scoping review
+  pubmed_retmax: 500
+  use_scholar: false
+  scholar_max_results: 50
+  scholar_provider: "scholarly"
+  use_europmc: false
+  europmc_retmax: 1000
+  download_max_pdfs: 200
+  download_max_attempts: 50
+  download_timeout_sec: 60
+  download_user_agent: "Mozilla/5.0 (X11; Linux x86_64)"
+  download_overwrite: false
+  download_pmc_fallback: true
+  download_unpaywall: true
+  download_source_csv: data/cache/candidate_papers.csv
+  download_use_url_field: true
+  download_use_doi_resolver: true
+  download_proxy_prefix: ""
+  download_ezproxy_browser_auth: false
+  download_ezproxy_login_url: ""
+  download_ezproxy_headless: true
+  download_ezproxy_cookie_file: ""
+  download_use_url_field: true
+  download_use_doi_resolver: true
+  download_verbose_failures: true
+  download_title_search_enabled: true
+  download_title_search_max_results: 5
+  download_title_search_engines:
+    - semantic_scholar
+    - openalex
+    - crossref
+    - europmc
+pdf:
+  input_dir: data/input/pdfs
+  input_mode: image
+  ocr_enabled: true
+  ocr_language: eng
+  max_pages: 50
+  image_dpi: 200
+  image_batch_size: 6
+  debug_save_images: true
+  method_keywords:
+    - materials and methods
+    - methods
+    - methodology
+    - procedure
+    - protocol
+    - steps
+    - materials
+llm:
+  model: gpt-5.2
+  temperature: 0.0
+  safe_mode: true
+  safety_identifier: "user_mj"
+  max_chars_per_chunk: 8000
+  max_protocols_per_paper: 50
+  max_workers: 1
+  debug: false
+  debug_print: true
+  debug_minimize_json: false
+  save_raw_json: true
+extract:
+  stage: stage_1
+scoring:
+  t_threshold_c: 40
+  top_n: 20
+  label_mode: detergents_capture

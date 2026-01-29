@@ -1,0 +1,11 @@
+openai>=1.30.0
+requests>=2.31.0
+pyyaml>=6.0.1
+pandas>=2.2.2
+pdfplumber>=0.11.0
+pymupdf>=1.24.5
+pillow>=10.3.0
+pytesseract>=0.3.10
+python-dotenv>=1.0.1
+scholarly>=1.7.11
+tqdm>=4.66.4
