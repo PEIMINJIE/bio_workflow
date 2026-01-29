@@ -1,0 +1,50 @@
+{
+  "source_pdf": "s41598-021-93333-2.pdf",
+  "paper_meta": {
+    "Paper_title": "s41598-021-93333-2",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "e18779230c"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Direct RT\u2011PCR amplification of SARS\u2011CoV\u20112 from clinical samples using a concentrated viral lysis\u2011amplification buffer prepared with IGEPAL\u2011630",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "IGEPAL CA-630"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Direct RT\u2011PCR amplification of SARS\u2011CoV\u20112 from clinical samples using a concentrated viral lysis\u2011amplification buffer prepared with IGEPAL\u2011630",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Direct RT\u2011PCR amplification of SARS\u2011CoV\u20112 from clinical samples using a concentrated viral lysis\u2011amplification buffer prepared with IGEPAL\u2011630",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "IGEPAL CA-630"
+      ],
+      "Detergent_products_unresolved_for_lysis": [
+        "QIAGEN RNA extraction kit (QIAamp)"
+      ]
+    }
+  ]
+}

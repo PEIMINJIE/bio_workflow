@@ -1,0 +1,39 @@
+{
+  "source_pdf": "jidc-019-0833.pdf",
+  "paper_meta": {
+    "Paper_title": "jidc-019-0833",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "33c3f99be6"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Development of nucleic acid extraction-free one-step real-time RT-PCR for diagnosis of SARS-CoV-2 infection",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "Tween 20",
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Development of nucleic acid extraction-free one-step real-time RT-PCR for diagnosis of SARS-CoV-2 infection",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "Tween 20",
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    }
+  ]
+}

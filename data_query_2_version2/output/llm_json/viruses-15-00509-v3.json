@@ -1,0 +1,50 @@
+{
+  "source_pdf": "viruses-15-00509-v3.pdf",
+  "paper_meta": {
+    "Paper_title": "viruses-15-00509-v3",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "8c41258f49"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Efficacy Validation of SARS-CoV-2-Inactivation and Viral Genome Stability in Saliva by a Guanidine Hydrochloride and Surfactant-Based Virus Lysis/Transport Buffer",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR",
+        "PCR/qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "hexadecyltrimethylammonium chloride"
+      ],
+      "Detergent_products_unresolved_for_lysis": [
+        "Prep Buffer A (Precision System Science Co., Ltd.)"
+      ]
+    },
+    {
+      "Paper_title": "Efficacy Validation of SARS-CoV-2-Inactivation and Viral Genome Stability in Saliva by a Guanidine Hydrochloride and Surfactant-Based Virus Lysis/Transport Buffer",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "hexadecyltrimethylammonium chloride (Hexa-DTMC)",
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Efficacy Validation of SARS-CoV-2-Inactivation and Viral Genome Stability in Saliva by a Guanidine Hydrochloride and Surfactant-Based Virus Lysis/Transport Buffer",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": []
+    }
+  ]
+}

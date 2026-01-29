@@ -1,0 +1,39 @@
+{
+  "source_pdf": "1-s2.0-S0956566325001885-main.pdf",
+  "paper_meta": {
+    "Paper_title": "1-s2.0-S0956566325001885-main",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "5ad5a05d8d"
+  },
+  "protocols": [
+    {
+      "Paper_title": "High-transition-temperature paraffin integration in IFAST device for efficient and robust nucleic acid extraction and detection",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR",
+        "LAMP"
+      ],
+      "Detergents_used_for_lysis": [
+        "Tween 20"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "High-transition-temperature paraffin integration in IFAST device for efficient and robust nucleic acid extraction and detection",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR",
+        "LAMP"
+      ],
+      "Detergents_used_for_lysis": [
+        "unspecified_detergent"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "source_pdf": "nihms969527.pdf",
+  "paper_meta": {
+    "Paper_title": "nihms969527",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "a1c26413f9"
+  },
+  "protocols": [
+    {
+      "Paper_title": "The holin of bacteriophage lambda forms rings with large diameter",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Empigen BB",
+        "n-dodecyl-\u03b2-D-maltopyranoside (DDM)",
+        "n-octyl-\u03b2-D-glucopyranoside (OG)",
+        "lauryldimethylamine-oxide (LDAO)",
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "The holin of bacteriophage lambda forms rings with large diameter",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "DDM"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "The holin of bacteriophage lambda forms rings with large diameter",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": true,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "The holin of bacteriophage lambda forms rings with large diameter",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": true,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "The holin of bacteriophage lambda forms rings with large diameter",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "The holin of bacteriophage lambda forms rings with large diameter",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "The holin of bacteriophage lambda forms rings with large diameter",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "DDM"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "The holin of bacteriophage lambda forms rings with large diameter",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "DDM",
+        "LDAO"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "The holin of bacteriophage lambda forms rings with large diameter",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "The holin of bacteriophage lambda forms rings with large diameter",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "DDM",
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "source_pdf": "2024_microorganis.pdf",
+  "paper_meta": {
+    "Paper_title": "Detection of ",
+    "Year": "2024",
+    "DOI": "10.3390/microorganisms12071285",
+    "Paper_ID": "2024_microorganis"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Detection of Klebsiella pneumoniae Carbapenem Resistance Genes by qPCR: Choosing the Right Method for Total DNA Extraction",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "mechanical",
+        "heat_lysis_or_inactivation",
+        "other:silica_spin_column_purification"
+      ]
+    },
+    {
+      "Paper_title": "Detection of Klebsiella pneumoniae Carbapenem Resistance Genes by qPCR: Choosing the Right Method for Total DNA Extraction",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "heat_lysis_or_inactivation",
+        "other:silica_spin_column_purification"
+      ]
+    },
+    {
+      "Paper_title": "Detection of Klebsiella pneumoniae Carbapenem Resistance Genes by qPCR: Choosing the Right Method for Total DNA Extraction",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "heat_lysis_or_inactivation",
+        "other:reverse_elution_flowthrough_column"
+      ]
+    },
+    {
+      "Paper_title": "Detection of Klebsiella pneumoniae Carbapenem Resistance Genes by qPCR: Choosing the Right Method for Total DNA Extraction",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "enzyme_proteinaseK_or_other",
+        "heat_lysis_or_inactivation",
+        "other:reverse_elution_plate_based"
+      ]
+    },
+    {
+      "Paper_title": "Detection of Klebsiella pneumoniae Carbapenem Resistance Genes by qPCR: Choosing the Right Method for Total DNA Extraction",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "heat_lysis_or_inactivation",
+        "other:chemical_lysis_kit"
+      ]
+    },
+    {
+      "Paper_title": "Detection of Klebsiella pneumoniae Carbapenem Resistance Genes by qPCR: Choosing the Right Method for Total DNA Extraction",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "heat_lysis_or_inactivation"
+      ]
+    },
+    {
+      "Paper_title": "Detection of Klebsiella pneumoniae Carbapenem Resistance Genes by qPCR: Choosing the Right Method for Total DNA Extraction",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "heat_lysis_or_inactivation"
+      ]
+    },
+    {
+      "Paper_title": "Detection of Klebsiella pneumoniae Carbapenem Resistance Genes by qPCR: Choosing the Right Method for Total DNA Extraction",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "other:silica spin column kit-based DNA extraction (NucleoSpin DNA Stool kit; NS; includes wash steps and centrifugation per kit design)"
+      ]
+    },
+    {
+      "Paper_title": "Detection of Klebsiella pneumoniae Carbapenem Resistance Genes by qPCR: Choosing the Right Method for Total DNA Extraction",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "other:silica spin column kit-based DNA extraction (QIAamp Fast DNA Stool Mini kit; QS; includes wash steps and centrifugation per kit design)"
+      ]
+    },
+    {
+      "Paper_title": "Detection of Klebsiella pneumoniae Carbapenem Resistance Genes by qPCR: Choosing the Right Method for Total DNA Extraction",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "other:reverse-elution silica column kit-based extraction (EchoLUTION Buccal Swab DNA Kit; BE; includes wash steps and centrifugation per kit design)"
+      ]
+    },
+    {
+      "Paper_title": "Detection of Klebsiella pneumoniae Carbapenem Resistance Genes by qPCR: Choosing the Right Method for Total DNA Extraction",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "other:reverse-elution silica column kit-based extraction (EchoLUTION Viral RNA/DNA Swab Kit Plus; BV; includes wash steps and centrifugation per kit design)"
+      ]
+    },
+    {
+      "Paper_title": "Detection of Klebsiella pneumoniae Carbapenem Resistance Genes by qPCR: Choosing the Right Method for Total DNA Extraction",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "detergent_lysis",
+        "heat_lysis_or_inactivation",
+        "other:lysis-only extraction (QuickExtract Solution; QE; described as combination of chemical and thermal lysis) used directly as qPCR template; for spiked stool matrix, blaVIM-1 detection failed while other targets detected"
+      ]
+    },
+    {
+      "Paper_title": "Detection of Klebsiella pneumoniae Carbapenem Resistance Genes by qPCR: Choosing the Right Method for Total DNA Extraction",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "heat_lysis_or_inactivation",
+        "other:thermal lysis T (TL-T) used as template in qPCR for cultured samples; for spiked stool matrix, qPCR could not be performed due to sample viscosity after heat treatment"
+      ]
+    },
+    {
+      "Paper_title": "Detection of Klebsiella pneumoniae Carbapenem Resistance Genes by qPCR: Choosing the Right Method for Total DNA Extraction",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "heat_lysis_or_inactivation",
+        "other:thermal lysis P (TL-P) used directly as qPCR template; in spiked stool matrix, detection reported only for some targets with low copy numbers"
+      ]
+    },
+    {
+      "Paper_title": "Detection of Klebsiella pneumoniae Carbapenem Resistance Genes by qPCR: Choosing the Right Method for Total DNA Extraction",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "mechanical",
+        "heat_lysis_or_inactivation",
+        "other:silica spin column DNA extraction with inhibitor-removal/clean-up column"
+      ]
+    },
+    {
+      "Paper_title": "Detection of Klebsiella pneumoniae Carbapenem Resistance Genes by qPCR: Choosing the Right Method for Total DNA Extraction",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "heat_lysis_or_inactivation",
+        "other:silica spin column DNA extraction (stool kit)"
+      ]
+    },
+    {
+      "Paper_title": "Detection of Klebsiella pneumoniae Carbapenem Resistance Genes by qPCR: Choosing the Right Method for Total DNA Extraction",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "heat_lysis_or_inactivation",
+        "other:reverse elution DNA extraction (purification matrix binds impurities while DNA passes through)"
+      ]
+    },
+    {
+      "Paper_title": "Detection of Klebsiella pneumoniae Carbapenem Resistance Genes by qPCR: Choosing the Right Method for Total DNA Extraction",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "heat_lysis_or_inactivation",
+        "other:reverse elution DNA extraction (purification matrix binds impurities while DNA passes through)"
+      ]
+    },
+    {
+      "Paper_title": "Detection of Klebsiella pneumoniae Carbapenem Resistance Genes by qPCR: Choosing the Right Method for Total DNA Extraction",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "heat_lysis_or_inactivation",
+        "other:thermal lysis used as template for qPCR (direct-lysis approach)"
+      ]
+    },
+    {
+      "Paper_title": "Detection of Klebsiella pneumoniae Carbapenem Resistance Genes by qPCR: Choosing the Right Method for Total DNA Extraction",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "heat_lysis_or_inactivation",
+        "other:thermal lysis used as template for qPCR (thermoblock); reported viscosity prevented qPCR use for stool matrix"
+      ]
+    },
+    {
+      "Paper_title": "Detection of Klebsiella pneumoniae Carbapenem Resistance Genes by qPCR: Choosing the Right Method for Total DNA Extraction",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "heat_lysis_or_inactivation",
+        "other:chemical + thermal lysis (Quick Extract Solution); not compatible for all targets in spiked stool (blaVIM-1 failure reported)"
+      ]
+    },
+    {
+      "Paper_title": "Detection of Klebsiella pneumoniae Carbapenem Resistance Genes by qPCR: Choosing the Right Method for Total DNA Extraction",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:No sample-preparation/DNA-extraction protocol described on the provided pages (these pages contain references and a publisher disclaimer only; Microorganisms 2024, 12, 1285, pp. 19\u201321 of 21)."
+      ]
+    }
+  ]
+}

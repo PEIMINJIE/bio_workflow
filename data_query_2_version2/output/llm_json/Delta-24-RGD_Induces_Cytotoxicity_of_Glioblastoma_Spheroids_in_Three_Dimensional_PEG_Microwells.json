@@ -1,0 +1,35 @@
+{
+  "source_pdf": "Delta-24-RGD_Induces_Cytotoxicity_of_Glioblastoma_Spheroids_in_Three_Dimensional_PEG_Microwells.pdf",
+  "paper_meta": {
+    "Paper_title": "Delta-24-RGD_Induces_Cytotoxicity_of_Glioblastoma_Spheroids_in_Three_Dimensional_PEG_Microwells",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "28b5447d61"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Delta-24-RGD Induces Cytotoxicity of Glioblastoma Spheroids in Three Dimensional PEG Microwells",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "unspecified_downstream_assay"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Delta-24-RGD Induces Cytotoxicity of Glioblastoma Spheroids in Three Dimensional PEG Microwells",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "unspecified_detergent"
+      ],
+      "Detergent_products_unresolved_for_lysis": [
+        "RIPA buffer"
+      ]
+    }
+  ]
+}

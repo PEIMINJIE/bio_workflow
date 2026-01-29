@@ -1,0 +1,39 @@
+{
+  "source_pdf": "J Eukaryotic Microbiology - 2008 - AKUNYILI - Ingestion without Inactivation of Bacteriophages by Tetrahymena.pdf",
+  "paper_meta": {
+    "Paper_title": "J Eukaryotic Microbiology - 2008 - AKUNYILI - Ingestion without Inactivation of Bacteriophages by Tetrahymena",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "d06ccb6917"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Ingestion without Inactivation of Bacteriophages by Tetrahymena",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Ingestion without Inactivation of Bacteriophages by Tetrahymena",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "unspecified_detergent"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Provenance": [
+        {
+          "mention": "recovery from Tetrahymena by detergent lysis",
+          "location": "Provided first-page snippet (abstract text)"
+        }
+      ]
+    }
+  ]
+}

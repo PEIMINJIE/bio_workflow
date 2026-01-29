@@ -1,0 +1,41 @@
+{
+  "source_pdf": "2021_jmm0001301.pdf",
+  "paper_meta": {
+    "Paper_title": "Comparative effects of viral-transport-medium heat inactivation upon downstream SARS-CoV-2 detection in patient samples.",
+    "Year": "2021",
+    "DOI": "10.1099/jmm.0.001301",
+    "Paper_ID": "2021_jmm0001301"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Comparative effects of viral-transport-medium heat inactivation upon downstream SARS-CoV-2 detection in patient samples",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "heat_lysis_or_inactivation"
+      ]
+    },
+    {
+      "Paper_title": "Comparative effects of viral-transport-medium heat inactivation upon downstream SARS-CoV-2 detection in patient samples.",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "heat_lysis_or_inactivation"
+      ]
+    },
+    {
+      "Paper_title": "Comparative effects of viral-transport-medium heat inactivation upon downstream SARS-CoV-2 detection in patient samples.",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:traditional RNA purification/extraction prior to RT-qPCR (commercial clinical workflow; details not provided on these pages)"
+      ]
+    }
+  ]
+}

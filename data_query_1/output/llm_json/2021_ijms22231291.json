@@ -1,0 +1,213 @@
+{
+  "source_pdf": "2021_ijms22231291.pdf",
+  "paper_meta": {
+    "Paper_title": "Optimizing Release of Nucleic Acids of ",
+    "Year": "2021",
+    "DOI": "10.3390/ijms222312915",
+    "Paper_ID": "2021_ijms22231291"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Optimizing Release of Nucleic Acids of African Swine Fever Virus and Influenza A Virus from FTA Cards",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "enzyme_proteinaseK_or_other",
+        "other:FTA purification reagent"
+      ]
+    },
+    {
+      "Paper_title": "Optimizing Release of Nucleic Acids of African Swine Fever Virus and Influenza A Virus from FTA Cards",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "enzyme_proteinaseK_or_other",
+        "other:TE buffer",
+        "other:FTA Elute buffer"
+      ]
+    },
+    {
+      "Paper_title": "Optimizing Release of Nucleic Acids of African Swine Fever Virus and Influenza A Virus from FTA Cards",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:TE buffer",
+        "other:Tissue Lysis Reagent (TLR)"
+      ]
+    },
+    {
+      "Paper_title": "Optimizing Release of Nucleic Acids of African Swine Fever Virus and Influenza A Virus from FTA Cards",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:TE buffer"
+      ]
+    },
+    {
+      "Paper_title": "Optimizing Release of Nucleic Acids of African Swine Fever Virus and Influenza A Virus from FTA Cards",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:M-lysis reagent"
+      ]
+    },
+    {
+      "Paper_title": "Optimizing Release of Nucleic Acids of African Swine Fever Virus and Influenza A Virus from FTA Cards",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "chelating_resin",
+        "other:TE buffer"
+      ]
+    },
+    {
+      "Paper_title": "Optimizing Release of Nucleic Acids of African Swine Fever Virus and Influenza A Virus from FTA Cards",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "chelating_resin",
+        "other:TED10 buffer"
+      ]
+    },
+    {
+      "Paper_title": "Optimizing Release of Nucleic Acids of African Swine Fever Virus and Influenza A Virus from FTA Cards",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "enzyme_proteinaseK_or_other",
+        "heat_lysis_or_inactivation"
+      ]
+    },
+    {
+      "Paper_title": "Optimizing Release of Nucleic Acids of African Swine Fever Virus and Influenza A Virus from FTA Cards",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": true,
+      "Downstream_compatible": false,
+      "Methods": [
+        "enzyme_proteinaseK_or_other"
+      ]
+    },
+    {
+      "Paper_title": "Optimizing Release of Nucleic Acids of African Swine Fever Virus and Influenza A Virus from FTA Cards",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "enzyme_proteinaseK_or_other",
+        "heat_lysis_or_inactivation"
+      ]
+    },
+    {
+      "Paper_title": "Optimizing Release of Nucleic Acids of African Swine Fever Virus and Influenza A Virus from FTA Cards",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": true,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:buffer elution (TE) from FTA punches"
+      ]
+    },
+    {
+      "Paper_title": "Optimizing Release of Nucleic Acids of African Swine Fever Virus and Influenza A Virus from FTA Cards",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "heat_lysis_or_inactivation"
+      ]
+    },
+    {
+      "Paper_title": "Optimizing Release of Nucleic Acids of African Swine Fever Virus and Influenza A Virus from FTA Cards",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:buffer elution (TE) from FTA punches"
+      ]
+    },
+    {
+      "Paper_title": "Optimizing Release of Nucleic Acids of African Swine Fever Virus and Influenza A Virus from FTA Cards",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:lysis buffer (Roche complete lysis-M)"
+      ]
+    },
+    {
+      "Paper_title": "Optimizing Release of Nucleic Acids of African Swine Fever Virus and Influenza A Virus from FTA Cards",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatible": false,
+      "Methods": [
+        "chelating_resin",
+        "other:buffer elution (TE) from FTA punches"
+      ]
+    },
+    {
+      "Paper_title": "Optimizing Release of Nucleic Acids of African Swine Fever Virus and Influenza A Virus from FTA Cards",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "chelating_resin",
+        "heat_lysis_or_inactivation"
+      ]
+    },
+    {
+      "Paper_title": "Optimizing Release of Nucleic Acids of African Swine Fever Virus and Influenza A Virus from FTA Cards",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatible": false,
+      "Methods": [
+        "chelating_resin",
+        "other:TE buffer with DMSO (TED10) elution"
+      ]
+    },
+    {
+      "Paper_title": "Optimizing Release of Nucleic Acids of African Swine Fever Virus and Influenza A Virus from FTA Cards",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "chelating_resin",
+        "heat_lysis_or_inactivation"
+      ]
+    },
+    {
+      "Paper_title": "Optimizing Release of Nucleic Acids of African Swine Fever Virus and Influenza A Virus from FTA Cards",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:magnetic bead-based extraction (NucleoMagVet/KingFisher) with wash steps"
+      ]
+    }
+  ]
+}

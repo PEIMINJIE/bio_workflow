@@ -1,0 +1,67 @@
+{
+  "source_pdf": "2021_fcimb20216.pdf",
+  "paper_meta": {
+    "Paper_title": "A Saliva-Based RNA Extraction-Free Workflow Integrated With Cas13a for SARS-CoV-2 Detection.",
+    "Year": "2021",
+    "DOI": "10.3389/fcimb.2021.632646",
+    "Paper_ID": "2021_fcimb20216"
+  },
+  "protocols": [
+    {
+      "Paper_title": "A Saliva-Based RNA Extraction-Free Workflow Integrated With Cas13a for SARS-CoV-2 Detection",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "detergent_lysis",
+        "enzyme_proteinaseK_or_other",
+        "heat_lysis_or_inactivation",
+        "other:mucolytic/mucoactive treatment (N-acetyl cysteine; sodium citrate/ammonium chloride)"
+      ]
+    },
+    {
+      "Paper_title": "A Saliva-Based RNA Extraction-Free Workflow Integrated With Cas13a for SARS-CoV-2 Detection",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:commercial viral RNA extraction kit (Qiagen) for RT-qPCR comparison/validation"
+      ]
+    },
+    {
+      "Paper_title": "A Saliva-Based RNA Extraction-Free Workflow Integrated With Cas13a for SARS-CoV-2 Detection",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "detergent_lysis",
+        "enzyme_proteinaseK_or_other",
+        "heat_lysis_or_inactivation",
+        "other:chemical treatment with N-acetyl cysteine (mucolytic/reducing agent) in RNA release buffer; direct use of treated saliva for RT-qPCR/SHERLOCK"
+      ]
+    },
+    {
+      "Paper_title": "A Saliva-Based RNA Extraction-Free Workflow Integrated With Cas13a for SARS-CoV-2 Detection",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:RNA extraction-based (kit-based) workflow on saliva collected in RNAlater; used for RT-qPCR comparison (details not provided on these pages)"
+      ]
+    },
+    {
+      "Paper_title": "A Saliva-Based RNA Extraction-Free Workflow Integrated With Cas13a for SARS-CoV-2 Detection",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:No experimental sample-preparation protocol described on provided pages (references/conflict of interest/copyright sections only)."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "source_pdf": "Lipidomic study of intracellular.pdf",
+  "paper_meta": {
+    "Paper_title": "Lipidomic study of intracellular",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "59b125a31e"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Lipidomic study of intracellular Singapore grouper iridovirus",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Lipidomic study of intracellular Singapore grouper iridovirus",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Lipidomic study of intracellular Singapore grouper iridovirus",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "unspecified_detergent"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Lipidomic study of intracellular Singapore grouper iridovirus (SGIV) and grouper embryonic cells (GECs)",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Lipidomic study of intracellular Singapore grouper iridovirus (SGIV) and grouper embryonic cells (GECs)",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "n-dodecyl-\u03b1-D-maltoside (DDM)",
+        "Triton X-100",
+        "n-octyl-\u03b2-D-glucopyranoside (OG)"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    }
+  ]
+}

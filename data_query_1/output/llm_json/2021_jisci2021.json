@@ -1,0 +1,88 @@
+{
+  "source_pdf": "2021_jisci2021.pdf",
+  "paper_meta": {
+    "Paper_title": "Sensitive extraction-free SARS-CoV-2 RNA virus detection using a chelating resin.",
+    "Year": "2021",
+    "DOI": "10.1016/j.isci.2021.102960",
+    "Paper_ID": "2021_jisci2021"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Sensitive extraction-free SARS-CoV-2 RNA virus detection using a chelating resin",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "chelating_resin",
+        "heat_lysis_or_inactivation",
+        "other:sample drying/desiccation (SpeedVac) and resuspension in buffer"
+      ]
+    },
+    {
+      "Paper_title": "Sensitive extraction-free SARS-CoV-2 RNA virus detection using a chelating resin",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "heat_lysis_or_inactivation",
+        "other:direct heating in buffer without RNA extraction (tested across multiple buffers; some incompatible/inhibitory)"
+      ]
+    },
+    {
+      "Paper_title": "Sensitive extraction-free SARS-CoV-2 RNA virus detection using a chelating resin",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "chelating_resin",
+        "heat_lysis_or_inactivation"
+      ]
+    },
+    {
+      "Paper_title": "Sensitive extraction-free SARS-CoV-2 RNA virus detection using a chelating resin",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "enzyme_proteinaseK_or_other",
+        "heat_lysis_or_inactivation"
+      ]
+    },
+    {
+      "Paper_title": "Sensitive extraction-free SARS-CoV-2 RNA virus detection using a chelating resin",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:conventional RNA extraction (CDC protocol; easyMAG-CL), details not provided on shown pages"
+      ]
+    },
+    {
+      "Paper_title": "Sensitive extraction-free SARS-CoV-2 RNA virus detection using a chelating resin",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "chelating_resin",
+        "heat_lysis_or_inactivation",
+        "other:brief vortexing/mixing"
+      ]
+    },
+    {
+      "Paper_title": "Sensitive extraction-free SARS-CoV-2 RNA virus detection using a chelating resin",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:conventional RNA extraction (NucliSENS easyMAG platform / Qiagen RNeasy kits)"
+      ]
+    }
+  ]
+}

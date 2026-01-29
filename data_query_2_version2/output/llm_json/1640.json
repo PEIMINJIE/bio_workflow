@@ -1,0 +1,33 @@
+{
+  "source_pdf": "1640.pdf",
+  "paper_meta": {
+    "Paper_title": "1640",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "cdbe4e7e26"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Role of DLP12 lysis genes in Escherichia coli biofilm formation",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Role of DLP12 lysis genes in Escherichia coli biofilm formation",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    }
+  ]
+}

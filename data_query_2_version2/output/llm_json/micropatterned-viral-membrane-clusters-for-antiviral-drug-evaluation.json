@@ -1,0 +1,20 @@
+{
+  "source_pdf": "micropatterned-viral-membrane-clusters-for-antiviral-drug-evaluation.pdf",
+  "paper_meta": {
+    "Paper_title": "micropatterned-viral-membrane-clusters-for-antiviral-drug-evaluation",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "57d6ca6e40"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Micropatterned Viral Membrane Clusters for Antiviral Drug Evaluation",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": []
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source_pdf": "fcimb-11-716436.pdf",
+  "paper_meta": {
+    "Paper_title": "fcimb-11-716436",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "3f76a560df"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Evaluation of the SARS-CoV-2 Inactivation Efficacy Associated With Buffers From Three Kits Used on High-Throughput RNA Extraction Platforms",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "unspecified_detergent"
+      ],
+      "Detergent_products_unresolved_for_lysis": [
+        "MagMAX Lysis Buffer"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "source_pdf": "2024_diagnostics1.pdf",
+  "paper_meta": {
+    "Paper_title": "Development of Aptamers for RNase Inactivation in Xtract-Free\u2122 Sample Collection and Transport Medium.",
+    "Year": "2024",
+    "DOI": "10.3390/diagnostics14121207",
+    "Paper_ID": "2024_diagnostics1"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Development of Aptamers for RNase Inactivation in Xtract-Free\u2122 Sample Collection and Transport Medium",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "alkaline_pH_shock",
+        "detergent_lysis",
+        "heat_lysis_or_inactivation",
+        "other:magnetic bead immobilization/partitioning (paramagnetic carboxylated beads) and EDC/NHS covalent conjugation chemistry"
+      ]
+    },
+    {
+      "Paper_title": "Development of Aptamers for RNase Inactivation in Xtract-Free\u2122 Sample Collection and Transport Medium",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "heat_lysis_or_inactivation",
+        "other:in vitro SELEX aptamer selection using RNase A immobilized on paramagnetic beads with magnetic partitioning and wash/elution steps in Xtract-Free\u2122 medium"
+      ]
+    },
+    {
+      "Paper_title": "Development of Aptamers for RNase Inactivation in Xtract-Free\u2122 Sample Collection and Transport Medium",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "heat_lysis_or_inactivation",
+        "enzyme_proteinaseK_or_other",
+        "other:lambda exonuclease digestion to generate ssDNA from dsDNA PCR products (with subsequent kit-based cleanup)"
+      ]
+    },
+    {
+      "Paper_title": "Development of Aptamers for RNase Inactivation in Xtract-Free\u2122 Sample Collection and Transport Medium",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:paramagnetic bead-immobilized RNase A digestion/inhibition assay with anti-RNase DNA aptamers; magnetic partitioning (no centrifugation reported)"
+      ]
+    },
+    {
+      "Paper_title": "Development of Aptamers for RNase Inactivation in Xtract-Free\u2122 Sample Collection and Transport Medium",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:No sample-preparation protocol described on the provided page (page 12/12 shows references and publisher disclaimer only)."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+Reagent,Count_total_protocols,Count_strict_pass,Count_heat_required,Count_isothermal_or_CRISPR_reported,Representative_refs
+None,16,0,2,0,10.17691/stm2024.16.1.05; NaN; 10.1186/s12985-024-02535-3
+Unknown,11,0,5,0,NaN; 10.3390/microorganisms12061285
+chloroform,5,0,0,0,NaN
+Not reported,5,0,0,0,Not reported
+None reported,4,0,0,0,10.1186/s12985-025-02934-0
+thermal lysis,4,0,2,0,10.3390/microorganisms12071285; NaN
+chemical lysis,3,0,3,0,NaN
+NaN,2,0,0,0,NaN
+Nano-Glo HiBiT Lysis Detection System,2,0,0,0,10.1186/s12985-024-02535-3
+Thermal lysis (TL-T),2,0,2,0,10.3390/microorganisms12061285
+Thermal lysis (TL-P),2,0,2,0,10.3390/microorganisms12061285
+Thermal lysis P (TL-P),2,0,2,0,10.3390/microorganisms12061285
+Thermal lysis T (TL-T),2,0,2,0,10.3390/microorganisms12061285
+NucleoSpin DNA Stool kit (NS),2,0,0,0,10.3390/microorganisms12061285
+EchoLUTION Buccal Swab DNA Kit (BE),2,0,0,0,10.3390/microorganisms12061285
+kit lysis buffer (unspecified),2,0,0,0,10.3390/microorganisms12071285
+"Bacteriophages (virulent, Staphylophag)",1,0,0,0,10.17691/stm2024.16.1.05
+"Staphylococcal bacteriophage, series H 286 (selected after screening)",1,0,0,0,NaN
+Chloroform,1,0,0,0,NaN
+TRNzol Reagent,1,0,0,0,
+Nano-Glo HiBiT Lytic Buffer,1,0,0,0,
+RIPA buffer,1,0,0,0,
+Cell lysis buffer; nuclear lysis buffer,1,0,0,0,
+ChIP Elution Buffer,1,0,1,0,
+"Tris-HCl, EDTA, NP-40, sucrose buffer (pH 8.0)",1,0,1,0,
+"Tris-HCl, EDTA, NaCl, SDS buffer",1,0,1,0,
+Thermal lysis (no chemical reagent specified),1,0,1,0,10.3390/microorganisms12061285
+Thermal lysis during pre-PCR heating (no chemical reagent specified),1,0,1,0,10.3390/microorganisms12061285
+"Reverse elution kit lysis buffer (not specified), heat-assisted",1,0,1,0,10.3390/microorganisms12061285
+Combination of thermal and chemical lysis (no specific reagents detailed),1,0,1,0,10.3390/microorganisms12061285
+chemical and enzymatic lysis,1,0,1,0,NaN
+QE lysis (chemical + thermal lysis),1,0,1,0,10.3390/microorganisms12061285
+Quick Extract Solution (QE),1,0,1,0,
+QIAamp Fast DNA Stool Mini kit (QS),1,0,0,0,
+EchoLUTION Viral RNA/DNA Swab Kit Plus (BV),1,0,0,0,
+QuickExtract Solution (QE),1,0,1,0,10.3390/microorganisms12061285
+"QIAamp Fast DNA Stool Mini kit (QS), silica spin column method",1,0,0,0,10.3390/microorganisms12061285
+"EchoLUTION Viral RNA/DNA Swab Kit Plus (BV), reverse elution method",1,0,0,0,10.3390/microorganisms12061285
+QE lysis buffer,1,0,1,0,10.3390/microorganisms12061285
+enzyme-free lysis buffer (BE method),1,0,1,0,10.3390/microorganisms12071285
+lysis buffer (BV method; composition not specified),1,0,1,0,10.3390/microorganisms12071285

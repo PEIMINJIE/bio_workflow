@@ -1,0 +1,41 @@
+{
+  "source_pdf": "2024_diseases1209.pdf",
+  "paper_meta": {
+    "Paper_title": "Utility of Extraction-Free SARS-CoV-2 Detection by RT-qPCR for COVID-19 Testing in a Resource-Limited Setting.",
+    "Year": "2024",
+    "DOI": "10.3390/diseases12090198",
+    "Paper_ID": "2024_diseases1209"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Utility of Extraction-Free SARS-CoV-2 Detection by RT-qPCR for COVID-19 Testing in a Resource-Limited Setting",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "heat_lysis_or_inactivation"
+      ]
+    },
+    {
+      "Paper_title": "Utility of Extraction-Free SARS-CoV-2 Detection by RT-qPCR for COVID-19 Testing in a Resource-Limited Setting",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:standard RNA extraction (commercial kit; details not specified on provided pages)"
+      ]
+    },
+    {
+      "Paper_title": "Utility of Extraction-Free SARS-CoV-2 Detection by RT-qPCR for COVID-19 Testing in a Resource-Limited Setting",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:no sample-prep protocol described on provided pages (references/disclaimer pages only)"
+      ]
+    }
+  ]
+}

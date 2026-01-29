@@ -1,0 +1,21 @@
+{
+  "source_pdf": "2023_s41598-023-3.pdf",
+  "paper_meta": {
+    "Paper_title": "Pooled RNA-extraction-free testing of saliva for the detection of SARS-CoV-2.",
+    "Year": "2023",
+    "DOI": "10.1038/s41598-023-34662-2",
+    "Paper_ID": "2023_s41598-023-3"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Pooled RNA-extraction-free testing of saliva for the detection of SARS-CoV-2",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:no sample-prep protocol described on provided pages (only references/competing interests/additional information sections shown)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "source_pdf": "nihms286034.pdf",
+  "paper_meta": {
+    "Paper_title": "nihms286034",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "cad0d15d8e"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Purification and Functional Characterization of the \u03d5X174 Lysis Protein E",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "SDS",
+        "n-dodecyl-\u03b2-D-maltoside",
+        "Empigen BB"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Purification and Functional Characterization of the \u03d5X174 Lysis Protein E",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Purification and Functional Characterization of the \u03d5X174 Lysis Protein E",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "DDM"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Purification and Functional Characterization of the \u03d5X174 Lysis Protein E",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100",
+        "Tween 20",
+        "NP-40",
+        "SDS",
+        "cholic acid",
+        "DHPC",
+        "EBB",
+        "saponin"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    }
+  ]
+}

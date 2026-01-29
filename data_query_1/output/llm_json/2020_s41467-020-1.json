@@ -1,0 +1,71 @@
+{
+  "source_pdf": "2020_s41467-020-1.pdf",
+  "paper_meta": {
+    "Paper_title": "Massive and rapid COVID-19 testing is feasible by extraction-free SARS-CoV-2 RT-PCR.",
+    "Year": "2020",
+    "DOI": "10.1038/s41467-020-18611-5",
+    "Paper_ID": "2020_s41467-020-1"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Massive and rapid COVID-19 testing is feasible by extraction-free SARS-CoV-2 RT-PCR",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "heat_lysis_or_inactivation"
+      ]
+    },
+    {
+      "Paper_title": "Massive and rapid COVID-19 testing is feasible by extraction-free SARS-CoV-2 RT-PCR",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": true,
+      "Downstream_compatible": false,
+      "Methods": [
+        "detergent_lysis"
+      ]
+    },
+    {
+      "Paper_title": "Massive and rapid COVID-19 testing is feasible by extraction-free SARS-CoV-2 RT-PCR",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:conventional RNA extraction using commercial kit/lysis buffer (referenced comparator workflow)"
+      ]
+    },
+    {
+      "Paper_title": "Massive and rapid COVID-19 testing is feasible by extraction-free SARS-CoV-2 RT-PCR",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "heat_lysis_or_inactivation"
+      ]
+    },
+    {
+      "Paper_title": "Massive and rapid COVID-19 testing is feasible by extraction-free SARS-CoV-2 RT-PCR",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatible": true,
+      "Methods": [
+        "detergent_lysis"
+      ]
+    },
+    {
+      "Paper_title": "Massive and rapid COVID-19 testing is feasible by extraction-free SARS-CoV-2 RT-PCR",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:RNA extraction using MagNA Pure 96 DNA and Viral NA SV kit (referenced clinical routine workflow comparator)"
+      ]
+    }
+  ]
+}

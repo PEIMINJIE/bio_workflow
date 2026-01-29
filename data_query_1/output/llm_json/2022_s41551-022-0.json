@@ -1,0 +1,116 @@
+{
+  "source_pdf": "2022_s41551-022-0.pdf",
+  "paper_meta": {
+    "Paper_title": "Simplified Cas13-based assays for the fast identification of SARS-CoV-2 and its variants.",
+    "Year": "2022",
+    "DOI": "10.1038/s41551-022-00889-z",
+    "Paper_ID": "2022_s41551-022-0"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Rapid detection of SARS-CoV-2 RNA in saliva via Cas13",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "heat_lysis_or_inactivation",
+        "other:chemical inactivation/lysis using TCEP\u2013EDTA (reduction + chelation) described for saliva sample processing prior to rLAMP and Cas13 detection"
+      ]
+    },
+    {
+      "Paper_title": "Simplified Cas13-based assays for the fast identification of SARS-CoV-2 and its variants",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "chelating_resin",
+        "heat_lysis_or_inactivation"
+      ]
+    },
+    {
+      "Paper_title": "Simplified Cas13-based assays for the fast identification of SARS-CoV-2 and its variants",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:clinical respiratory swab RNA extraction using commercial kit (MagMAX Viral/Pathogen Nucleic Acid Isolation Kit)"
+      ]
+    },
+    {
+      "Paper_title": "Simplified Cas13-based assays for the fast identification of SARS-CoV-2 and its variants",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "detergent_lysis",
+        "heat_lysis_or_inactivation"
+      ]
+    },
+    {
+      "Paper_title": "Simplified Cas13-based assays for the fast identification of SARS-CoV-2 and its variants",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "heat_lysis_or_inactivation"
+      ]
+    },
+    {
+      "Paper_title": "Simplified Cas13-based assays for the fast identification of SARS-CoV-2 and its variants",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "heat_lysis_or_inactivation"
+      ]
+    },
+    {
+      "Paper_title": "Simplified Cas13-based assays for the fast identification of SARS-CoV-2 and its variants",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "heat_lysis_or_inactivation",
+        "other:microfluidic cartridge workflow coupling RT-LAMP and Cas13 detection (DISCoVER multiplex system)"
+      ]
+    },
+    {
+      "Paper_title": "Simplified Cas13-based assays for the fast identification of SARS-CoV-2 and its variants",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "heat_lysis_or_inactivation",
+        "other:direct lysis buffer (composition not specified on provided pages)"
+      ]
+    },
+    {
+      "Paper_title": "Simplified Cas13-based assays for the fast identification of SARS-CoV-2 and its variants",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:commercial direct saliva lysis/inactivation reagents (IA inactivation reagent; QuickExtract; RNA/DNA Shield; TCEP-EDTA)"
+      ]
+    },
+    {
+      "Paper_title": "Simplified Cas13-based assays for the fast identification of SARS-CoV-2 and its variants",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:microfluidic cartridge handling of saliva with on-cartridge amplification and Cas13 detection (gravity-driven; heaters; valves; hydrophobic separator)"
+      ]
+    }
+  ]
+}

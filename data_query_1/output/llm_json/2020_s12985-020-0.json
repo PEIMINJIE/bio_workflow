@@ -1,0 +1,21 @@
+{
+  "source_pdf": "2020_s12985-020-0.pdf",
+  "paper_meta": {
+    "Paper_title": "A novel two-step, direct-to-PCR method for virus detection off swabs using human coronavirus 229E.",
+    "Year": "2020",
+    "DOI": "10.1186/s12985-020-01405-y",
+    "Paper_ID": "2020_s12985-020-0"
+  },
+  "protocols": [
+    {
+      "Paper_title": "A novel two-step, direct-to-PCR method for virus detection off swabs using human coronavirus 229E",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": true,
+      "Downstream_compatible": true,
+      "Methods": [
+        "mechanical"
+      ]
+    }
+  ]
+}

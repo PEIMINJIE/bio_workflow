@@ -1,0 +1,35 @@
+{
+  "source_pdf": "2014_lam12196.pdf",
+  "paper_meta": {
+    "Paper_title": "A method of direct PCR without DNA extraction for rapid detection of begomoviruses infecting jute and mesta.",
+    "Year": "2014",
+    "DOI": "10.1111/lam.12196",
+    "Paper_ID": "2014_lam12196"
+  },
+  "protocols": [
+    {
+      "Paper_title": "A method of direct PCR without DNA extraction for rapid detection of begomoviruses infecting jute and mesta",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "enzyme_proteinaseK_or_other",
+        "heat_lysis_or_inactivation",
+        "other:chemical lysis buffer (Tris-Cl, EDTA, NaCl) with additives PVP and \u03b2-mercaptoethanol; ethanol wash of tissue"
+      ]
+    },
+    {
+      "Paper_title": "A method of direct PCR without DNA extraction for rapid detection of begomoviruses infecting jute and mesta",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "enzyme_proteinaseK_or_other",
+        "heat_lysis_or_inactivation",
+        "other:chemical lysis buffer (Tris-Cl, EDTA, NaCl) with additives PVP and \u03b2-mercaptoethanol; optional sodium acetate; ethanol wash of tissue"
+      ]
+    }
+  ]
+}

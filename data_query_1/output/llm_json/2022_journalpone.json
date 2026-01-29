@@ -1,0 +1,68 @@
+{
+  "source_pdf": "2022_journalpone.pdf",
+  "paper_meta": {
+    "Paper_title": "Sample-to-answer, extraction-free, real-time RT-LAMP test for SARS-CoV-2 in nasopharyngeal, nasal, and saliva samples: Implications and use for surveillance testing.",
+    "Year": "2022",
+    "DOI": "10.1371/journal.pone.0264130",
+    "Paper_ID": "2022_journalpone"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Development and implementation of a simple and rapid extraction-free saliva SARS-CoV-2 RT-LAMP workflow for workplace surveillance",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "detergent_lysis",
+        "alkaline_pH_shock",
+        "heat_lysis_or_inactivation",
+        "other:reducing agent (TCEP) and chelator (EDTA) in saliva lysis buffer to stabilize RNA"
+      ]
+    },
+    {
+      "Paper_title": "Development and implementation of a simple and rapid extraction-free saliva SARS-CoV-2 RT-LAMP workflow for workplace surveillance",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:RNA purification using a commercial total RNA miniprep kit (Monarch Total RNA Miniprep Kit) for comparison studies"
+      ]
+    },
+    {
+      "Paper_title": "Development and implementation of a simple and rapid extraction-free saliva SARS-CoV-2 RT-LAMP workflow for workplace surveillance",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "heat_lysis_or_inactivation",
+        "chelating_resin",
+        "other:TCEP/EDTA RNase inhibition buffer"
+      ]
+    },
+    {
+      "Paper_title": "Development and implementation of a simple and rapid extraction-free saliva SARS-CoV-2 RT-LAMP workflow for workplace surveillance testing",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "detergent_lysis",
+        "heat_lysis_or_inactivation",
+        "alkaline_pH_shock"
+      ]
+    },
+    {
+      "Paper_title": "Sample-to-answer, extraction-free, real-time RT-LAMP test for SARS-CoV-2 in nasopharyngeal, nasal, and saliva samples: Implications and use for surveillance testing.",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:No sample-preparation protocol described on the provided pages (these pages show references/bibliography only; footer indicates pages 20\u201322/22)."
+      ]
+    }
+  ]
+}

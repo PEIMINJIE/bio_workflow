@@ -1,0 +1,44 @@
+{
+  "source_pdf": "pone.0046537.pdf",
+  "paper_meta": {
+    "Paper_title": "pone.0046537",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "14071a49c5"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Isolation and Characterization of \u03d5km18p, a Novel Lytic Phage with Therapeutic Potential against Extensively Drug Resistant Acinetobacter baumannii",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "Sequencing"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [
+        "Viral Nucleic Extraction Kit II (Geneaid)"
+      ]
+    },
+    {
+      "Paper_title": "Isolation and Characterization of \u03d5km18p, a Novel Lytic Phage with Therapeutic Potential against Extensively Drug Resistant Acinetobacter baumannii",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "sodium N-lauroylsarcosine"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Isolation and Characterization of wkm18p, a Novel Lytic Phage with Therapeutic Potential against Extensively Drug Resistant Acinetobacter baumannii",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": []
+    }
+  ]
+}

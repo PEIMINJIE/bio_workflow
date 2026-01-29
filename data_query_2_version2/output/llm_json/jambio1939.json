@@ -1,0 +1,42 @@
+{
+  "source_pdf": "jambio1939.pdf",
+  "paper_meta": {
+    "Paper_title": "jambio1939",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "500aa7f622"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Identification and characterization of the two-component cell lysis cassette encoded by temperate bacteriophage \u03c6PYB5 of Lactobacillus fermentum",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Identification and characterization of the two-component cell lysis cassette encoded by temperate bacteriophage \u03c6PYB5 of Lactobacillus fermentum",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Identification and characterization of the two-component cell lysis cassette encoded by temperate bacteriophage \u03c6PYB5 of Lactobacillus fermentum",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    }
+  ]
+}

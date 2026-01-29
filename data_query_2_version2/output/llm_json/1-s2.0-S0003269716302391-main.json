@@ -1,0 +1,37 @@
+{
+  "source_pdf": "1-s2.0-S0003269716302391-main.pdf",
+  "paper_meta": {
+    "Paper_title": "1-s2.0-S0003269716302391-main",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "26f83ea56a"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Endogenous RNase inhibitor contributes to stability of RNA in crude cell lysates: Applicability to RT-qPCR",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "IGEPAL CA-630"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Endogenous RNase inhibitor contributes to stability of RNA in crude cell lysates: Applicability to RT-qPCR",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "unspecified_detergent"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    }
+  ]
+}

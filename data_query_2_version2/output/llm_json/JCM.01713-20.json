@@ -1,0 +1,20 @@
+{
+  "source_pdf": "JCM.01713-20.pdf",
+  "paper_meta": {
+    "Paper_title": "JCM.01713-20",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "53f24d2991"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Analysis of Inactivation of SARS-CoV-2 by Specimen Transport Media, Nucleic Acid Extraction Reagents, Detergents, and Fixatives (JCM.01713-20)",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": []
+    }
+  ]
+}

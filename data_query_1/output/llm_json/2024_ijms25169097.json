@@ -1,0 +1,51 @@
+{
+  "source_pdf": "2024_ijms25169097.pdf",
+  "paper_meta": {
+    "Paper_title": "Assessment of DNA/RNA Defend Pro: An Inactivating Sample Collection Buffer for Enhanced Stability, Extraction-Free PCR, and Rapid Antigen Testing of Nasopharyngeal Swab Samples.",
+    "Year": "2024",
+    "DOI": "10.3390/ijms25169097",
+    "Paper_ID": "2024_ijms25169097"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Assessment of DNA/RNA Defend Pro: An Inactivating Sample Collection Buffer for Enhanced Stability, Extraction-Free PCR, and Rapid Antigen Testing of Nasopharyngeal Swab Samples",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": true,
+      "Downstream_compatible": true,
+      "Methods": [
+        "other:inactivating/stabilizing sample collection buffer (DNA/RNA Defend Pro, DRDP) enabling direct RT-qPCR without nucleic acid extraction"
+      ]
+    },
+    {
+      "Paper_title": "Assessment of DNA/RNA Defend Pro: An Inactivating Sample Collection Buffer for Enhanced Stability, Extraction-Free PCR, and Rapid Antigen Testing of Nasopharyngeal Swab Samples",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": true,
+      "Downstream_compatible": true,
+      "Methods": [
+        "other:DRDP-treated nasopharyngeal swab sample used for rapid antigen testing (RAT) (buffer preserves antigens and is compatible with RAT)"
+      ]
+    },
+    {
+      "Paper_title": "Assessment of DNA/RNA Defend Pro: An Inactivating Sample Collection Buffer for Enhanced Stability, Extraction-Free PCR, and Rapid Antigen Testing of Nasopharyngeal Swab Samples",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": true,
+      "Downstream_compatible": true,
+      "Methods": [
+        "other:low-pH inactivating/stabilizing collection buffer (DNA/RNA Defend Pro; DRDP) enabling direct RT-qPCR when sample input is limited to a stated fraction of total reaction volume (section 4.4)"
+      ]
+    },
+    {
+      "Paper_title": "Assessment of DNA/RNA Defend Pro: An Inactivating Sample Collection Buffer for Enhanced Stability, Extraction-Free PCR, and Rapid Antigen Testing of Nasopharyngeal Swab Samples",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": true,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:low-pH inactivating/stabilizing collection buffer (DRDP) requires neutralization prior to rapid antigen testing due to incompatibility with colloidal gold assays (section 4.3)"
+      ]
+    }
+  ]
+}

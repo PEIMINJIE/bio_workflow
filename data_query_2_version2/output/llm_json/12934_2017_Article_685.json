@@ -1,0 +1,67 @@
+{
+  "source_pdf": "12934_2017_Article_685.pdf",
+  "paper_meta": {
+    "Paper_title": "12934_2017_Article_685",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "957f9235eb"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Re-directing bacterial microcompartment systems to enhance recombinant expression of lysis protein E from bacteriophage \u03c6X174 in Escherichia coli",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Re-directing bacterial microcompartment systems to enhance recombinant expression of lysis protein E from bacteriophage \u03c6X174 in Escherichia coli",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Tween 20"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Provenance": "Page 4, 'Whole cell SDS-PAGE and Western blot': membranes blocked with 0.1% (v/v) Tween20 in TBS (blocking buffer for Western blot; not explicitly stated as lysis)."
+    },
+    {
+      "Paper_title": "Re-directing bacterial microcompartment systems to enhance recombinant expression of lysis protein E from bacteriophage \u03c6X174 in Escherichia coli",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "unspecified_downstream_assay"
+      ],
+      "Detergents_used_for_lysis": [
+        "unspecified_detergent"
+      ],
+      "Detergent_products_unresolved_for_lysis": [
+        "BPER-II",
+        "Empigen BB"
+      ],
+      "Provenance": "Page 4, 'Isolation of BMCs': cell pellets resuspended in 60% BPER-II and lysed (French press); multiple centrifugations and wash step reported. Abstract/Page 1 and Page 5 mention Empigen BB used during purification; Page 5 'Purification of E...' explicitly adds EBB detergent to lysate supernatant."
+    },
+    {
+      "Paper_title": "Re-directing bacterial microcompartment systems to enhance recombinant expression of lysis protein E from bacteriophage \u03c6X174 in Escherichia coli",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Re-directing bacterial microcompartment systems to enhance recombinant expression of lysis protein E from bacteriophage \u03c6X174 in Escherichia coli",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": []
+    }
+  ]
+}

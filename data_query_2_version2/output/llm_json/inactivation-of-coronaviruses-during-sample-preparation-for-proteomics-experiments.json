@@ -1,0 +1,25 @@
+{
+  "source_pdf": "inactivation-of-coronaviruses-during-sample-preparation-for-proteomics-experiments.pdf",
+  "paper_meta": {
+    "Paper_title": "inactivation-of-coronaviruses-during-sample-preparation-for-proteomics-experiments",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "90f955347a"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Inactivation of Coronaviruses during Sample Preparation for Proteomics Experiments",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PCR/qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "SDS",
+        "deoxycholate"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    }
+  ]
+}

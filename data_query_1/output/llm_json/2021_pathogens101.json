@@ -1,0 +1,81 @@
+{
+  "source_pdf": "2021_pathogens101.pdf",
+  "paper_meta": {
+    "Paper_title": "Direct Viral RNA Detection of SARS-CoV-2 and DENV in Inactivated Samples by Real-Time RT-qPCR: Implications for Diagnosis in Resource Limited Settings with Flavivirus Co-Circulation.",
+    "Year": "2021",
+    "DOI": "10.3390/pathogens10121558",
+    "Paper_ID": "2021_pathogens101"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Direct Viral RNA Detection of SARS-CoV-2 and DENV in Inactivated Samples by Real-Time RT-qPCR: Implications for Diagnosis in Resource Limited Settings with Flavivirus Co-Circulation",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "heat_lysis_or_inactivation"
+      ]
+    },
+    {
+      "Paper_title": "Direct Viral RNA Detection of SARS-CoV-2 and DENV in Inactivated Samples by Real-Time RT-qPCR: Implications for Diagnosis in Resource Limited Settings with Flavivirus Co-Circulation",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": true,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:chemical inactivation using DNA/RNA Shield (Zymo Research) prior to RT-qPCR"
+      ]
+    },
+    {
+      "Paper_title": "Direct Viral RNA Detection of SARS-CoV-2 and DENV in Inactivated Samples by Real-Time RT-qPCR: Implications for Diagnosis in Resource Limited Settings with Flavivirus Co-Circulation",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:RNA extraction and purification using Quick-Viral RNA Kit (Zymo Research) after chemical or heat inactivation"
+      ]
+    },
+    {
+      "Paper_title": "Direct Viral RNA Detection of SARS-CoV-2 and DENV in Inactivated Samples by Real-Time RT-qPCR: Implications for Diagnosis in Resource Limited Settings with Flavivirus Co-Circulation",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:clarification of viral cell culture supernatants by centrifugation prior to aliquoting/storage"
+      ]
+    },
+    {
+      "Paper_title": "Direct Viral RNA Detection of SARS-CoV-2 and DENV in Inactivated Samples by Real-Time RT-qPCR: Implications for Diagnosis in Resource Limited Settings with Flavivirus Co-Circulation",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "heat_lysis_or_inactivation"
+      ]
+    },
+    {
+      "Paper_title": "Direct Viral RNA Detection of SARS-CoV-2 and DENV in Inactivated Samples by Real-Time RT-qPCR: Implications for Diagnosis in Resource Limited Settings with Flavivirus Co-Circulation",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "other:chemical inactivation using DNA/RNA Shield transport medium"
+      ]
+    },
+    {
+      "Paper_title": "Direct Viral RNA Detection of SARS-CoV-2 and DENV in Inactivated Samples by Real-Time RT-qPCR: Implications for Diagnosis in Resource Limited Settings with Flavivirus Co-Circulation",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:no sample-prep protocol described on provided pages (references section only; Pathogens 2021, 10, 1558, pp. 13\u201314 of 14)"
+      ]
+    }
+  ]
+}

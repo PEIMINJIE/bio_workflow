@@ -1,0 +1,39 @@
+{
+  "source_pdf": "CGT-18-366.pdf",
+  "paper_meta": {
+    "Paper_title": "CGT-18-366",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "3b5dc8f6b4"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Clinical-grade Oncolytic Adenovirus Purification using Polysorbate 20 as an Alternative for Cell Lysis",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PCR/qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "Triton X-100",
+        "Polysorbate 20"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Clinical-grade Oncolytic Adenovirus Purification using Polysorbate 20 as an Alternative for Cell Lysis",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PCR/qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "Polysorbate 20",
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    }
+  ]
+}

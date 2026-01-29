@@ -1,0 +1,31 @@
+{
+  "source_pdf": "zam6755.pdf",
+  "paper_meta": {
+    "Paper_title": "zam6755",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "1182723993"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Lytic Myophage Abp53 Encodes Several Proteins Similar to Those Encoded by Host Acinetobacter baumannii and Phage phiKO2",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Lytic Myophage Abp53 Encodes Several Proteins Similar to Those Encoded by Host Acinetobacter baumannii and Phage phiKO2",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "source_pdf": "s00436-011-2798-1.pdf",
+  "paper_meta": {
+    "Paper_title": "s00436-011-2798-1",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "55c5ca7f51"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Anti-Trichomonas vaginalis activity of saponins from Quillaja, Passiflora, and Ilex species",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": []
+    }
+  ]
+}

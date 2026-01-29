@@ -1,0 +1,22 @@
+{
+  "source_pdf": "1-s2.0-S0166093408004321-main.pdf",
+  "paper_meta": {
+    "Paper_title": "1-s2.0-S0166093408004321-main",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "28626e51d3"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Purification of DNA from the cell-associated herpesvirus Marek\u2019s disease virus for 454 pyrosequencing using micrococcal nuclease digestion and polyethylene glycol precipitation",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "Sequencing"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": []
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "source_pdf": "2021_s12985-021-0.pdf",
+  "paper_meta": {
+    "Paper_title": "Comparison of SARS-CoV-2 indirect and direct RT-qPCR detection methods.",
+    "Year": "2021",
+    "DOI": "10.1186/s12985-021-01574-4",
+    "Paper_ID": "2021_s12985-021-0"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Comparison of SARS-CoV-2 indirect and direct RT-qPCR detection methods",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": true,
+      "Downstream_compatible": true,
+      "Methods": [
+        "other:direct (extraction-free) RT-qPCR from UTM"
+      ]
+    },
+    {
+      "Paper_title": "Comparison of SARS-CoV-2 indirect and direct RT-qPCR detection methods",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": true,
+      "Downstream_compatible": true,
+      "Methods": [
+        "enzyme_proteinaseK_or_other"
+      ]
+    },
+    {
+      "Paper_title": "Comparison of SARS-CoV-2 indirect and direct RT-qPCR detection methods",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "heat_lysis_or_inactivation"
+      ]
+    },
+    {
+      "Paper_title": "Comparison of SARS-CoV-2 indirect and direct RT-qPCR detection methods",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": true,
+      "Downstream_compatible": true,
+      "Methods": [
+        "detergent_lysis"
+      ]
+    }
+  ]
+}

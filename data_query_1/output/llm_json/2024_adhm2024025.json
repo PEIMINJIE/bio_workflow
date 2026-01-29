@@ -1,0 +1,52 @@
+{
+  "source_pdf": "2024_adhm2024025.pdf",
+  "paper_meta": {
+    "Paper_title": "Dried Blood Matrix as a New Material for the Detection of DNA Viruses.",
+    "Year": "2024",
+    "DOI": "10.1002/adhm.202402506",
+    "Paper_ID": "2024_adhm2024025"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Dried Blood Matrix as a New Material for the Detection of DNA Viruses.",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "heat_lysis_or_inactivation",
+        "other:dried blood matrix formation via blood drying (biphasic direct detection concept)"
+      ]
+    },
+    {
+      "Paper_title": "Dried Blood Matrix as a New Material for the Detection of DNA Viruses.",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "heat_lysis_or_inactivation"
+      ]
+    },
+    {
+      "Paper_title": "Dried Blood Matrix as a New Material for the Detection of DNA Viruses.",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:commercial extraction and purification kit (QIAamp DNA Blood kits; Mini/Midi)"
+      ]
+    },
+    {
+      "Paper_title": "Dried Blood Matrix as a New Material for the Detection of DNA Viruses",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:no protocol described on provided page (references/ending page only)"
+      ]
+    }
+  ]
+}

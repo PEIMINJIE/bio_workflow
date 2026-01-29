@@ -1,0 +1,63 @@
+{
+  "source_pdf": "2021_s41598-021-9.pdf",
+  "paper_meta": {
+    "Paper_title": "A molecular test based on RT-LAMP for rapid, sensitive and inexpensive colorimetric detection of SARS-CoV-2 in clinical samples.",
+    "Year": "2021",
+    "DOI": "10.1038/s41598-021-95799-6",
+    "Paper_ID": "2021_s41598-021-9"
+  },
+  "protocols": [
+    {
+      "Paper_title": "A molecular test based on RT-LAMP for rapid, sensitive and inexpensive colorimetric detection of SARS-CoV-2 in clinical samples",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:purified RNA extracted from nasopharyngeal (NP) fluid used as input for RT-LAMP benchmarking vs RT-PCR (RNA extraction method not described in provided pages)"
+      ]
+    },
+    {
+      "Paper_title": "A molecular test based on RT-LAMP for rapid, sensitive and inexpensive colorimetric detection of SARS-CoV-2 in clinical samples",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "heat_lysis_or_inactivation",
+        "other:saliva pre-treatment included heat inactivation followed by a brief centrifugation; supernatant diluted with TE prior to RT-LAMP (stated TE is LAMP-compatible)"
+      ]
+    },
+    {
+      "Paper_title": "A molecular test based on RT-LAMP for rapid, sensitive and inexpensive colorimetric detection of SARS-CoV-2 in clinical samples",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:RNA extracted from saliva using plasmid DNA miniprep columns (Zymo Research ZR Plasmid Miniprep-Classic Kit) and re-analyzed by RT-LAMP"
+      ]
+    },
+    {
+      "Paper_title": "A molecular test based on RT-LAMP for rapid, sensitive and inexpensive colorimetric detection of SARS-CoV-2 in clinical samples.",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "heat_lysis_or_inactivation",
+        "mechanical",
+        "other:column-based RNA extraction/purification (QIAGEN Viral RNA Mini Kit; QIAGEN RNeasy Mini Kit; Zymo plasmid miniprep columns; ethanol/salt washes)"
+      ]
+    },
+    {
+      "Paper_title": "A molecular test based on RT-LAMP for rapid, sensitive and inexpensive colorimetric detection of SARS-CoV-2 in clinical samples",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [],
+      "Provenance": "Provided page shows author contributions/competing interests/additional information; no sample-prep protocol described on this page."
+    }
+  ]
+}

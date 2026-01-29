@@ -1,0 +1,55 @@
+{
+  "source_pdf": "2021_hvab132.pdf",
+  "paper_meta": {
+    "Paper_title": "SwabExpress: An End-to-End Protocol for Extraction-Free COVID-19 Testing.",
+    "Year": "2021",
+    "DOI": "10.1093/clinchem/hvab132",
+    "Paper_ID": "2021_hvab132"
+  },
+  "protocols": [
+    {
+      "Paper_title": "SwabExpress: An End-to-End Protocol for Extraction-Free COVID-19 Testing",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "enzyme_proteinaseK_or_other",
+        "heat_lysis_or_inactivation"
+      ]
+    },
+    {
+      "Paper_title": "SwabExpress: An End-to-End Protocol for Extraction-Free COVID-19 Testing",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": true,
+      "Downstream_compatible": false,
+      "Methods": [
+        "detergent_lysis",
+        "other:rehydration/elution of dry nasal swab into low-TE buffer; evaluated for direct RT-qPCR compatibility"
+      ]
+    },
+    {
+      "Paper_title": "SwabExpress: An End-to-End Protocol for Extraction-Free COVID-19 Testing",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:automated magnetic-bead nucleic-acid extraction (Roche MagNA Pure 96; Thermo KingFisher Flex MagMAX Viral/Pathogen kit) used as extraction-based comparator"
+      ]
+    },
+    {
+      "Paper_title": "SwabExpress: An End-to-End Protocol for Extraction-Free COVID-19 Testing",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "enzyme_proteinaseK_or_other",
+        "heat_lysis_or_inactivation",
+        "other:dry anterior nares swab elution into low-TE buffer; direct RT\u2013qPCR from treated eluate (extraction-free)"
+      ]
+    }
+  ]
+}

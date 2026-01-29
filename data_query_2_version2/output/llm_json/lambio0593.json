@@ -1,0 +1,34 @@
+{
+  "source_pdf": "lambio0593.pdf",
+  "paper_meta": {
+    "Paper_title": "lambio0593",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "32f208ffa5"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Biological characteristics and whole-genome analysis of the potential probiotic, Lactobacillus reuteri S5",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Biological characteristics and whole-genome analysis of the Lactobacillus reuteri potential probiotic, S5",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "Sequencing"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [
+        "B1 lysate",
+        "B2 lysis buffer"
+      ]
+    }
+  ]
+}

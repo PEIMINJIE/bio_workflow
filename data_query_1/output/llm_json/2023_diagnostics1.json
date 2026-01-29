@@ -1,0 +1,41 @@
+{
+  "source_pdf": "2023_diagnostics1.pdf",
+  "paper_meta": {
+    "Paper_title": "Extraction-Free Detection of SARS-CoV-2 Viral RNA Using LumiraDx's RNA Star Complete Assay from Clinical Nasal Swabs Stored in a Novel Collection and Transport Medium.",
+    "Year": "2023",
+    "DOI": "10.3390/diagnostics13183010",
+    "Paper_ID": "2023_diagnostics1"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Extraction-Free Detection of SARS-CoV-2 Viral RNA Using LumiraDx\u2019s RNA Star Complete Assay from Clinical Nasal Swabs Stored in a Novel Collection and Transport Medium",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatible": true,
+      "Methods": [
+        "other:direct-add proprietary Extraction Buffer pre-processing (pipette-mix); no separate nucleic-acid extraction described for LumiraDx RSC workflow"
+      ]
+    },
+    {
+      "Paper_title": "Extraction-Free Detection of SARS-CoV-2 Viral RNA Using LumiraDx\u2019s RNA Star Complete Assay from Clinical Nasal Swabs Stored in a Novel Collection and Transport Medium",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:spin-column viral RNA extraction (QIAamp RNA Viral Mini Kit; lysis buffer + column-based purification) prior to RT-qPCR comparator testing"
+      ]
+    },
+    {
+      "Paper_title": "Extraction-Free Detection of SARS-CoV-2 Viral RNA Using LumiraDx\u2019s RNA Star Complete Assay from Clinical Nasal Swabs Stored in a Novel Collection and Transport Medium",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:No sample-preparation protocol described in the provided page image (page shows references/disclaimer only); extraction-free use is mentioned in title/abstract snippet but procedural details are not present here."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "source_pdf": "s13007-022-00860-8 (1).pdf",
+  "paper_meta": {
+    "Paper_title": "s13007-022-00860-8 (1)",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "0dbc656979"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Simple and efficient isolation of plant genomic DNA using magnetic ionic liquids",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PCR/qPCR"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Simple and efficient isolation of plant genomic DNA using magnetic ionic liquids",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PCR/qPCR"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Simple and efficient isolation of plant genomic DNA using magnetic ionic liquids",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PCR/qPCR"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Simple and efficient isolation of plant genomic DNA using magnetic ionic liquids",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PCR/qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "Tween 20"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Simple and efficient isolation of plant genomic DNA using magnetic ionic liquids",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PCR/qPCR",
+        "RT-PCR/RT-qPCR",
+        "Sequencing"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Provenance": {
+        "Protocol_summary_location": [
+          "Fig. 10 (Page 10 of 14): schematic of static and dispersive one-step lysis/DNA extraction using MILs and direct integration into qPCR buffer; optional desorption into Tris buffer then Qubit",
+          "Page 9 of 14, Discussion: describes static method (hydrophobic solvent pipetted onto tissue; incubation) and dispersive method (MIL dispersed in plant suspension; rapid lysis; DNA desorption into Tris buffer at elevated temperature or directly into qPCR assay); notes compatibility with sequencing/Qubit when desorbed into Tris buffer",
+          "Pages 7\u20139 of 14, Results/Figs. 5\u20139: DNA-enriched MIL/IL integrated into qPCR buffer without inhibiting reaction; standard curves; multiple plant tissues integrated into one-pot qPCR; comparison to commercial one-pot PCR"
+        ],
+        "Flag_rationales": {
+          "Wash_free": "Across the described MIL/IL lysis/extraction schematics and discussion (Fig. 10; Page 9), no wash/rinse steps are described as part of sample prep/lysis.",
+          "Centrifugation_free": "No centrifugation/spin steps are described in the schematic/discussion for MIL/IL-based lysis/extraction (Fig. 10; Page 9).",
+          "Heat_free": "Heat is explicitly used/mentioned in the approach (e.g., discussion mentions thermal desorption at 90 \u00b0C; also comparison notes heating/drying can improve recovery; Page 9)."
+        }
+      }
+    },
+    {
+      "Paper_title": "Simple and efficient isolation of plant genomic DNA using magnetic ionic liquids",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PCR/qPCR",
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "Tween 20"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Provenance": {
+        "Protocol_summary_location": [
+          "Pages 7\u20139 of 14 (Results/Discussion): describes direct integration of plant tissue plus MIL/IL into qPCR buffer enabling one-pot qPCR; notes amplification achieved and quantification performed",
+          "Page 11 of 14: states amplification efficiency for A. thaliana tissue coated with MIL and reacted in qPCR mix that includes 0.05% Tween20; describes real-time quantitative detection compatibility",
+          "Page 12 of 14, 'qPCR assays and conditions': describes one-pot PCR/qPCR reaction formulations containing MIL/IL and includes 0.05% Tween20 in the one-pot assays"
+        ],
+        "Flag_rationales": {
+          "Wash_free": "One-pot integration into qPCR is described without any wash steps (Pages 7\u20139; Page 12).",
+          "Centrifugation_free": "No centrifugation described for the one-pot qPCR integration method on these pages.",
+          "Heat_free": "Thermal cycling includes high-temperature steps and discussion includes elevated-temperature desorption; exceeds 40 \u00b0C (Pages 9 and 12)."
+        },
+        "Detergent_rationale": "Tween 20 is explicitly included in the one-pot qPCR reaction mix while using MIL/IL to lyse plant tissue (Page 11; Page 12)."
+      }
+    },
+    {
+      "Paper_title": "Simple and efficient isolation of plant genomic DNA using magnetic ionic liquids",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PCR/qPCR"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Simple and efficient isolation of plant genomic DNA using magnetic ionic liquids",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PCR/qPCR"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Simple and efficient isolation of plant genomic DNA using magnetic ionic liquids",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "CTAB",
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    }
+  ]
+}

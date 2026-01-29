@@ -1,0 +1,32 @@
+{
+  "source_pdf": "WJG-16-5752.pdf",
+  "paper_meta": {
+    "Paper_title": "WJG-16-5752",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "b486c61d68"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Expression and purification of a functional human hepatitis B virus polymerase",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "SDS",
+        "NP-40"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Expression and purification of a functional human hepatitis B virus polymerase",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": []
+    }
+  ]
+}

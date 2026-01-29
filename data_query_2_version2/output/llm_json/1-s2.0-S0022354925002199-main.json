@@ -1,0 +1,26 @@
+{
+  "source_pdf": "1-s2.0-S0022354925002199-main.pdf",
+  "paper_meta": {
+    "Paper_title": "1-s2.0-S0022354925002199-main",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "a0f3d5023a"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Streamlining viral safety in AAV manufacturing: Simultaneous cell lysis and viral inactivation using biodegradable detergents",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "unspecified_downstream_assay"
+      ],
+      "Detergents_used_for_lysis": [
+        "TDA-9",
+        "Polysorbate 20",
+        "Poloxamer 188"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "source_pdf": "2022_d2lc00434h.pdf",
+  "paper_meta": {
+    "Paper_title": "A sample-to-answer, quantitative real-time PCR system with low-cost, gravity-driven microfluidic cartridge for rapid detection of SARS-CoV-2, influenza A/B, and human papillomavirus 16/18.",
+    "Year": "2022",
+    "DOI": "10.1039/d2lc00434h",
+    "Paper_ID": "2022_d2lc00434h"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Development of Innovative Microfluidic Polymeric Technologies for Point-of-care & Integrated Diagnostics Devices",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:no experimental protocol described on provided pages (front matter: title/certification/contents/introduction heading only)"
+      ]
+    },
+    {
+      "Paper_title": "Development of Innovative Microfluidic Polymeric Technologies for Point-of-care & Integrated Diagnostics Devices (PhD thesis)",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:No specific sample-prep protocol described on provided pages; only general discussion of diagnostic cycle and possible preparation tasks (e.g., centrifugation, filtration, dilution, extraction) without an implemented procedure."
+      ]
+    },
+    {
+      "Paper_title": "Development of Innovative Microfluidic Polymeric Technologies for Point-of-care & Integrated Diagnostics Devices (PhD thesis, Dublin City University, 2010)",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:No explicit sample-preparation protocol described on provided pages; only high-level discussion of approaches (e.g., bacteria capture, lysis, RNA amplification/NASBA) and device concepts."
+      ]
+    },
+    {
+      "Paper_title": "A sample-to-answer, quantitative real-time PCR system with low-cost, gravity-driven microfluidic cartridge for rapid detection of SARS-CoV-2, influenza A/B, and human papillomavirus 16/18.",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:no sample-preparation protocol described on provided pages (content is thesis chapter text and references; no experimental workflow details)"
+      ]
+    },
+    {
+      "Paper_title": "A sample-to-answer, quantitative real-time PCR system with low-cost, gravity-driven microfluidic cartridge for rapid detection of SARS-CoV-2, influenza A/B, and human papillomavirus 16/18.",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:no explicit sample-prep protocol described on provided pages (general lab-on-a-chip overview; mentions that microfluidic devices can perform steps such as filtration, pre-concentration, washing, mixing, purification, isolation, separation; no concrete conditions)"
+      ]
+    },
+    {
+      "Paper_title": "A Point-of-care Microfluidic Sedimentation Cytometer (POC-SeCy) for Milk Quality and Bovine Mastitis Monitoring",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:centrifugal sedimentation in a rotating CD-like microfluidic disc to separate somatic cells (pellet) and fat (cream band) for measurement; no reagents/sample preparation reported"
+      ]
+    },
+    {
+      "Paper_title": "A Point-of-care Microfluidic Sedimentation Cytometer for Milk Quality and Bovine Mastitis Monitoring (Chapter 3, thesis excerpt shown)",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:gravity-/centrifugal sedimentation in microfluidic disc (sample loaded into inlet; disc spun to separate cream band and cell pellet for imaging-based cell counting)"
+      ]
+    },
+    {
+      "Paper_title": "A Point-of-care Microfluidic Sedimentation Cytometer for Milk Quality and Bovine Mastitis Monitoring",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:gravity-driven loading of raw milk into a CD-based microfluidic sedimentation cytometer (SeCy) followed by rotational sedimentation (disc spinning) and optical imaging/analysis of cream band and cell pellet"
+      ]
+    },
+    {
+      "Paper_title": "A Point-of-care Microfluidic Sedimentation Cytometer for Milk Quality and Bovine Mastitis Monitoring",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:centrifugal/microfluidic sedimentation (spinning to form cell pellet in channel)"
+      ]
+    }
+  ]
+}

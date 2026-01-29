@@ -1,0 +1,85 @@
+{
+  "source_pdf": "2022_jaca20223.pdf",
+  "paper_meta": {
+    "Paper_title": "A point-of-care SARS-CoV-2 test based on reverse transcription loop-mediated isothermal amplification without RNA extraction with diagnostic performance same as RT-PCR.",
+    "Year": "2022",
+    "DOI": "10.1016/j.aca.2022.339590",
+    "Paper_ID": "2022_jaca20223"
+  },
+  "protocols": [
+    {
+      "Paper_title": "A point-of-care SARS-CoV-2 test based on reverse transcription loop-mediated isothermal amplification without RNA extraction with diagnostic performance same as RT-PCR",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "heat_lysis_or_inactivation",
+        "mechanical"
+      ]
+    },
+    {
+      "Paper_title": "A point-of-care SARS-CoV-2 test based on reverse transcription loop-mediated isothermal amplification without RNA extraction with diagnostic performance same as RT-PCR",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "mechanical"
+      ]
+    },
+    {
+      "Paper_title": "A point-of-care SARS-CoV-2 test based on reverse transcription loop-mediated isothermal amplification without RNA extraction with diagnostic performance same as RT-PCR.",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "heat_lysis_or_inactivation",
+        "mechanical"
+      ]
+    },
+    {
+      "Paper_title": "A point-of-care SARS-CoV-2 test based on reverse transcription loop-mediated isothermal amplification without RNA extraction with diagnostic performance same as RT-PCR.",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "heat_lysis_or_inactivation",
+        "mechanical"
+      ]
+    },
+    {
+      "Paper_title": "A point-of-care SARS-CoV-2 test based on reverse transcription loop-mediated isothermal amplification without RNA extraction with diagnostic performance same as RT-PCR.",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatible": false,
+      "Methods": [
+        "mechanical"
+      ]
+    },
+    {
+      "Paper_title": "A point-of-care SARS-CoV-2 test based on reverse transcription loop-mediated isothermal amplification without RNA extraction with diagnostic performance same as RT-PCR.",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "mechanical",
+        "chelating_resin"
+      ]
+    },
+    {
+      "Paper_title": "A point-of-care SARS-CoV-2 test based on reverse transcription loop-mediated isothermal amplification without RNA extraction with diagnostic performance same as RT-PCR.",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:Direct (extraction-free) RT-LAMP workflow is referenced, but no sample-prep protocol details are described on the provided pages; mentions 'mechanical lysis' and an SOP in supplementary material (Appendix A) without procedural specifics."
+      ]
+    }
+  ]
+}

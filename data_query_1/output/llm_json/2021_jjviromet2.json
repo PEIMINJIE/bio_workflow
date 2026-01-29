@@ -1,0 +1,43 @@
+{
+  "source_pdf": "2021_jjviromet2.pdf",
+  "paper_meta": {
+    "Paper_title": "An in-well direct lysis method for rapid detection of SARS-CoV-2 by real time RT-PCR in eSwab specimens.",
+    "Year": "2021",
+    "DOI": "10.1016/j.jviromet.2021.114062",
+    "Paper_ID": "2021_jjviromet2"
+  },
+  "protocols": [
+    {
+      "Paper_title": "SARS-CoV-2 detection by extraction-free qRT-PCR for massive and rapid COVID-19 diagnosis during a pandemic in Armenia",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "heat_lysis_or_inactivation"
+      ]
+    },
+    {
+      "Paper_title": "SARS-CoV-2 detection by extraction-free qRT-PCR for massive and rapid COVID-19 diagnosis during a pandemic in Armenia",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "heat_lysis_or_inactivation",
+        "other:pelleting_by_centrifugation_and_resuspension"
+      ]
+    },
+    {
+      "Paper_title": "An in-well direct lysis method for rapid detection of SARS-CoV-2 by real time RT-PCR in eSwab specimens.",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "enzyme_proteinaseK_or_other",
+        "heat_lysis_or_inactivation"
+      ]
+    }
+  ]
+}

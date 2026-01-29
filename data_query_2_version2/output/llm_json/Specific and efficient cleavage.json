@@ -1,0 +1,29 @@
+{
+  "source_pdf": "Specific and efficient cleavage.pdf",
+  "paper_meta": {
+    "Paper_title": "Specific and efficient cleavage",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "abe31eeeb6"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Specific and efficient cleavage of fusion proteins by recombinant plum pox virus NIa protease",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Specific and efficient cleavage (Zheng et al., Protein Expression and Purification 57 (2008) 153\u2013162)",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": []
+    }
+  ]
+}

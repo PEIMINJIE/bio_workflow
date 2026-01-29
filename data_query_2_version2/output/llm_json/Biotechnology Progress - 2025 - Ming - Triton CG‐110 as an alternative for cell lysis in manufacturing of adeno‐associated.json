@@ -1,0 +1,48 @@
+{
+  "source_pdf": "Biotechnology Progress - 2025 - Ming - Triton CG\u2010110 as an alternative for cell lysis in manufacturing of adeno\u2010associated.pdf",
+  "paper_meta": {
+    "Paper_title": "Biotechnology Progress - 2025 - Ming - Triton CG\u2010110 as an alternative for cell lysis in manufacturing of adeno\u2010associated",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "7800fd665f"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Triton CG-110 as an alternative for cell lysis in manufacturing of adeno-associated virus-based gene therapy",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100",
+        "Tween 20",
+        "Tween 80",
+        "n-Dodecyl-\u03b2-D-maltoside (DDM)",
+        "Triton CG-110"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Triton CG-110 as an alternative for cell lysis in manufacturing of adeno-associated virus-based gene therapy",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100",
+        "Tween 20",
+        "Tween 80",
+        "n-Dodecyl-\u03b2-D-maltoside",
+        "Triton CG-110"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Provenance": [
+        "Abstract (page 1 snippet provided by user): candidate detergents tested for cell lysis include Triton X-100, Tween 20, Tween 80, n-Dodecyl-\u03b2-D-maltoside (DDM), and Triton CG-110.",
+        "Figure 4 caption and legend (PDF page 6 of 10 shown): harvest/clarification conditions include Triton X-100, Triton CG-110, and DDM; clarified cell lysate (CCL) generated using these detergents is further purified by affinity chromatography.",
+        "Figure 5 caption and legend (PDF page 7 of 10 shown): at-scale clarification and affinity chromatography performed for CCL generated using Triton X-100 and Triton CG-110 (with COHC).",
+        "Discussion text (PDF page 8 of 10 shown): explicitly states small-scale lysis tested Tween 20, Tween 80, DDM, and Triton CG-110; notes Tween 20 and Tween 80 were excluded due to high pressure during harvest/clarification.",
+        "Conclusion (PDF page 9 of 10 shown): summarizes that Triton CG-110 used with clarification filters achieved comparable performance to Triton X-100 during harvest and subsequent affinity chromatography."
+      ]
+    }
+  ]
+}

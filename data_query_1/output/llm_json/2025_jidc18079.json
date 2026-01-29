@@ -1,0 +1,54 @@
+{
+  "source_pdf": "2025_jidc18079.pdf",
+  "paper_meta": {
+    "Paper_title": "Development of nucleic acid extraction-free one-step real-time RT-PCR for diagnosis of SARS-CoV-2 infection.",
+    "Year": "2025",
+    "DOI": "10.3855/jidc.18079",
+    "Paper_ID": "2025_jidc18079"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Development of nucleic acid extraction-free one-step real-time RT-PCR for diagnosis of SARS-CoV-2 infection",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "detergent_lysis",
+        "other:chelators/buffering (EDTA, Tris)",
+        "other:carrier molecules (poly(A), glycogen, linear polyacrylamide)"
+      ]
+    },
+    {
+      "Paper_title": "Development of nucleic acid extraction-free one-step real-time RT-PCR for diagnosis of SARS-CoV-2 infection",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:RNA isolation using commercial kit (manufacturer protocol; details not provided on shown pages)"
+      ]
+    },
+    {
+      "Paper_title": "Development of nucleic acid extraction-free one-step real-time RT-PCR for diagnosis of SARS-CoV-2 infection",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:carrier preparation (linear polyacrylamide synthesis/precipitation; includes centrifugation and ethanol washing)"
+      ]
+    },
+    {
+      "Paper_title": "Development of nucleic acid extraction-free one-step real-time RT-PCR for diagnosis of SARS-CoV-2 infection.",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatible": true,
+      "Methods": [
+        "detergent_lysis",
+        "other:EDTA/Tris-buffer lysis solution with RNA carrier (poly(A); also discussed glycogen/LPA carriers)"
+      ]
+    }
+  ]
+}

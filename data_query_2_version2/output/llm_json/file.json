@@ -1,0 +1,38 @@
+{
+  "source_pdf": "file.pdf",
+  "paper_meta": {
+    "Paper_title": "file",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "3b9c358f36"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Strand Transfer and Elongation of HIV-1 Reverse Transcription Is Facilitated by Cell Factors In Vitro",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PCR/qPCR",
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Strand Transfer and Elongation of HIV-1 Reverse Transcription Is Facilitated by Cell Factors In Vitro",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PCR/qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    }
+  ]
+}

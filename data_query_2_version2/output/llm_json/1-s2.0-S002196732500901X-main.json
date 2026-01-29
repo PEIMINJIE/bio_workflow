@@ -1,0 +1,50 @@
+{
+  "source_pdf": "1-s2.0-S002196732500901X-main.pdf",
+  "paper_meta": {
+    "Paper_title": "1-s2.0-S002196732500901X-main",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "87a4bf06e5"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Integrating the affinity and anion-exchange purification of AAV8: how the selective enrichment of full capsids at the affinity capture step enhances the downstream processing of gene therapies",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100",
+        "deoxycholate",
+        "CTAB",
+        "Deviron C16",
+        "Deviron 13S9"
+      ],
+      "Detergent_products_unresolved_for_lysis": [
+        "AAV-MAX lysis buffer"
+      ]
+    },
+    {
+      "Paper_title": "Integrating the affinity and anion-exchange purification of AAV8: how the selective enrichment of full capsids at the affinity capture step enhances the downstream processing of gene therapies",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "CTAB",
+        "Triton X-100",
+        "sodium deoxycholate"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Integrating the affinity and anion-exchange purification of AAV8: how the selective enrichment of full capsids at the affinity capture step enhances the downstream processing of gene therapies",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": []
+    }
+  ]
+}

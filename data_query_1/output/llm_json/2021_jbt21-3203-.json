@@ -1,0 +1,32 @@
+{
+  "source_pdf": "2021_jbt21-3203-.pdf",
+  "paper_meta": {
+    "Paper_title": "Saliva \"Treat-and-Heat\" Triplex Reverse Transcription Loop-Mediated Isothermal Amplification Assay for SARS-CoV-2.",
+    "Year": "2021",
+    "DOI": "10.7171/jbt.21-3203-014",
+    "Paper_ID": "2021_jbt21-3203-"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Molecular Characterization of Increased Amplicon Lengths in SARS-CoV-2 Reverse Transcription Loop-Mediated Isothermal Amplification Assays",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "heat_lysis_or_inactivation",
+        "other:LAMP/RT-LAMP amplification (WarmStart Colorimetric LAMP) with evaluation of additives (e.g., guanidine hydrochloride, DMSO, GC-Melt, PVSA) and subsequent amplicon purification for sequencing/analysis"
+      ]
+    },
+    {
+      "Paper_title": "Molecular Characterization of Increased Amplicon Lengths in SARS-CoV-2 Reverse Transcription Loop-Mediated Isothermal Amplification Assays",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:RT-LAMP assay development/optimization and sequencing-based characterization of RT-LAMP amplicons; no explicit sample-prep protocol described on provided pages (Figures 4\u20135 and References/Acknowledgments pages)"
+      ]
+    }
+  ]
+}

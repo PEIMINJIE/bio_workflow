@@ -1,0 +1,21 @@
+{
+  "source_pdf": "2020_202008012.pdf",
+  "paper_meta": {
+    "Paper_title": "Comparison of media and standards for SARS-CoV-2 RT-qPCR without prior RNA preparation.",
+    "Year": "2020",
+    "DOI": "10.1101/2020.08.01.20166173",
+    "Paper_ID": "2020_202008012"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Comparison of media and standards for SARS-CoV-2 RT-qPCR without prior RNA preparation.",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:No experimental protocol described on provided pages (references section only; pages 14\u201315)."
+      ]
+    }
+  ]
+}

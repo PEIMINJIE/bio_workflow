@@ -1,0 +1,35 @@
+{
+  "source_pdf": "influenza-a-infection-of-primary-human-airway-epithelial-cells-up-regulates-proteins-related-to-purine-metabolism-and.pdf",
+  "paper_meta": {
+    "Paper_title": "influenza-a-infection-of-primary-human-airway-epithelial-cells-up-regulates-proteins-related-to-purine-metabolism-and",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "c4f6334f1f"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Influenza A Infection of Primary Human Airway Epithelial Cells Up-Regulates Proteins Related to Purine Metabolism and Ubiquitin-Related Signaling",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "Sequencing"
+      ],
+      "Detergents_used_for_lysis": [
+        "NP-40",
+        "deoxycholate",
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Influenza A Infection of Primary Human Airway Epithelial Cells Up-Regulates Proteins Related to Purine Metabolism and Ubiquitin-Related Signaling",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": []
+    }
+  ]
+}

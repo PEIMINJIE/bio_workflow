@@ -1,0 +1,14 @@
+Paper_ID,Best_protocol_ID,Best_protocol_score,Best_protocol_Tier,Best_protocol_provenance
+1055c68adb,3c2da7b2ca,100,Excluded,p.45 (Abstract)
+NaN,d6b8f29b97,100,Excluded,"Page 5, Results; Figure 2; Table 3"
+Lisac_2025_VJ_22_304,acd057207d,100,Excluded,Page 1 (Abstract); Page 2 (Background)
+Virology Journal (2025) 22:304,6c905d8502,100,Excluded,Page 4 of 15
+Virology Journal 22:304,56a2bcef89,100,Excluded,Page 11 (chemostat one-step growth description)
+351bf49cef,e30695bb09,100,Excluded,Page 13; Fig. 4C–F; Figure S2; Figure S3
+Virology Journal 21:268,4f0cafe371,100,Excluded,"Page 1, Abstract"
+Li_2024_VirologyJournal_21_268,1b858570e3,100,Excluded,"Page 3, Western blotting"
+"Li et al., Virology Journal 21:268 (2024)",93462e86de,80,Excluded,"Page 10, Fig. 4 (A–F), Virology Journal (2024) 21:268"
+Li_2024_VirologyJ_21_268,03424b7f75,100,Excluded,"Virology Journal (2024) 21:268, Page 13 (Conclusion)"
+"Microorganisms 2024, 12, 1285",6e98f33841,80,Excluded,"p.1, Abstract: “We compared the performance of template DNA extracted with silica column-based methods, reversed elution systems, and lysis-only methods either from diluted culture fluid or from a synthetic stool matrix…”; p.1, Abstract: “For total DNA isolated from culture fluid, resistance gene detection by qPCR was always possible, independent of the extraction method.”; p.2, Introduction: “Commercial kits for rapid isolation of DNA often use silica spin columns for DNA purification.… After a washing step, the bound DNA is eluted under low-salt conditions…”; p.1, Abstract: “qPCRs for the detection of K. pneumoniae strains carrying bla , bla , bla , and bla carbapenemase genes were developed.”"
+Microorganisms-12-1285,d4121917ba,80,Excluded,"p. 9, Section 3.5"
+Microorganisms_12_1285,e6f57536df,80,Excluded,"Microorganisms 2024, 12, 1285, p. 14, Figure 4 (right panel text and legend)"

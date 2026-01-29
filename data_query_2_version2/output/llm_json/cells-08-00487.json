@@ -1,0 +1,55 @@
+{
+  "source_pdf": "cells-08-00487.pdf",
+  "paper_meta": {
+    "Paper_title": "cells-08-00487",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "88bce882dc"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Endoplasmic Reticulum Detergent-Resistant Membranes Accommodate Hepatitis C Virus Proteins for Viral Assembly",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100",
+        "n-octyl-\u03b2-D-glucopyranoside"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Endoplasmic Reticulum Detergent-Resistant Membranes Accommodate Hepatitis C Virus Proteins for Viral Assembly",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Endoplasmic Reticulum Detergent-Resistant Membranes Accommodate Hepatitis C Virus Proteins for Viral Assembly",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100",
+        "n-octyl-\u03b2-D-glucopyranoside"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Endoplasmic Reticulum Detergent-Resistant Membranes Accommodate Hepatitis C Virus Proteins for Viral Assembly",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": []
+    }
+  ]
+}

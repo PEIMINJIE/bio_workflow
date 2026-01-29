@@ -1,0 +1,63 @@
+{
+  "source_pdf": "s12934-022-01766-9.pdf",
+  "paper_meta": {
+    "Paper_title": "s12934-022-01766-9",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "011aa8ba17"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Evaluation of factors influencing expression and extraction of recombinant bacteriophage endolysins in Escherichia coli",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100",
+        "Tween 20",
+        "NP-40",
+        "CHAPS",
+        "N-lauroylsarcosine (Sarkosyl)"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Evaluation of factors influencing expression and extraction of recombinant bacteriophage endolysins in Escherichia coli",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "N-lauroylsarcosine"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Evaluation of factors influencing expression and extraction of recombinant bacteriophage endolysins in Escherichia coli",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Evaluation of factors influencing expression and extraction of recombinant bacteriophage endolysins in Escherichia coli",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Tween 20",
+        "Triton X-100",
+        "NP-40",
+        "CHAPS",
+        "N-lauroylsarcosine"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    }
+  ]
+}

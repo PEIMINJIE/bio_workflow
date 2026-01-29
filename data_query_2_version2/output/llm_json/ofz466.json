@@ -1,0 +1,39 @@
+{
+  "source_pdf": "ofz466.pdf",
+  "paper_meta": {
+    "Paper_title": "ofz466",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "a18d0633fe"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Rapid, Sample-to-Answer Host Gene Expression Test to Diagnose Viral Infection",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "unspecified_detergent"
+      ],
+      "Detergent_products_unresolved_for_lysis": [
+        "Qvella FAST HR"
+      ]
+    },
+    {
+      "Paper_title": "Rapid, Sample-to-Answer Host Gene Expression Test to Diagnose Viral Infection",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [
+        "PAXgene Blood RNA tubes"
+      ]
+    }
+  ]
+}

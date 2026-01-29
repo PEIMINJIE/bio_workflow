@@ -1,0 +1,139 @@
+{
+  "source_pdf": "2021_202101292.pdf",
+  "paper_meta": {
+    "Paper_title": "Sensitive extraction-free SARS-CoV-2 RNA virus detection using a novel RNA preparation method.",
+    "Year": "2021",
+    "DOI": "10.1101/2021.01.29.21250790",
+    "Paper_ID": "2021_202101292"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Sensitive extraction-free SARS-CoV-2 RNA virus detection using a novel RNA preparation method",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "chelating_resin",
+        "heat_lysis_or_inactivation",
+        "other:lowTE/TED (TE-based buffer) with optional DMSO; direct RT-qPCR/RT-ddPCR from heat-inactivated Chelex-treated sample"
+      ]
+    },
+    {
+      "Paper_title": "Sensitive extraction-free SARS-CoV-2 RNA virus detection using a novel RNA preparation method",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "enzyme_proteinaseK_or_other"
+      ]
+    },
+    {
+      "Paper_title": "Sensitive extraction-free SARS-CoV-2 RNA virus detection using a novel RNA preparation method",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:conventional RNA extraction (easyMAG-CL / CDC RNA extraction referenced as comparator)"
+      ]
+    },
+    {
+      "Paper_title": "Sensitive extraction-free SARS-CoV-2 RNA virus detection using a novel RNA preparation method.",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "chelating_resin",
+        "heat_lysis_or_inactivation"
+      ]
+    },
+    {
+      "Paper_title": "Sensitive extraction-free SARS-CoV-2 RNA virus detection using a novel RNA preparation method.",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:commercial RNA extraction platform/kit (NucliSENS easyMAG; RNeasy/RNeasy Protect Saliva kits mentioned)"
+      ]
+    },
+    {
+      "Paper_title": "Sensitive extraction-free SARS-CoV-2 RNA virus detection using a novel RNA preparation method",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:protocol details not described on provided pages; only a table label referencing \"RNA-extraction\" is shown (Table 1, p.21)"
+      ]
+    },
+    {
+      "Paper_title": "Sensitive extraction-free SARS-CoV-2 RNA virus detection using a novel RNA preparation method",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "heat_lysis_or_inactivation",
+        "chelating_resin"
+      ]
+    },
+    {
+      "Paper_title": "Sensitive extraction-free SARS-CoV-2 RNA virus detection using a novel RNA preparation method",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "enzyme_proteinaseK_or_other"
+      ]
+    },
+    {
+      "Paper_title": "Sensitive extraction-free SARS-CoV-2 RNA virus detection using a novel RNA preparation method.",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "chelating_resin",
+        "heat_lysis_or_inactivation",
+        "other:lowTE/TED buffer-based preparation"
+      ]
+    },
+    {
+      "Paper_title": "Sensitive extraction-free SARS-CoV-2 RNA virus detection using a novel RNA preparation method.",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:commercial RNA extraction (RNeasy Protect Saliva Mini Kit)"
+      ]
+    },
+    {
+      "Paper_title": "Sensitive extraction-free SARS-CoV-2 RNA virus detection using a novel RNA preparation method.",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "enzyme_proteinaseK_or_other"
+      ]
+    },
+    {
+      "Paper_title": "Sensitive extraction-free SARS-CoV-2 RNA virus detection using a novel RNA preparation method",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "chelating_resin",
+        "heat_lysis_or_inactivation",
+        "other:saliva/virus sample treatment tested with Chelex in different diluents (e.g., water/TE/TED99) and additives (e.g., DMSO, urea, detergents such as Triton X-100/IGEPAL/Tween implied by labels), evaluated by RT-qPCR targets N1/N2/RPP30"
+      ]
+    }
+  ]
+}

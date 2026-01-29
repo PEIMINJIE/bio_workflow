@@ -1,0 +1,31 @@
+{
+  "source_pdf": "2020_genes1106066.pdf",
+  "paper_meta": {
+    "Paper_title": "Rapid Direct Nucleic Acid Amplification Test without RNA Extraction for SARS-CoV-2 Using a Portable PCR Thermocycler.",
+    "Year": "2020",
+    "DOI": "10.3390/genes11060664",
+    "Paper_ID": "2020_genes1106066"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Rapid Direct Nucleic Acid Amplification Test without RNA Extraction for SARS-CoV-2 Using a Portable PCR Thermocycler",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "other:use of PCR inhibitor-tolerant/enhanced one-step RT-qPCR mastermix enabling direct amplification from crude sputum/nasal exudate without RNA extraction (DIRECT-PCR; lysis/reverse transcription/amplification in a single-tube homogeneous reaction per Abstract; Pages 1\u20133)"
+      ]
+    },
+    {
+      "Paper_title": "Rapid Direct Nucleic Acid Amplification Test without RNA Extraction for SARS-CoV-2 Using a Portable PCR Thermocycler",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "other:direct RT-qPCR (single-tube) from crude respiratory matrices using inhibitor-resistant enzymes/reagents; no RNA purification"
+      ]
+    }
+  ]
+}

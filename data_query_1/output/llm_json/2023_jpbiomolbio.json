@@ -1,0 +1,75 @@
+{
+  "source_pdf": "2023_jpbiomolbio.pdf",
+  "paper_meta": {
+    "Paper_title": "Method versatility in RNA extraction-free PCR detection of SARS-CoV-2 in saliva samples.",
+    "Year": "2023",
+    "DOI": "10.1016/j.pbiomolbio.2023.06.004",
+    "Paper_ID": "2023_jpbiomolbio"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Method versatility in RNA extraction-free PCR detection of SARS-CoV-2 in saliva samples.",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "enzyme_proteinaseK_or_other",
+        "heat_lysis_or_inactivation"
+      ]
+    },
+    {
+      "Paper_title": "Method versatility in RNA extraction-free PCR detection of SARS-CoV-2 in saliva samples.",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "heat_lysis_or_inactivation"
+      ]
+    },
+    {
+      "Paper_title": "Method versatility in RNA extraction-free PCR detection of SARS-CoV-2 in saliva samples.",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "heat_lysis_or_inactivation",
+        "enzyme_proteinaseK_or_other"
+      ]
+    },
+    {
+      "Paper_title": "Method versatility in RNA extraction-free PCR detection of SARS-CoV-2 in saliva samples.",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "heat_lysis_or_inactivation",
+        "enzyme_proteinaseK_or_other"
+      ]
+    },
+    {
+      "Paper_title": "Method versatility in RNA extraction-free PCR detection of SARS-CoV-2 in saliva samples",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "enzyme_proteinaseK_or_other",
+        "heat_lysis_or_inactivation"
+      ]
+    },
+    {
+      "Paper_title": "Method versatility in RNA extraction-free PCR detection of SARS-CoV-2 in saliva samples",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "heat_lysis_or_inactivation"
+      ]
+    }
+  ]
+}

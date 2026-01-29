@@ -1,0 +1,21 @@
+{
+  "source_pdf": "2020_jjcv20201.pdf",
+  "paper_meta": {
+    "Paper_title": "Extraction-free SARS-CoV-2 detection by rapid RT-qPCR universal for all primary respiratory materials.",
+    "Year": "2020",
+    "DOI": "10.1016/j.jcv.2020.104579",
+    "Paper_ID": "2020_jjcv20201"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Extraction-free SARS-CoV-2 detection by rapid RT-qPCR universal for all primary respiratory materials",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "heat_lysis_or_inactivation"
+      ]
+    }
+  ]
+}

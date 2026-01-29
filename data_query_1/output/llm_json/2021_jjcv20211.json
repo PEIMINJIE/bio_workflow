@@ -1,0 +1,21 @@
+{
+  "source_pdf": "2021_jjcv20211.pdf",
+  "paper_meta": {
+    "Paper_title": "Extraction-free RT-LAMP to detect SARS-CoV-2 is less sensitive but highly specific compared to standard RT-PCR in 101 samples.",
+    "Year": "2021",
+    "DOI": "10.1016/j.jcv.2021.104764",
+    "Paper_ID": "2021_jjcv20211"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Extraction-free RT-LAMP to detect SARS-CoV-2 is less sensitive but highly specific compared to standard RT-PCR in 101 samples",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "heat_lysis_or_inactivation"
+      ]
+    }
+  ]
+}

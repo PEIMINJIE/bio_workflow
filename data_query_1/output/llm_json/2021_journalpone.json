@@ -1,0 +1,74 @@
+{
+  "source_pdf": "2021_journalpone.pdf",
+  "paper_meta": {
+    "Paper_title": "Extraction-free protocol combining proteinase K and heat inactivation for detection of SARS-CoV-2 by RT-qPCR.",
+    "Year": "2021",
+    "DOI": "10.1371/journal.pone.0247792",
+    "Paper_ID": "2021_journalpone"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Extraction-free protocol combining proteinase K and heat inactivation for detection of SARS-CoV-2 by RT-qPCR",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "enzyme_proteinaseK_or_other",
+        "heat_lysis_or_inactivation"
+      ]
+    },
+    {
+      "Paper_title": "Extraction-free protocol combining proteinase K and heat inactivation for detection of SARS-CoV-2 by RT-qPCR",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "heat_lysis_or_inactivation"
+      ]
+    },
+    {
+      "Paper_title": "Extraction-free protocol combining proteinase K and heat inactivation for detection of SARS-CoV-2 by RT-qPCR",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:automated RNA extraction (Chemagic 360-D) per manufacturer instructions"
+      ]
+    },
+    {
+      "Paper_title": "Extraction-free protocol combining proteinase K and heat inactivation for detection of SARS-CoV-2 by RT-qPCR",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "enzyme_proteinaseK_or_other",
+        "heat_lysis_or_inactivation"
+      ]
+    },
+    {
+      "Paper_title": "Extraction-free protocol combining proteinase K and heat inactivation for detection of SARS-CoV-2 by RT-qPCR",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "enzyme_proteinaseK_or_other",
+        "heat_lysis_or_inactivation"
+      ]
+    },
+    {
+      "Paper_title": "Extraction-free protocol combining proteinase K and heat inactivation for detection of SARS-CoV-2 by RT-qPCR",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "heat_lysis_or_inactivation"
+      ]
+    }
+  ]
+}

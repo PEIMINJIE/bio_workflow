@@ -1,0 +1,31 @@
+{
+  "source_pdf": "1-s2.0-S1045105605001296-main.pdf",
+  "paper_meta": {
+    "Paper_title": "1-s2.0-S1045105605001296-main",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "d7e7496167"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Evaluation of viral clearance in the production of HPV-16 L1 virus-like particles purified from insect cell cultures",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "NP-40"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Evaluation of viral clearance in the production of HPV-16 L1 virus-like particles purified from insect cell cultures",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": []
+    }
+  ]
+}

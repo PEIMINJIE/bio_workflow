@@ -1,0 +1,45 @@
+{
+  "source_pdf": "2022_s41598-022-0.pdf",
+  "paper_meta": {
+    "Paper_title": "Heat inactivation of clinical COVID-19 samples on an industrial scale for low risk and efficient high-throughput qRT-PCR diagnostic testing.",
+    "Year": "2022",
+    "DOI": "10.1038/s41598-022-06888-z",
+    "Paper_ID": "2022_s41598-022-0"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Improving the efficiency and effectiveness of an industrial SARS-CoV-2 diagnostic facility",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "heat_lysis_or_inactivation",
+        "other:direct-to-PCR workflow without RNA extraction (uses optimized buffer to overcome sample-mediated PCR inhibition; detailed protocol not shown on provided pages)"
+      ]
+    },
+    {
+      "Paper_title": "Improving the efficiency and effectiveness of an industrial SARS\u2011CoV\u20112 diagnostic facility",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "enzyme_proteinaseK_or_other",
+        "heat_lysis_or_inactivation",
+        "other:RNA extraction (RNAdvance Viral Kit) prior to RT-qPCR"
+      ]
+    },
+    {
+      "Paper_title": "Improving the efficiency and effectiveness of an industrial SARS\u2011CoV\u20112 diagnostic facility",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "heat_lysis_or_inactivation",
+        "other:direct-to-PCR (D2PCR) using heat-inactivated swab sample without lysis and RNA extraction"
+      ]
+    }
+  ]
+}

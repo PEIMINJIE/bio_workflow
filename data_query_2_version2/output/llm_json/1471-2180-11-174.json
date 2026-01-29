@@ -1,0 +1,38 @@
+{
+  "source_pdf": "1471-2180-11-174.pdf",
+  "paper_meta": {
+    "Paper_title": "1471-2180-11-174",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "0288f54438"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Factors influencing lysis time stochasticity in bacteriophage \u03bb",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Factors influencing lysis time stochasticity in bacteriophage \u03bb",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Factors influencing lysis time stochasticity in bacteriophage \u03bb",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "source_pdf": "agosto-et-al-2006-mammalian-reovirus-a-nonfusogenic-nonenveloped-virus-forms-size-selective-pores-in-a-model-membrane.pdf",
+  "paper_meta": {
+    "Paper_title": "agosto-et-al-2006-mammalian-reovirus-a-nonfusogenic-nonenveloped-virus-forms-size-selective-pores-in-a-model-membrane",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "48802a47ed"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Mammalian reovirus, a nonfusogenic nonenveloped virus, forms size-selective pores in a model membrane",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    }
+  ]
+}

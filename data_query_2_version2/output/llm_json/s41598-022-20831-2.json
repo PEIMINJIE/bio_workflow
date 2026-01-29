@@ -1,0 +1,31 @@
+{
+  "source_pdf": "s41598-022-20831-2.pdf",
+  "paper_meta": {
+    "Paper_title": "s41598-022-20831-2",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "d4167f7266"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Isolation and characterization of a Vibrio owensii phage phi50-12",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    },
+    {
+      "Paper_title": "Isolation and characterization of a Vibrio owensii phage phi50-12",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": []
+    }
+  ]
+}

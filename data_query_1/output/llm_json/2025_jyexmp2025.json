@@ -1,0 +1,64 @@
+{
+  "source_pdf": "2025_jyexmp2025.pdf",
+  "paper_meta": {
+    "Paper_title": "Evaluation of direct-to-PCR (D2P) method for molecular diagnosis of infectious diseases.",
+    "Year": "2025",
+    "DOI": "10.1016/j.yexmp.2025.104972",
+    "Paper_ID": "2025_jyexmp2025"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Evaluation of direct-to-PCR (D2P) method for molecular diagnosis of infectious diseases",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": true,
+      "Methods": [
+        "enzyme_proteinaseK_or_other",
+        "heat_lysis_or_inactivation"
+      ]
+    },
+    {
+      "Paper_title": "Evaluation of direct-to-PCR (D2P) method for molecular diagnosis of infectious diseases",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:silica column extraction (QIAGEN DNeasy Blood & Tissue; QIAamp Viral RNA) with wash steps"
+      ]
+    },
+    {
+      "Paper_title": "Evaluation of direct-to-PCR (D2P) method for molecular diagnosis of infectious diseases",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "enzyme_proteinaseK_or_other",
+        "other:magnetic bead-based extraction (KingFisher + MagMAX Viral/Pathogen kit) with wash steps"
+      ]
+    },
+    {
+      "Paper_title": "Evaluation of direct-to-PCR (D2P) method for molecular diagnosis of infectious diseases.",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:D2P extraction-free/direct-to-PCR method mentioned as using proprietary buffers to lyse cells directly; specific sample-prep steps (washes, centrifugation, heating) not described on provided pages (pp. 7\u201312; Discussion sections 4.1\u20134.2).",
+        "other:Comparator methods referenced (Qiagen silica column; KingFisher magnetic bead-based extraction) but without procedural details on provided pages (pp. 7\u201312; Tables 3\u20135 and associated text)."
+      ]
+    },
+    {
+      "Paper_title": "Evaluation of direct-to-PCR (D2P) method for molecular diagnosis of infectious diseases",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatible": false,
+      "Methods": [
+        "other:direct-to-PCR (D2P) extraction-free approach discussed at a high level; no specific sample-prep protocol steps provided in the supplied pages"
+      ]
+    }
+  ]
+}
