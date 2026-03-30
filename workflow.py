@@ -481,10 +481,10 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Bio + AI literature workflow for wash/heat/centrifuge-free protocols")
     parser.add_argument("--config", default="config.yaml", help="Path to config.yaml")
     parser.add_argument("--search", action="store_true", help="Run PubMed/Scholar search")
-    parser.add_argument("--download-pdfs", action="store_true", help="Download open-access PDFs into data/input/pdfs")
+    parser.add_argument("--download-pdfs", action="store_true", help="Download open-access PDFs into data_query_1/input/pdfs")
     parser.add_argument("--extract", action="store_true", help="Run PDF parsing + LLM extraction")
     parser.add_argument("--candidates", default="", help="Path to candidate_papers.csv")
-    parser.add_argument("--download-source", default="", help="CSV with PDF_URL (default: data/cache/search_results_raw.csv)")
+    parser.add_argument("--download-source", default="", help="CSV with PDF_URL (default: data_query_1/cache/search_results_raw.csv)")
 
     args = parser.parse_args()
     config_path = Path(args.config)
