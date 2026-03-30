@@ -27,7 +27,7 @@ search:
   download_overwrite: false
   download_pmc_fallback: true
   download_unpaywall: true
-  download_source_csv: data/cache/candidate_papers.csv
+  download_source_csv: data_query_1/cache/candidate_papers.csv
   download_use_url_field: true
   download_use_doi_resolver: true
   download_proxy_prefix: ""
