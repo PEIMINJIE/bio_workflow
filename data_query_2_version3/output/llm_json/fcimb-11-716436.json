@@ -1,0 +1,72 @@
+{
+  "source_pdf": "fcimb-11-716436.pdf",
+  "paper_meta": {
+    "Paper_title": "fcimb-11-716436",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "3f76a560df"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Evaluation of the SARS-CoV-2 Inactivation Efficacy Associated With Buffers From Three Kits Used on High-Throughput RNA Extraction Platforms",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": [
+        "QIAamp 96 Virus QIAcube HT Kit ACL buffer",
+        "QIAamp 96 Virus QIAcube HT Kit ATL buffer"
+      ]
+    },
+    {
+      "Paper_title": "Evaluation of the SARS-CoV-2 Inactivation Efficacy Associated With Buffers From Three Kits Used on High-Throughput RNA Extraction Platforms",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "unspecified_detergent"
+      ],
+      "Detergent_products_unresolved_for_lysis": [
+        "MagMAX Pathogen RNA/DNA kit Lysis binding buffer"
+      ]
+    },
+    {
+      "Paper_title": "Evaluation of the SARS-CoV-2 Inactivation Efficacy Associated With Buffers From Three Kits Used on High-Throughput RNA Extraction Platforms",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "unspecified_detergent"
+      ],
+      "Detergent_products_unresolved_for_lysis": [
+        "MagMAX viral/pathogen nucleic acid isolation kit Lysis binding buffer"
+      ]
+    },
+    {
+      "Paper_title": "Evaluation of the SARS-CoV-2 Inactivation Efficacy Associated With Buffers From Three Kits Used on High-Throughput RNA Extraction Platforms",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "Zwittergent"
+      ],
+      "Detergent_products_unresolved_for_lysis": [
+        "MagMAX Lysis Buffer"
+      ]
+    }
+  ]
+}

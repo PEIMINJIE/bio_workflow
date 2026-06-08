@@ -1,0 +1,24 @@
+{
+  "source_pdf": "1-s2.0-S0166093407004442-main.pdf",
+  "paper_meta": {
+    "Paper_title": "1-s2.0-S0166093407004442-main",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "69619de75b"
+  },
+  "protocols": [
+    {
+      "Paper_title": "A simplified method for the extraction of baculoviral DNA for PCR analysis: A practical application",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PCR/qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    }
+  ]
+}

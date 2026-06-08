@@ -1,0 +1,42 @@
+project:
+  name: data-query-2-version3
+  output_dir: data_query_2_version3/output
+  cache_dir: data_query_2_version3/cache
+search:
+  # Not used by --extract; present so config loads cleanly.
+  query: ""
+pdf:
+  input_dir: data_query_2_version3/input/pdfs
+  input_mode: image            # Claude vision — robust for scanned/figure-heavy PDFs
+  ocr_enabled: false           # no tesseract binary; OCR context is optional
+  ocr_language: eng
+  max_pages: 50
+  image_dpi: 200
+  image_batch_size: 6
+  debug_save_images: false
+  method_keywords:
+    - materials and methods
+    - methods
+    - methodology
+    - procedure
+    - protocol
+    - steps
+    - materials
+llm:
+  model: claude-opus-4-8
+  temperature: 0.0
+  safe_mode: true
+  safety_identifier: "user_dq2_v3"
+  max_chars_per_chunk: 8000
+  max_protocols_per_paper: 50
+  max_workers: 8             # 并行处理 8 篇
+  debug: false
+  debug_print: true
+  debug_minimize_json: false
+  save_raw_json: true
+extract:
+  stage: stage_2             # 与 data_query_2 v1/v2 一致:产出 Detergent/Capture 排名
+scoring:
+  t_threshold_c: 40
+  top_n: 20
+  label_mode: detergents_capture

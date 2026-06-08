@@ -1,0 +1,24 @@
+{
+  "source_pdf": "An in-well direct lysis method.pdf",
+  "paper_meta": {
+    "Paper_title": "An in-well direct lysis method",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "ba743b1bb9"
+  },
+  "protocols": [
+    {
+      "Paper_title": "An in-well direct lysis method for rapid detection of SARS-CoV-2 by real time RT-PCR in eSwab specimens",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "IGEPAL CA-630"
+      ],
+      "Detergent_products_unresolved_for_lysis": []
+    }
+  ]
+}

@@ -52,6 +52,26 @@ python workflow.py --extract
 ```
 Outputs are written to `data/output/`.
 
+### Run a separate PDF set with its own config
+
+To process an independent group of PDFs (without touching the default config or
+outputs), copy `config.yaml` to a new file, point it at that group, and pass it
+with `--config`. Example for the `data_query_2_version3` group:
+
+```bash
+python workflow.py --config config_dq2_v3.yaml --extract
+```
+
+In the per-group config set:
+- `pdf.input_dir` — folder holding that group's PDFs (e.g. `data_query_2_version3/input/pdfs`)
+- `project.output_dir` / `project.cache_dir` — a dedicated output/cache folder
+- `extract.stage` — `stage_1` (Method ranking) or `stage_2` (Detergent/Capture ranking)
+- `llm.model` — Claude model id (default `claude-opus-4-8`)
+- `llm.max_workers` — number of PDFs processed in parallel (mind API rate limits)
+
+No `candidate_papers.csv` is required — paper metadata falls back to what Claude
+extracts from the PDF itself.
+
 ## Download PDFs automatically (open access)
 
 Europe PMC returns open-access PDF links for some papers. You can download those directly:
