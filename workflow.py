@@ -274,7 +274,7 @@ def run_extract(config_path: Path, candidate_csv: Path | None = None) -> Path:
     def _process_pdf(pdf: Path) -> List[Dict[str, object]]:
         paper_meta = _resolve_paper_meta(pdf, candidates)
         max_pages = int(cfg.pdf.get("max_pages", 50))
-        model = str(cfg.llm.get("model", "gpt-4o-mini"))
+        model = str(cfg.llm.get("model", "claude-opus-4-8"))
         temperature = float(cfg.llm.get("temperature", 0.0))
         safe_mode = bool(cfg.llm.get("safe_mode", True))
         safety_identifier = str(cfg.llm.get("safety_identifier", "")).strip() or None

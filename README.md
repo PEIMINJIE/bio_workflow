@@ -5,7 +5,7 @@ This repo implements a complete workflow to search, parse, and score protocols f
 ## What it does
 - Search PubMed (and optionally Google Scholar via SerpAPI) for candidate papers
 - Parse PDFs (text + optional OCR for figures/tables)
-- Use OpenAI to extract protocol fields + provenance
+- Use Claude (Anthropic API) to extract protocol fields + provenance
 - Apply strict hard constraints and scoring
 - Export four tables:
   - `Protocol_Evidence_Scoring.csv`
@@ -22,7 +22,7 @@ pip install -r requirements.txt
 cp .env.example .env
 ```
 
-Edit `.env` with your OpenAI API key (and SerpAPI key if using Google Scholar).
+Edit `.env` with your Anthropic API key (`ANTHROPIC_API_KEY`) (and SerpAPI key if using Google Scholar).
 
 ## Configuration
 
@@ -95,7 +95,7 @@ Downloads go to `data/input/pdfs/`.
 - Europe PMC is free: set `search.use_europmc: true`.
 - OCR requires Tesseract installed on your system. If not present, OCR is skipped.
 - If Tesseract is missing, the pipeline falls back to text-only extraction.
-- If the OpenAI API blocks a prompt for safety, enable `llm.safe_mode: true` (default) to request non-actionable extraction.
+- If the Anthropic API blocks a prompt for safety, enable `llm.safe_mode: true` (default) to request non-actionable extraction.
 - To speed up extraction, set `llm.max_workers` (parallel PDFs). Watch API rate limits.
 - The LLM is responsible for evidence extraction and provenance tagging.
 

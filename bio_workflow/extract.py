@@ -6,9 +6,14 @@ import os
 import re
 from typing import Dict, List
 
-from openai import OpenAI
+import anthropic
 
 from .utils import chunk_text, stable_id
+
+
+# Anthropic requires an explicit max_tokens. Protocol extraction returns a JSON
+# array that can hold many protocols per paper, so give it generous headroom.
+MAX_OUTPUT_TOKENS = 8000
 
 
 PROMPT_TEMPLATE_STAGE_1_SAFE = """
@@ -182,6 +187,36 @@ def _parse_json_array(text: str) -> List[Dict[str, object]]:
     raise ValueError("Failed to parse JSON array from LLM response")
 
 
+def _supports_temperature(model: str) -> bool:
+    """Opus 4.8 / 4.7 reject `temperature` (400). Other Claude models accept it."""
+    normalized = model.lower()
+    return not (normalized.startswith("claude-opus-4-8") or normalized.startswith("claude-opus-4-7"))
+
+
+def _call_claude(
+    client: "anthropic.Anthropic",
+    model: str,
+    system: str,
+    messages: List[Dict[str, object]],
+    temperature: float,
+    safety_identifier: str | None,
+) -> str:
+    """Send one request to the Claude Messages API and return concatenated text."""
+    req: Dict[str, object] = {
+        "model": model,
+        "max_tokens": MAX_OUTPUT_TOKENS,
+        "system": system,
+        "messages": messages,
+    }
+    if safety_identifier:
+        req["metadata"] = {"user_id": safety_identifier}
+    if _supports_temperature(model):
+        req["temperature"] = temperature
+    resp = client.messages.create(**req)
+    text = "".join(block.text for block in resp.content if getattr(block, "type", None) == "text")
+    return text or "[]"
+
+
 def extract_protocols_from_text(
     text: str,
     model: str,
@@ -193,42 +228,33 @@ def extract_protocols_from_text(
     debug_print: bool = False,
     debug_minimize: bool = False,
 ) -> List[Dict[str, object]]:
-    api_key = os.getenv("OPENAI_API_KEY", "").strip()
+    api_key = os.getenv("ANTHROPIC_API_KEY", "").strip()
     if not api_key:
-        raise RuntimeError("OPENAI_API_KEY not set")
+        raise RuntimeError("ANTHROPIC_API_KEY not set")
 
-    client = OpenAI(api_key=api_key)
+    client = anthropic.Anthropic(api_key=api_key)
     if safety_identifier is None:
-        safety_identifier = os.getenv("OPENAI_SAFETY_IDENTIFIER", "").strip() or None
+        safety_identifier = os.getenv("ANTHROPIC_SAFETY_IDENTIFIER", "").strip() or None
     chunks = chunk_text(text, max_chars=8000)
 
     all_protocols: List[Dict[str, object]] = []
     for chunk_index, chunk in enumerate(chunks, start=1):
         prompt = _select_prompt(stage, safe_mode)
+        system = prompt.strip()
         messages = [
-            {"role": "system", "content": prompt.strip()},
             {"role": "user", "content": chunk},
         ]
-        req = {
-            "model": model,
-            "messages": messages,
-        }
-        if safety_identifier:
-            req["user"] = safety_identifier
-        if model.lower().startswith("gpt-5"):
-            pass
-        else:
-            req["temperature"] = temperature
+        # Logged messages include the system prompt for parity with prior logs.
+        debug_messages = [{"role": "system", "content": system}, *messages]
         try:
-            resp = client.chat.completions.create(**req)
-            content = resp.choices[0].message.content or "[]"
+            content = _call_claude(client, model, system, messages, temperature, safety_identifier)
         except Exception as exc:
             content = "[]"
             if debug_log_dir:
                 _write_debug_log(
                     debug_log_dir,
                     f"text_chunk_{chunk_index:03d}",
-                    messages,
+                    debug_messages,
                     content,
                     error=str(exc),
                 )
@@ -242,7 +268,7 @@ def extract_protocols_from_text(
                 _write_debug_log(
                     debug_log_dir,
                     f"text_chunk_{chunk_index:03d}",
-                    messages,
+                    debug_messages,
                     content,
                     error=str(exc),
                     minimize=debug_minimize,
@@ -255,7 +281,7 @@ def extract_protocols_from_text(
             _write_debug_log(
                 debug_log_dir,
                 f"text_chunk_{chunk_index:03d}",
-                messages,
+                debug_messages,
                 content if not debug_minimize else "",
                 parsed=debug_payload,
                 minimize=debug_minimize,
@@ -267,9 +293,12 @@ def extract_protocols_from_text(
     return all_protocols
 
 
-def _image_bytes_to_data_url(image_bytes: bytes, mime_type: str = "image/png") -> str:
-    encoded = base64.b64encode(image_bytes).decode("ascii")
-    return f"data:{mime_type};base64,{encoded}"
+def _image_block(image_bytes: bytes, media_type: str = "image/png") -> Dict[str, object]:
+    encoded = base64.standard_b64encode(image_bytes).decode("ascii")
+    return {
+        "type": "image",
+        "source": {"type": "base64", "media_type": media_type, "data": encoded},
+    }
 
 
 def extract_protocols_from_images(
@@ -293,15 +322,16 @@ def extract_protocols_from_images(
     if image_batch_size <= 0:
         image_batch_size = len(images)
 
-    api_key = os.getenv("OPENAI_API_KEY", "").strip()
+    api_key = os.getenv("ANTHROPIC_API_KEY", "").strip()
     if not api_key:
-        raise RuntimeError("OPENAI_API_KEY not set")
+        raise RuntimeError("ANTHROPIC_API_KEY not set")
 
-    client = OpenAI(api_key=api_key)
+    client = anthropic.Anthropic(api_key=api_key)
     if safety_identifier is None:
-        safety_identifier = os.getenv("OPENAI_SAFETY_IDENTIFIER", "").strip() or None
+        safety_identifier = os.getenv("ANTHROPIC_SAFETY_IDENTIFIER", "").strip() or None
 
     prompt = _select_prompt(stage, safe_mode)
+    system = prompt.strip()
     all_protocols: List[Dict[str, object]] = []
     for start in range(0, len(images), image_batch_size):
         batch = images[start : start + image_batch_size]
@@ -312,29 +342,21 @@ def extract_protocols_from_images(
             content.append({"type": "text", "text": f"Paper context (may be incomplete):\n{context_text}"})
         for i, image_bytes in enumerate(batch, start=start):
             content.append({"type": "text", "text": f"Page {i + 1}."})
-            content.append({"type": "image_url", "image_url": {"url": _image_bytes_to_data_url(image_bytes)}})
+            content.append(_image_block(image_bytes))
 
         messages = [
-            {"role": "system", "content": prompt.strip()},
             {"role": "user", "content": content},
         ]
-        req = {
-            "model": model,
-            "messages": messages,
-        }
-        if safety_identifier:
-            req["user"] = safety_identifier
-        if not model.lower().startswith("gpt-5"):
-            req["temperature"] = temperature
+        # Logged messages include the system prompt for parity with prior logs.
+        debug_messages = [{"role": "system", "content": system}, *messages]
         try:
-            resp = client.chat.completions.create(**req)
-            content_text = resp.choices[0].message.content or "[]"
+            content_text = _call_claude(client, model, system, messages, temperature, safety_identifier)
         except Exception as exc:
             content_text = "[]"
             if debug_log_path:
                 _write_debug_log_file(
                     debug_log_path,
-                    messages,
+                    debug_messages,
                     content_text,
                     error=str(exc),
                     image_labels=image_labels,
@@ -349,7 +371,7 @@ def extract_protocols_from_images(
             if debug_log_path:
                 _write_debug_log_file(
                     debug_log_path,
-                    messages,
+                    debug_messages,
                     content_text,
                     error=str(exc),
                     image_labels=image_labels,
@@ -363,7 +385,7 @@ def extract_protocols_from_images(
         if debug_log_path:
             _write_debug_log_file(
                 debug_log_path,
-                messages,
+                debug_messages,
                 content_text if not debug_minimize else "",
                 parsed=debug_payload,
                 image_labels=image_labels,
@@ -388,7 +410,7 @@ def _messages_for_debug(messages: List[Dict[str, object]], image_labels: List[st
         new_content = []
         image_index = 0
         for part in m["content"]:
-            if part.get("type") == "image_url":
+            if part.get("type") == "image":
                 label = image_labels[image_index] if image_index < len(image_labels) else "image"
                 new_content.append({"type": "image", "text": f"<image {label}>"})
                 image_index += 1

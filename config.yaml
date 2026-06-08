@@ -63,7 +63,7 @@ pdf:
     - steps
     - materials
 llm:
-  model: gpt-5.2
+  model: claude-opus-4-8
   temperature: 0.0
   safe_mode: true
   safety_identifier: "user_mj"
