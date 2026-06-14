@@ -1,0 +1,124 @@
+{
+  "source_pdf": "1-s2.0-S002196732500901X-main.pdf",
+  "paper_meta": {
+    "Paper_title": "1-s2.0-S002196732500901X-main",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "87a4bf06e5"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Integrating the affinity and anion-exchange purification of AAV8: how the selective enrichment of full capsids at the affinity capture step enhances the downstream processing of gene therapies",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100",
+        "deoxycholate",
+        "CTAB",
+        "unspecified_detergent"
+      ],
+      "Detergent_products_unresolved_for_lysis": [
+        "AAV-MAX lysis buffer",
+        "Deviron C16",
+        "Deviron 13S9"
+      ],
+      "Protocol_described": true,
+      "Evidence": "Cultures were ... exposed to various detergents ... Triton X100, sodium deoxycholate ... Deviron C16 ... Deviron 13S9 ... AAV-MAX lysis buffer, CTAB ... Following incubation, cell debris was removed by centrifugation",
+      "Source_page": "2-3"
+    },
+    {
+      "Paper_title": "Integrating the affinity and anion-exchange purification of AAV8: how the selective enrichment of full capsids at the affinity capture step enhances the downstream processing of gene therapies",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "The crude lysates were diafiltered against ... binding buffer ... using ... hollow fiber filter ... or a Pellicon 2 cassette",
+      "Source_page": "3"
+    },
+    {
+      "Paper_title": "Integrating the affinity and anion-exchange purification of AAV8: how the selective enrichment of full capsids at the affinity capture step enhances the downstream processing of gene therapies",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "After loading, the column was washed with ... binding buffer",
+      "Source_page": "3"
+    },
+    {
+      "Paper_title": "Integrating the affinity and anion-exchange purification of AAV8: how the selective enrichment of full capsids at the affinity capture step enhances the downstream processing of gene therapies",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "After loading, the column was washed with ... binding buffer. The elution was performed using a ... linear gradient",
+      "Source_page": "3"
+    },
+    {
+      "Paper_title": "Integrating the affinity and anion-exchange purification of AAV8: how the selective enrichment of full capsids at the affinity capture step enhances the downstream processing of gene therapies",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PCR/qPCR"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "samples ... were initially incubated with TurboDNase ... and treated at 95 \u00b0C ... subjected to Proteinase K digestion ... The resulting samples were analyzed by TaqMan qPCR",
+      "Source_page": "3"
+    },
+    {
+      "Paper_title": "Integrating the affinity and anion-exchange purification of AAV8: how the selective enrichment of full capsids at the affinity capture step enhances the downstream processing of gene therapies",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "CTAB",
+        "Triton X-100",
+        "sodium deoxycholate"
+      ],
+      "Detergent_products_unresolved_for_lysis": [
+        "AAV-MAX lysis mix"
+      ],
+      "Protocol_described": true,
+      "Evidence": "\u201ccell lysis and TFF\u2026 lysates were initially processed using centrifugal filters\u2026 lysates prepared with Triton X-100\u2026 Deviron 13-S9, and sodium deoxycholate\u2026 samples treated with CTAB\u201d",
+      "Source_page": "7"
+    },
+    {
+      "Paper_title": "Integrating the affinity and anion-exchange purification of AAV8: how the selective enrichment of full capsids at the affinity capture step enhances the downstream processing of gene therapies",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cThe affinity eluates were initially diluted in AEX loading buffer\u2026 and loaded onto a Capto Q adsorbent\u2026 achieved by implementing an extended linear gradient\u201d",
+      "Source_page": "8"
+    },
+    {
+      "Paper_title": "Integrating the affinity and anion-exchange purification of AAV8: how the selective enrichment of full capsids at the affinity capture step enhances the downstream processing of gene therapies",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": false,
+      "Evidence": "",
+      "Source_page": ""
+    }
+  ]
+}

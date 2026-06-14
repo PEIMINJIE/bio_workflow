@@ -1,4 +1,5 @@
 anthropic>=0.69.0
+openai>=1.30.0           # optional: only needed to run gpt-* models
 requests>=2.31.0
 pyyaml>=6.0.1
 pandas>=2.2.2

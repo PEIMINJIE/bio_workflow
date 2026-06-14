@@ -25,7 +25,8 @@ For each protocol mention, return a JSON object with these fields:
 Paper_title,
 Wash_free, Centrifugation_free, Heat_free,
 Downstream_compatible,
-Methods
+Methods,
+Protocol_described, Evidence, Source_page
 
 Rules:
 - Wash_free: true iff no wash/rinse/ethanol wash/buffer wash during sample prep.
@@ -56,6 +57,12 @@ Rules:
 - If a method mentions heat >40C for lysis/inactivation, assign heat_lysis_or_inactivation.
 - If a method mentions bead beating/sonication/freeze-thaw, assign mechanical.
 
+Provenance fields (Protocol_described, Evidence, Source_page):
+- Protocol_described: true iff the text actually describes a sample-prep/lysis protocol (methods/procedure); false otherwise (e.g., abstract/intro/results only, or a review).
+- Evidence: a SHORT non-actionable supporting quote/phrase from the text that justifies the flags/methods (no amounts, no step-by-step), under ~200 characters. If none, use "".
+- Source_page: the page number(s) the evidence comes from, taken from the "Page N." labels or "[PAGE N]" markers in the input (e.g., "7" or "7-8"). If unknown, use "".
+- If Protocol_described=false: set Evidence="" and Source_page="".
+
 Return ONLY a JSON array.
 """
 
@@ -75,6 +82,8 @@ Wash_free, Centrifugation_free, Heat_free, Downstream_compatibility,
 Detergents_used_for_lysis,        # detergents/surfactants ONLY (names)
 Detergent_products_unresolved_for_lysis,
 
+Protocol_described, Evidence, Source_page,
+
 Rules:
 
 A) 3F flags + Downstream compatibility
@@ -110,6 +119,12 @@ C) Detergent_products_unresolved_for_lysis (array of strings)
 - Do NOT infer its ingredients.
 - If the text says "detergent-based lysis" but does NOT name the detergent: set Detergents_used_for_lysis=["unspecified_detergent"].
 - If Protocol_described=false: set Detergents_used_for_lysis=[].
+
+D) Provenance (Protocol_described, Evidence, Source_page)
+- Protocol_described: true iff the text actually describes a sample-prep/lysis protocol (methods/procedure); false otherwise (e.g., abstract/intro/results only, or a review).
+- Evidence: a SHORT non-actionable supporting quote/phrase from the text that justifies the flags/detergents (no amounts, no step-by-step), under ~200 characters. If none, use "".
+- Source_page: the page number(s) the evidence comes from, taken from the "Page N." labels or "[PAGE N]" markers in the input (e.g., "7" or "7-8"). If unknown, use "".
+- If Protocol_described=false: set Evidence="" and Source_page="".
 
 Return ONLY a JSON array.
 """
@@ -126,6 +141,8 @@ Wash_free, Centrifugation_free, Heat_free, Downstream_compatibility,
 Detergents_used_for_lysis,        # detergents/surfactants ONLY (names)
 Detergent_products_unresolved_for_lysis,
 
+Protocol_described, Evidence, Source_page,
+
 Rules:
 
 A) 3F flags + Downstream compatibility
@@ -161,6 +178,12 @@ C) Detergent_products_unresolved_for_lysis (array of strings)
 - Do NOT infer its ingredients.
 - If the text says "detergent-based lysis" but does NOT name the detergent: set Detergents_used_for_lysis=["unspecified_detergent"].
 - If Protocol_described=false: set Detergents_used_for_lysis=[].
+
+D) Provenance (Protocol_described, Evidence, Source_page)
+- Protocol_described: true iff the text actually describes a sample-prep/lysis protocol (methods/procedure); false otherwise (e.g., abstract/intro/results only, or a review).
+- Evidence: a SHORT non-actionable supporting quote/phrase from the text that justifies the flags/detergents (no amounts, no step-by-step), under ~200 characters. If none, use "".
+- Source_page: the page number(s) the evidence comes from, taken from the "Page N." labels or "[PAGE N]" markers in the input (e.g., "7" or "7-8"). If unknown, use "".
+- If Protocol_described=false: set Evidence="" and Source_page="".
 
 Return ONLY a JSON array.
 """
@@ -217,6 +240,76 @@ def _call_claude(
     return text or "[]"
 
 
+def _provider_for_model(model: str) -> str:
+    """Pick the API provider from the model id. gpt*/o1/o3/o4 -> OpenAI, else Anthropic."""
+    m = model.lower()
+    if m.startswith(("gpt", "o1", "o3", "o4", "chatgpt")):
+        return "openai"
+    return "anthropic"
+
+
+def _make_client(provider: str):
+    if provider == "openai":
+        key = os.getenv("OPENAI_API_KEY", "").strip()
+        if not key:
+            raise RuntimeError("OPENAI_API_KEY not set")
+        try:
+            from openai import OpenAI
+        except Exception as exc:  # pragma: no cover
+            raise RuntimeError("openai package not installed; run `pip install openai`") from exc
+        return OpenAI(api_key=key)
+    key = os.getenv("ANTHROPIC_API_KEY", "").strip()
+    if not key:
+        raise RuntimeError("ANTHROPIC_API_KEY not set")
+    return anthropic.Anthropic(api_key=key)
+
+
+def _resolve_safety_identifier(provider: str, safety_identifier: str | None) -> str | None:
+    if safety_identifier is not None:
+        return safety_identifier
+    env = "OPENAI_SAFETY_IDENTIFIER" if provider == "openai" else "ANTHROPIC_SAFETY_IDENTIFIER"
+    return os.getenv(env, "").strip() or None
+
+
+def _call_openai(
+    client,
+    model: str,
+    system: str,
+    user_content: object,
+    temperature: float,
+    safety_identifier: str | None,
+) -> str:
+    """Send one request to the OpenAI Chat Completions API and return the text."""
+    messages = [
+        {"role": "system", "content": system},
+        {"role": "user", "content": user_content},
+    ]
+    req: Dict[str, object] = {"model": model, "messages": messages}
+    if safety_identifier:
+        req["user"] = safety_identifier
+    if not model.lower().startswith("gpt-5"):
+        req["temperature"] = temperature
+    resp = client.chat.completions.create(**req)
+    return resp.choices[0].message.content or "[]"
+
+
+def _call_llm(
+    provider: str,
+    client,
+    model: str,
+    system: str,
+    user_content: object,
+    temperature: float,
+    safety_identifier: str | None,
+) -> str:
+    """Dispatch a single completion to the right provider. `user_content` is a
+    plain string (text) or a list of provider-shaped content blocks (images)."""
+    if provider == "openai":
+        return _call_openai(client, model, system, user_content, temperature, safety_identifier)
+    messages = [{"role": "user", "content": user_content}]
+    return _call_claude(client, model, system, messages, temperature, safety_identifier)
+
+
 def extract_protocols_from_text(
     text: str,
     model: str,
@@ -228,26 +321,19 @@ def extract_protocols_from_text(
     debug_print: bool = False,
     debug_minimize: bool = False,
 ) -> List[Dict[str, object]]:
-    api_key = os.getenv("ANTHROPIC_API_KEY", "").strip()
-    if not api_key:
-        raise RuntimeError("ANTHROPIC_API_KEY not set")
-
-    client = anthropic.Anthropic(api_key=api_key)
-    if safety_identifier is None:
-        safety_identifier = os.getenv("ANTHROPIC_SAFETY_IDENTIFIER", "").strip() or None
+    provider = _provider_for_model(model)
+    client = _make_client(provider)
+    safety_identifier = _resolve_safety_identifier(provider, safety_identifier)
     chunks = chunk_text(text, max_chars=8000)
 
     all_protocols: List[Dict[str, object]] = []
     for chunk_index, chunk in enumerate(chunks, start=1):
         prompt = _select_prompt(stage, safe_mode)
         system = prompt.strip()
-        messages = [
-            {"role": "user", "content": chunk},
-        ]
         # Logged messages include the system prompt for parity with prior logs.
-        debug_messages = [{"role": "system", "content": system}, *messages]
+        debug_messages = [{"role": "system", "content": system}, {"role": "user", "content": chunk}]
         try:
-            content = _call_claude(client, model, system, messages, temperature, safety_identifier)
+            content = _call_llm(provider, client, model, system, chunk, temperature, safety_identifier)
         except Exception as exc:
             content = "[]"
             if debug_log_dir:
@@ -293,8 +379,10 @@ def extract_protocols_from_text(
     return all_protocols
 
 
-def _image_block(image_bytes: bytes, media_type: str = "image/png") -> Dict[str, object]:
+def _image_block(image_bytes: bytes, provider: str, media_type: str = "image/png") -> Dict[str, object]:
     encoded = base64.standard_b64encode(image_bytes).decode("ascii")
+    if provider == "openai":
+        return {"type": "image_url", "image_url": {"url": f"data:{media_type};base64,{encoded}"}}
     return {
         "type": "image",
         "source": {"type": "base64", "media_type": media_type, "data": encoded},
@@ -322,13 +410,9 @@ def extract_protocols_from_images(
     if image_batch_size <= 0:
         image_batch_size = len(images)
 
-    api_key = os.getenv("ANTHROPIC_API_KEY", "").strip()
-    if not api_key:
-        raise RuntimeError("ANTHROPIC_API_KEY not set")
-
-    client = anthropic.Anthropic(api_key=api_key)
-    if safety_identifier is None:
-        safety_identifier = os.getenv("ANTHROPIC_SAFETY_IDENTIFIER", "").strip() or None
+    provider = _provider_for_model(model)
+    client = _make_client(provider)
+    safety_identifier = _resolve_safety_identifier(provider, safety_identifier)
 
     prompt = _select_prompt(stage, safe_mode)
     system = prompt.strip()
@@ -342,15 +426,12 @@ def extract_protocols_from_images(
             content.append({"type": "text", "text": f"Paper context (may be incomplete):\n{context_text}"})
         for i, image_bytes in enumerate(batch, start=start):
             content.append({"type": "text", "text": f"Page {i + 1}."})
-            content.append(_image_block(image_bytes))
+            content.append(_image_block(image_bytes, provider))
 
-        messages = [
-            {"role": "user", "content": content},
-        ]
         # Logged messages include the system prompt for parity with prior logs.
-        debug_messages = [{"role": "system", "content": system}, *messages]
+        debug_messages = [{"role": "system", "content": system}, {"role": "user", "content": content}]
         try:
-            content_text = _call_claude(client, model, system, messages, temperature, safety_identifier)
+            content_text = _call_llm(provider, client, model, system, content, temperature, safety_identifier)
         except Exception as exc:
             content_text = "[]"
             if debug_log_path:
@@ -410,7 +491,7 @@ def _messages_for_debug(messages: List[Dict[str, object]], image_labels: List[st
         new_content = []
         image_index = 0
         for part in m["content"]:
-            if part.get("type") == "image":
+            if part.get("type") in ("image", "image_url"):
                 label = image_labels[image_index] if image_index < len(image_labels) else "image"
                 new_content.append({"type": "image", "text": f"<image {label}>"})
                 image_index += 1

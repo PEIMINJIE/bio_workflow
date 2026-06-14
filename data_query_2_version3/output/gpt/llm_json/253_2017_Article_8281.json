@@ -1,0 +1,85 @@
+{
+  "source_pdf": "253_2017_Article_8281.pdf",
+  "paper_meta": {
+    "Paper_title": "253_2017_Article_8281",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "83e42d0cb9"
+  },
+  "protocols": [
+    {
+      "Paper_title": "A novel method to recover inclusion body protein from recombinant E. coli fed-batch processes based on phage \u03a6X174-derived lysis protein E",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cThe expression of lysis gene E and thus the start of E-lysis was induced by increasing the cultivation temperature to 42 \u00b0C.\u201d",
+      "Source_page": "3"
+    },
+    {
+      "Paper_title": "A novel method to recover inclusion body protein from recombinant E. coli fed-batch processes based on phage \u03a6X174-derived lysis protein E",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cA \u2026 sample was centrifuged \u2026 The supernatant was put on \u221220 \u00b0C \u2026 while the pellet was washed, centrifuged again, and then dried \u2026 at 105 \u00b0C.\u201d",
+      "Source_page": "4"
+    },
+    {
+      "Paper_title": "A novel method to recover inclusion body protein from recombinant E. coli fed-batch processes based on phage \u03a6X174-derived lysis protein E",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cA duplicate of \u2026 fermentation broth was centrifuged \u2026 and washed once\u2026 samples taken before the E-lysis phase were homogenized\u201d",
+      "Source_page": "4"
+    },
+    {
+      "Paper_title": "A novel method to recover inclusion body protein from recombinant E. coli fed-batch processes based on phage \u03a6X174-derived lysis protein E",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201csamples \u2026 were \u2026 reduced on a heating block \u2026 in a buffer described by Laemmli (1970)\u2026 loaded onto sodium dodecyl sulfate polyacrylamide gel electrophoresis (SDS) gels\u201d",
+      "Source_page": "5"
+    },
+    {
+      "Paper_title": "A novel method to recover inclusion body protein from recombinant E. coli fed-batch processes based on phage \u03a6X174-derived lysis protein E",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cOne milliliter of each of these samples was centrifuged \u2026 The supernatant was discarded\u201d",
+      "Source_page": "5"
+    },
+    {
+      "Paper_title": "A novel method to recover inclusion body protein E. coli from recombinant fed-batch processes based on phage X174-derived lysis protein E",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": false,
+      "Evidence": "",
+      "Source_page": ""
+    }
+  ]
+}

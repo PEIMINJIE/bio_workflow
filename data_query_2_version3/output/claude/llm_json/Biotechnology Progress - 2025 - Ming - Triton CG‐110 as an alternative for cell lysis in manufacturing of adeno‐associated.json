@@ -1,0 +1,69 @@
+{
+  "source_pdf": "Biotechnology Progress - 2025 - Ming - Triton CG\u2010110 as an alternative for cell lysis in manufacturing of adeno\u2010associated.pdf",
+  "paper_meta": {
+    "Paper_title": "Biotechnology Progress - 2025 - Ming - Triton CG\u2010110 as an alternative for cell lysis in manufacturing of adeno\u2010associated",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "7800fd665f"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Triton CG-110 as an alternative for cell lysis in manufacturing of adeno-associated virus-based gene therapy",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "Triton X-100",
+        "Triton CG-110",
+        "Tween 20",
+        "Tween 80",
+        "n-Dodecyl-\u03b2-D-maltoside (DDM)"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Fresh detergent stock solution was added... kept on hot plate stirrers to maintain 120 RPM agitation and 37C during the lysis process",
+      "Source_page": "2"
+    },
+    {
+      "Paper_title": "Triton CG-110 as an alternative for cell lysis in manufacturing of adeno-associated virus-based gene therapy",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100",
+        "Triton CG-110",
+        "Tween 20",
+        "Tween 80",
+        "n-Dodecyl-\u03b2-D-maltoside (DDM)"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Fresh detergent stock solutions were added... agitation and temperature at 37C... cell lysate was ready as the loading material for at-scale clarification",
+      "Source_page": "2"
+    },
+    {
+      "Paper_title": "Triton CG-110 as an alternative for cell lysis in manufacturing of adeno-associated virus-based gene therapy",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "unspecified_downstream_assay"
+      ],
+      "Detergents_used_for_lysis": [
+        "Triton X-100",
+        "Tween 20",
+        "Tween 80",
+        "n-Dodecyl-\u03b2-D-maltoside",
+        "Triton CG-110"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "detergent is introduced during lysis, which is followed by clarification of the cell lysate, chromatographic capture and polishing steps",
+      "Source_page": "8-9"
+    }
+  ]
+}

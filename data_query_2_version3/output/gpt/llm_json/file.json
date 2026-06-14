@@ -1,0 +1,68 @@
+{
+  "source_pdf": "file.pdf",
+  "paper_meta": {
+    "Paper_title": "file",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "3b9c358f36"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Strand Transfer and Elongation of HIV-1 Reverse Transcription Is Facilitated by Cell Factors In Vitro",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PCR/qPCR",
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "ERT reaction ... sufficient to lyse virions (0.2 mM Triton X-100) ... products analysed by quantitative PCR; RT-PCR on viral RNA after addition of Triton X-100",
+      "Source_page": "2-3"
+    },
+    {
+      "Paper_title": "Strand Transfer and Elongation of HIV-1 Reverse Transcription Is Facilitated by Cell Factors In Vitro",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PCR/qPCR"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cextracts were ethanol precipitated, washed with 70% ethanol\u2026 Purified reaction products\u2026 added to\u2026 SYBR Green I\u2026 Platinum Taq polymerase\u201d",
+      "Source_page": "8"
+    },
+    {
+      "Paper_title": "Strand Transfer and Elongation of HIV-1 Reverse Transcription Is Facilitated by Cell Factors In Vitro",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cTriton X-100 detergent was added at room temperature to virions\u2026 [samples]\u2026 centrifuged at 100,000 g\u201d",
+      "Source_page": "8"
+    },
+    {
+      "Paper_title": "Strand Transfer and Elongation of HIV-1 Reverse Transcription Is Facilitated by Cell Factors In Vitro",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cCells\u2026 were washed and lysed using the Dounce homogeniser. The lysate was cleared by centrifugation\u2026 followed by ultracentrifugation\u201d",
+      "Source_page": "8"
+    }
+  ]
+}

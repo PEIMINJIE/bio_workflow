@@ -1,0 +1,119 @@
+{
+  "source_pdf": "Lipidomic study of intracellular.pdf",
+  "paper_meta": {
+    "Paper_title": "Lipidomic study of intracellular",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "59b125a31e"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Lipidomic study of intracellular Singapore grouper iridovirus",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201ccells were harvested to purify intracellular SGIV by two-step density gradient centrifugation using an iodixanol medium.\u201d",
+      "Source_page": "3"
+    },
+    {
+      "Paper_title": "Lipidomic study of intracellular Singapore grouper iridovirus",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100",
+        "n-dodecyl-\u03b1-D-maltoside",
+        "n-octyl-\u03b2-D-glucopyranoside"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cpurified particles were treated with ether and DDM.\u201d; \u201ctreatment with\u2026 Triton X-100\u2026 n-dodecyl-\u03b1-D maltoside (DDM) and n-octyl-\u03b2-D-glucopyranoside (OG).\u201d",
+      "Source_page": "3,5"
+    },
+    {
+      "Paper_title": "Lipidomic study of intracellular",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Infected GECs ... harvested ... by centrifugation ... The collected cells were washed twice with ice-cold TNE buffer ...",
+      "Source_page": "1"
+    },
+    {
+      "Paper_title": "Lipidomic study of intracellular",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "To purify intracellular viral particles ... pellets were homogenized ... layered on a discontinuous gradient ... centrifuged ... A visible virus band was collected and washed ...",
+      "Source_page": "1-2"
+    },
+    {
+      "Paper_title": "Lipidomic study of intracellular",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "n-dodecyl-\u03b1-D-maltoside"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "purified viruses ... incubated with ... n-dodecyl-\u03b1-D maltoside (DDM) ... then washed ... by centrifugation",
+      "Source_page": "2"
+    },
+    {
+      "Paper_title": "Lipidomic study of intracellular",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100",
+        "n-dodecyl-\u03b1-D-maltoside",
+        "n-octyl-\u03b2-D-glucopyranoside"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "treated ... with ... Triton X-100 ... DDM ... n-octyl-\u03b2-D-glucopyranoside (OG). ... detergents were removed by washing ... and centrifugation.",
+      "Source_page": "2"
+    },
+    {
+      "Paper_title": "Lipidomic study of intracellular",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "lipid extracts ... prepared ... For total lipid extraction ... chloroform/methanol ... The mixture was then centrifuged ... lower organic layer was collected",
+      "Source_page": "2-3"
+    },
+    {
+      "Paper_title": "Lipidomic study of intracellular",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [
+        "Vybrant Apoptosis Assay Kit"
+      ],
+      "Protocol_described": true,
+      "Evidence": "cells were distinguished by Annexin-V labelling and propidium iodide staining using a Vybrant\u2122 Apoptosis Assay Kit ... according to kit instructions.",
+      "Source_page": "3"
+    }
+  ]
+}

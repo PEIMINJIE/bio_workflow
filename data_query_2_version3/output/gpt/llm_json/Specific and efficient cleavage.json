@@ -1,0 +1,112 @@
+{
+  "source_pdf": "Specific and efficient cleavage.pdf",
+  "paper_meta": {
+    "Paper_title": "Specific and efficient cleavage",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "abe31eeeb6"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Specific and efficient cleavage of fusion proteins by recombinant plum pox virus NIa protease",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cThe cells were harvested by centrifugation, washed extensively with PBS\u2026 The cell pellets were resuspended\u2026 in\u2026 lysis buffer\u2026 then disrupted by French Press.\u201d",
+      "Source_page": "156"
+    },
+    {
+      "Paper_title": "Specific and efficient cleavage of fusion proteins by recombinant plum pox virus NIa protease",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cPretreatment\u2026 involved digestion with protease K, extraction with phenol\u2013chloroform, and precipitation with ethanol\u201d",
+      "Source_page": "156"
+    },
+    {
+      "Paper_title": "Specific and efficient cleavage of fusion proteins by recombinant plum pox virus NIa protease",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [
+        "TNT Coupled Reticulocyte Lysate System (Promega)"
+      ],
+      "Protocol_described": true,
+      "Evidence": "\u201cThe TNT Coupled Reticulocyte Lysate System (Promega) was applied to perform in vitro transcription and translation\u2026\u201d",
+      "Source_page": "156"
+    },
+    {
+      "Paper_title": "Specific and efficient cleavage of fusion proteins by recombinant plum pox virus NIa protease",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cThe samples were heated at 95 \u00b0C\u2026 resolved by SDS\u2013PAGE\u2026\u201d",
+      "Source_page": "156"
+    },
+    {
+      "Paper_title": "Specific and efficient cleavage of fusion proteins by recombinant plum pox virus NIa protease",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cThe effect of some denaturing reagents or detergents\u2026 analyzed\u2026 supplemented with\u2026 urea, Triton X-100, and SDS.\u201d",
+      "Source_page": "156"
+    },
+    {
+      "Paper_title": "Specific and efficient cleavage",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "substrate sG or sN ... was incubated in the reaction buffer in the presence of ... PPV NIa protease",
+      "Source_page": "158"
+    },
+    {
+      "Paper_title": "Specific and efficient cleavage",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "SDS",
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Effect of detergents ... We chose two common detergents, SDS ... and Triton X-100, to test their effects on the activity of PPV NIa protease.",
+      "Source_page": "159"
+    },
+    {
+      "Paper_title": "Specific and efficient cleavage",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": true,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Self-lysis test ... recombinant PPV NIa protease was incubated ... at 20 or 4 \u00b0C.",
+      "Source_page": "160"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "source_pdf": "1-s2.0-S0003269716302391-main.pdf",
+  "paper_meta": {
+    "Paper_title": "1-s2.0-S0003269716302391-main",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "26f83ea56a"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Endogenous RNase inhibitor contributes to stability of RNA in crude cell lysates: Applicability to RT-qPCR",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "IGEPAL CA-630"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "cells were washed twice with PBS and then exposed to CL Buffer... (0.25% Igepal CA-630)... at room temperature (~22 \u00b0C)... lysates... subjected to RT-qPCR analysis.",
+      "Source_page": "2"
+    },
+    {
+      "Paper_title": "Endogenous RNase inhibitor contributes to stability of RNA in crude cell lysates: Applicability to RT-qPCR",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "IGEPAL CA-630"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "The soluble fraction was obtained either by... ultracentrifugation (208,000 \u00d7 g)... or... Amicon Ultra... by centrifugation... after... CL Buffer (10 mM Tris-HCl... 0.25% Igepal CA-630...).",
+      "Source_page": "2"
+    },
+    {
+      "Paper_title": "Endogenous RNase inhibitor contributes to stability of RNA in crude cell lysates: Applicability to RT-qPCR",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "IGEPAL CA-630"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Cell lysates were prepared using a non-ionic detergent lysis buffer... 1% Igepal CA-630...",
+      "Source_page": "2"
+    },
+    {
+      "Paper_title": "Endogenous RNase inhibitor contributes to stability of RNA in crude cell lysates: Applicability to RT-qPCR",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [
+        "RNeasy Mini kit (Qiagen)"
+      ],
+      "Protocol_described": true,
+      "Evidence": "Total RNA was purified from cell lysates... using the RNeasy Mini kit (Qiagen) according to the \u201ccleanup\u201d protocol supplied with the kit.",
+      "Source_page": "2"
+    },
+    {
+      "Paper_title": "Endogenous RNase inhibitor contributes to stability of RNA in crude cell lysates: Applicability to RT-qPCR",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": false,
+      "Evidence": "",
+      "Source_page": ""
+    }
+  ]
+}

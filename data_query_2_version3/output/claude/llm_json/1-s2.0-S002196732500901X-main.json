@@ -1,0 +1,52 @@
+{
+  "source_pdf": "1-s2.0-S002196732500901X-main.pdf",
+  "paper_meta": {
+    "Paper_title": "1-s2.0-S002196732500901X-main",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "87a4bf06e5"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Integrating the affinity and anion-exchange purification of AAV8: how the selective enrichment of full capsids at the affinity capture step enhances the downstream processing of gene therapies",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PCR/qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "Triton X-100",
+        "sodium deoxycholate",
+        "CTAB",
+        "Deviron C16",
+        "Deviron 13S9"
+      ],
+      "Detergent_products_unresolved_for_lysis": [
+        "AAV-MAX Lysis Buffer"
+      ],
+      "Protocol_described": true,
+      "Evidence": "cultures aliquoted and exposed to various detergents...at 37 C for 2 hrs; cell debris removed by centrifugation at 4500xg for 30 min",
+      "Source_page": "2-3"
+    },
+    {
+      "Paper_title": "Integrating the affinity and anion-exchange purification of AAV8: how the selective enrichment of full capsids at the affinity capture step enhances the downstream processing of gene therapies",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "unspecified_downstream_assay"
+      ],
+      "Detergents_used_for_lysis": [
+        "sodium deoxycholate",
+        "CTAB",
+        "Triton X-100",
+        "Deviron 13-S9"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "lysates prepared with Triton X-100, Deviron 13-S9, and sodium deoxycholate; 0.25% w/v CTAB; salt-only conditions (NaCl, KCl)",
+      "Source_page": "7"
+    }
+  ]
+}

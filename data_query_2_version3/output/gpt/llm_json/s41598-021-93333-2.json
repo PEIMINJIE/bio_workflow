@@ -1,0 +1,152 @@
+{
+  "source_pdf": "s41598-021-93333-2.pdf",
+  "paper_meta": {
+    "Paper_title": "s41598-021-93333-2",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "e18779230c"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Direct RT\u2011PCR amplification of SARS\u2011CoV\u20112 from clinical samples using a concentrated viral lysis\u2011amplification buffer prepared with IGEPAL\u2011630",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "IGEPAL CA-630"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cclinical samples were treated\u2026with a concentrated solution containing IGEPAL\u2026 viral lysis-amplification buffer (vLAB)\u201d",
+      "Source_page": "2"
+    },
+    {
+      "Paper_title": "Direct RT\u2011PCR amplification of SARS\u2011CoV\u20112 from clinical samples using a concentrated viral lysis\u2011amplification buffer prepared with IGEPAL\u2011630",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "IGEPAL CA-630"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cinfected\u2026virus\u2026diluted in vLAB to evaluate virus inactivation\u2026incubated at room temperature (RT)\u201d",
+      "Source_page": "2"
+    },
+    {
+      "Paper_title": "Direct RT\u2011PCR amplification of SARS\u2011CoV\u20112 from clinical samples using a concentrated viral lysis\u2011amplification buffer prepared with IGEPAL\u2011630",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cclinical samples\u2026treated with Trizol followed by\u2026RNA isolation using the Qiagen RNeasy Mini Kit\u201d",
+      "Source_page": "2"
+    },
+    {
+      "Paper_title": "Direct RT\u2011PCR amplification of SARS\u2011CoV\u20112 from clinical samples using a concentrated viral lysis\u2011amplification buffer prepared with IGEPAL\u2011630",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [
+        "QIAamp Viral RNA Mini Kit",
+        "RNeasy Mini Kit",
+        "TRIzol",
+        "Panther Fusion System"
+      ],
+      "Protocol_described": true,
+      "Evidence": "\u201cpurified SARS\u2011CoV\u20112 RNA using QIAamp Viral RNA Mini Kit\u2026 clinical samples\u2026treated with Trizol\u2026RNeasy Mini Kit\u2026 Panther Fusion\u2026 sample lysis\u201d",
+      "Source_page": "2"
+    },
+    {
+      "Paper_title": "Direct RT\u2011PCR amplification of SARS\u2011CoV\u20112 from clinical samples using a concentrated viral lysis\u2011amplification buffer prepared with IGEPAL\u2011630",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "IGEPAL CA-630"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cdRT\u2011PCR\u2026we\u2026incubated RNA spiked in vLAB under different temperatures: 70 \u00b0C\u2026 and 95 \u00b0C\u2026\u201d",
+      "Source_page": "2"
+    },
+    {
+      "Paper_title": "Direct RT\u2011PCR amplification of SARS\u2011CoV\u20112 from clinical samples using a concentrated viral lysis\u2011amplification buffer prepared with IGEPAL\u2011630",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "IGEPAL CA-630"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cCt values from direct RT\u2011PCR\u2026 lysates of SARS\u2011CoV\u20112 virus in vLAB\u201d",
+      "Source_page": "5"
+    },
+    {
+      "Paper_title": "Direct RT\u2011PCR amplification of SARS\u2011CoV\u20112 from clinical samples using a concentrated viral lysis\u2011amplification buffer prepared with IGEPAL\u2011630",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "IGEPAL CA-630"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cDirect amplification\u2026 diluted\u2026infected\u2026with\u2026vLAB\u2026 then\u2026 tested direct amplification\u2026 by\u2026 RT\u2011PCR\u201d",
+      "Source_page": "5"
+    },
+    {
+      "Paper_title": "Direct RT\u2011PCR amplification of SARS\u2011CoV\u20112 from clinical samples using a concentrated viral lysis\u2011amplification buffer prepared with IGEPAL\u2011630",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "IGEPAL CA-630"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cDirect RT\u2011PCR\u2026 inactivated samples using\u202610\u00d7 vLAB\u2026 incubated 65 \u00b0C\u2026 used for RT\u2011PCR detection\u201d",
+      "Source_page": "6"
+    },
+    {
+      "Paper_title": "Direct RT\u2011PCR amplification of SARS\u2011CoV\u20112 from clinical samples using a concentrated viral lysis\u2011amplification buffer prepared with IGEPAL\u2011630",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "IGEPAL CA-630"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cviral lysis amplification buffer (vLAB) prepared with the nonionic detergent IGEPAL enables\u2026 detection\u2026 by direct\u2026 (dRT\u2011PCR)\u2026 we confirmed heat inactivation\u2026 cells\u2026 lysed and diluted in vLAB.\u201d",
+      "Source_page": "7-8"
+    }
+  ]
+}

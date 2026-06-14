@@ -1,0 +1,80 @@
+{
+  "source_pdf": "JCM.01713-20.pdf",
+  "paper_meta": {
+    "Paper_title": "JCM.01713-20",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "53f24d2991"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Analysis of Inactivation of SARS-CoV-2 by Specimen Transport Media, Nucleic Acid Extraction Reagents, Detergents, and Fixatives (JCM.01713-20)",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cvirus\u2026was treated with indicated reagent\u2026before being purified through\u2026filtration matrices\u2026or\u2026detergent removal spin columns (DRSC)\u201d",
+      "Source_page": "6"
+    },
+    {
+      "Paper_title": "Analysis of Inactivation of SARS-CoV-2 by Specimen Transport Media, Nucleic Acid Extraction Reagents, Detergents, and Fixatives (JCM.01713-20)",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201c2 M GITC/Tx TM\u2026 4 M GITC/Tx TM\u2026 40% GHCl/Tx TM\u2026; Tx, Triton X-100.\u201d",
+      "Source_page": "8"
+    },
+    {
+      "Paper_title": "Analysis of Inactivation of SARS-CoV-2 by Specimen Transport Media, Nucleic Acid Extraction Reagents, Detergents, and Fixatives (JCM.01713-20)",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cafter addition of\u2026absolute ethanol following\u2026contact time with AVL (the next step in the Qiagen Viral RNA Minikit manual)\u201d",
+      "Source_page": "7"
+    },
+    {
+      "Paper_title": "Analysis of Inactivation of SARS-CoV-2 by Specimen Transport Media, Nucleic Acid Extraction Reagents, Detergents, and Fixatives (JCM.01713-20)",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "Triton X-100",
+        "SDS",
+        "NP-40",
+        "Tween 20"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cevaluated Triton X-100, SDS, NP-40, and Tween 20\u2026 suitability for inactivation prior to nucleic acid testing\u2026tested using a\u2026qRT-PCR\u201d",
+      "Source_page": "8"
+    },
+    {
+      "Paper_title": "Analysis of Inactivation of SARS-CoV-2 by Specimen Transport Media, Nucleic Acid Extraction Reagents, Detergents, and Fixatives (JCM.01713-20)",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": false,
+      "Evidence": "",
+      "Source_page": ""
+    }
+  ]
+}

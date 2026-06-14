@@ -1,0 +1,69 @@
+{
+  "source_pdf": "influenza-a-infection-of-primary-human-airway-epithelial-cells-up-regulates-proteins-related-to-purine-metabolism-and.pdf",
+  "paper_meta": {
+    "Paper_title": "influenza-a-infection-of-primary-human-airway-epithelial-cells-up-regulates-proteins-related-to-purine-metabolism-and",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "c4f6334f1f"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Influenza A Infection of Primary Human Airway Epithelial Cells Up-Regulates Proteins Related to Purine Metabolism and Ubiquitin-Related Signaling",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "unspecified_downstream_assay"
+      ],
+      "Detergents_used_for_lysis": [
+        "NP-40",
+        "deoxycholate",
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "lysed for cytosolic proteins by adding NP-40 buffer...various buffers: 0.5% NP40 + 1% DOC + 0.1% SDS...high salt detergent-free buffer or 8 M urea",
+      "Source_page": "2"
+    },
+    {
+      "Paper_title": "Influenza A Infection of Primary Human Airway Epithelial Cells Up-Regulates Proteins Related to Purine Metabolism and Ubiquitin-Related Signaling",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "Sequencing"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "high salt detergent-free buffer extraction, followed by 8 M urea extraction (HSU)...does not contain detergents and allows for simplified downstream sample processing for mass spectrometry",
+      "Source_page": "2-3"
+    },
+    {
+      "Paper_title": "Influenza A Infection of Primary Human Airway Epithelial Cells Up-Regulates Proteins Related to Purine Metabolism and Ubiquitin-Related Signaling",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "NP-40"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "cells were treated with 0.5% NP40 buffer...to extract cytosolic proteins. Nuclei were then pelleted...washed 3 times in 12% sucrose in PBS, and lysed with HSU",
+      "Source_page": "3"
+    },
+    {
+      "Paper_title": "Influenza A Infection of Primary Human Airway Epithelial Cells Up-Regulates Proteins Related to Purine Metabolism and Ubiquitin-Related Signaling",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": false,
+      "Evidence": "",
+      "Source_page": ""
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "source_pdf": "nihms969527.pdf",
+  "paper_meta": {
+    "Paper_title": "nihms969527",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "a1c26413f9"
+  },
+  "protocols": [
+    {
+      "Paper_title": "The holin of bacteriophage lambda forms rings with large diameter",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": false,
+      "Evidence": "",
+      "Source_page": ""
+    },
+    {
+      "Paper_title": "The holin of bacteriophage lambda forms rings with large diameter",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Cell pellets were re-suspended in lysis buffer (10 mM Tris pH 7.9, 150 mM NaCl, 1 mM DTT, 1 mM EDTA, 1 mM PMSF) and lysed by passage through a French press.",
+      "Source_page": "2"
+    }
+  ]
+}

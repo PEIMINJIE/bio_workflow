@@ -1,0 +1,99 @@
+{
+  "source_pdf": "lee-et-al-2015-a-novel-bacteriophage-targeting-cronobacter-sakazakii-is-a-potential-biocontrol-agent-in-foods.pdf",
+  "paper_meta": {
+    "Paper_title": "lee-et-al-2015-a-novel-bacteriophage-targeting-cronobacter-sakazakii-is-a-potential-biocontrol-agent-in-foods",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "98857ac48e"
+  },
+  "protocols": [
+    {
+      "Paper_title": "A Novel Bacteriophage Targeting Cronobacter sakazakii Is a Potential Biocontrol Agent in Foods",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201ccollected samples were centrifuged\u2026 and the supernatants were filtered\u2026 [and] phage particles were precipitated\u2026 [and] CsCl density gradient ultracentrifugation\u2026 at 4\u00b0C\u201d",
+      "Source_page": "2"
+    },
+    {
+      "Paper_title": "A Novel Bacteriophage Targeting Cronobacter sakazakii Is a Potential Biocontrol Agent in Foods",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201c2% uranyl acetate\u2026 applied and washed with ultrapure water.\u201d",
+      "Source_page": "2"
+    },
+    {
+      "Paper_title": "A Novel Bacteriophage Targeting Cronobacter sakazakii Is a Potential Biocontrol Agent in Foods",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cphage particles were treated with DNase I and RNase A at 37\u00b0C\u2026 The overall isolation and purification\u2026 were conducted according to Wilcox et al. and Sambrook and Russell.\u201d",
+      "Source_page": "3"
+    },
+    {
+      "Paper_title": "A Novel Bacteriophage Targeting Cronobacter sakazakii Is a Potential Biocontrol Agent in Foods",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cphage stock\u2026 suspended in loading buffer\u2026 1.6% SDS\u201d",
+      "Source_page": "3"
+    },
+    {
+      "Paper_title": "A Novel Bacteriophage Targeting Cronobacter sakazakii Is a Potential Biocontrol Agent in Foods",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cdenatured phage proteins were\u2026 separated using\u2026 SDS-polyacrylamide gel\u2026 [gel pieces] destained\u2026 dehydrated\u2026 rehydrated\u2026 digested with trypsin\u201d",
+      "Source_page": "4"
+    },
+    {
+      "Paper_title": "A Novel Bacteriophage Targeting Cronobacter sakazakii Is a Potential Biocontrol Agent in Foods",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cReconstituted infant formula milk was prepared\u2026 [bacteria and] phage CR5\u2026 were added to\u2026 infant formula milk\u2026 incubated with shaking\u2026 viable cells\u2026 counted\u201d",
+      "Source_page": "4"
+    },
+    {
+      "Paper_title": "A Novel Bacteriophage Targeting Cronobacter sakazakii Is a Potential Biocontrol Agent in Foods",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": false,
+      "Evidence": "",
+      "Source_page": ""
+    }
+  ]
+}

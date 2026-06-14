@@ -1,0 +1,133 @@
+{
+  "source_pdf": "s13007-022-00860-8.pdf",
+  "paper_meta": {
+    "Paper_title": "s13007-022-00860-8",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "8b683c0f32"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Simple and efficient isolation of plant genomic DNA using magnetic ionic liquids",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "PCR/qPCR",
+        "Sequencing"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Pipette 6 \u00b5L of MIL or IL onto plant tissue; allow to incubate; collect liquid; add to qPCR buffer. One-step cell lysis without surfactants or elevated temperatures",
+      "Source_page": "2"
+    },
+    {
+      "Paper_title": "Simple and efficient isolation of plant genomic DNA using magnetic ionic liquids",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "PCR/qPCR"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Suspend plant tissue in Tris-based buffer; add MIL; disperse using a vortex; recover MIL with a magnet; pipette into qPCR buffer",
+      "Source_page": "2"
+    },
+    {
+      "Paper_title": "Simple and efficient isolation of plant genomic DNA using magnetic ionic liquids",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PCR/qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "Tween 20"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Grind plant tissue to powder; add tissue, MIL/IL, and qPCR buffer to reaction tube; reaction run at 60 C with 0.05% Tween20 and 2.5% DMSO",
+      "Source_page": "2, 6"
+    },
+    {
+      "Paper_title": "Simple and efficient isolation of plant genomic DNA using magnetic ionic liquids",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PCR/qPCR",
+        "Sequencing"
+      ],
+      "Detergents_used_for_lysis": [
+        "Tween 20"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "MIL or IL coats plant tissue to facilitate cell lysis; lysate integrated into qPCR; compatible with sequencing or Qubit; desorption at 90 C",
+      "Source_page": "9-12"
+    },
+    {
+      "Paper_title": "Simple and efficient isolation of plant genomic DNA using magnetic ionic liquids",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "qPCR/PCR"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "static one-step cell lysis and DNA extraction... MIL coated leaf was incubated at 25 C... 0.3 uL of MIL was added to the qPCR assay",
+      "Source_page": "13"
+    },
+    {
+      "Paper_title": "Simple and efficient isolation of plant genomic DNA using magnetic ionic liquids",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "qPCR/PCR"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "dispersive one-step lysis... DNA-enriched MIL was washed once with water... heating all recovered MIL at 90 C",
+      "Source_page": "13"
+    },
+    {
+      "Paper_title": "Simple and efficient isolation of plant genomic DNA using magnetic ionic liquids",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "unspecified_downstream_assay"
+      ],
+      "Detergents_used_for_lysis": [
+        "CTAB"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Conventional plant cell lysis... CTAB lysis buffer (2% CTAB...). After heating the tissue at 60 C... sample was centrifuged",
+      "Source_page": "13"
+    },
+    {
+      "Paper_title": "Simple and efficient isolation of plant genomic DNA using magnetic ionic liquids",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "unspecified_downstream_assay"
+      ],
+      "Detergents_used_for_lysis": [
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "SDS lysis was performed... ground plant tissue, PVPP, RNase... 50 mM Tris-EDTA... for 15 min at 100 C... centrifuged at 13,000 rpm",
+      "Source_page": "13"
+    }
+  ]
+}

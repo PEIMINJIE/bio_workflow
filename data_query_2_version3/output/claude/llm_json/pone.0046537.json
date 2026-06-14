@@ -1,0 +1,25 @@
+{
+  "source_pdf": "pone.0046537.pdf",
+  "paper_meta": {
+    "Paper_title": "pone.0046537",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "14071a49c5"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Isolation and Characterization of \u03c6km18p, a Novel Lytic Phage with Therapeutic Potential against Extensively Drug Resistant Acinetobacter baumannii",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "N-lauroylsarcosine (Sarkosyl)"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "lysed at 55C overnight by proteinase K in cell lysis buffer (...Tris, EDTA, 1% Sarcosine). After...block washed in TE buffer three times",
+      "Source_page": "2"
+    }
+  ]
+}

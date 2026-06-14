@@ -1,0 +1,141 @@
+{
+  "source_pdf": "sss.pdf",
+  "paper_meta": {
+    "Paper_title": "sss",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "a871c47a7f"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Oxidative stress transforms 3CLpro into an insoluble and more active form to promote SARS-CoV-2 replication",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cwe lysed the cells\u2026 with DISC IP buffer containing\u2026 Triton-X-100\u201d",
+      "Source_page": "5"
+    },
+    {
+      "Paper_title": "Oxidative stress transforms 3CLpro into an insoluble and more active form to promote SARS-CoV-2 replication",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cwe lysed the cells in RIPA buffer containing\u2026 SDS\u201d",
+      "Source_page": "5"
+    },
+    {
+      "Paper_title": "Oxidative stress transforms 3CLpro into an insoluble and more active form to promote SARS-CoV-2 replication",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cThe cells were lysed in DISC IP buffer\u2026 cleared with centrifugation\u2026 to obtain the soluble fractions.\u201d",
+      "Source_page": "6"
+    },
+    {
+      "Paper_title": "Oxidative stress transforms 3CLpro into an insoluble and more active form to promote SARS-CoV-2 replication",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [
+        "DISC IP buffer"
+      ],
+      "Protocol_described": true,
+      "Evidence": "\u201cThe cells were lysed in DISC IP buffer and cleared with centrifugation.\u201d",
+      "Source_page": "7"
+    },
+    {
+      "Paper_title": "Oxidative stress transforms 3CLpro into an insoluble and more active form to promote SARS-CoV-2 replication",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [
+        "passive lysis buffer (PLB, Promega)"
+      ],
+      "Protocol_described": true,
+      "Evidence": "\u201cAfter treatment, the cells were lysed in passive lysis buffer (PLB, Promega, E1941).\u201d",
+      "Source_page": "12"
+    },
+    {
+      "Paper_title": "Oxidative stress transforms 3CLpro into an insoluble and more active form to promote SARS-CoV-2 replication",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [
+        "TRIzol Reagent"
+      ],
+      "Protocol_described": true,
+      "Evidence": "\u201cRNA from these HEK293T cells is isolated by TRIzol\u2122 Reagent\u2026 subjected to reverse-transcription\u2026 For qPCR\u2026\u201d",
+      "Source_page": "12"
+    },
+    {
+      "Paper_title": "Oxidative stress transforms 3CLpro into an insoluble and more active form to promote SARS-CoV-2 replication",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100",
+        "deoxycholate",
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Cells were lysed in DISC IP buffer (\u20261% Triton-X-100\u2026). \u2026pellet was washed once\u2026 and dissolved in RIPA buffer (\u20260.5% sodium deoxycholate, 1% SDS, 1% Triton-X-100\u2026).",
+      "Source_page": "13"
+    },
+    {
+      "Paper_title": "Oxidative stress transforms 3CLpro into an insoluble and more active form to promote SARS-CoV-2 replication",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "After treatment, the cells were lysed in DISC IP buffer, and the lysates were clarified with centrifugation\u2026",
+      "Source_page": "13"
+    },
+    {
+      "Paper_title": "Oxidative stress transforms 3CLpro into an insoluble and more active form to promote SARS-CoV-2 replication",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Cells were lysed in DISC IP buffer, and the lysates were clarified with centrifugation\u2026 complexes were centrifuged\u2026 and washed with DISC washing buffer\u2026",
+      "Source_page": "13"
+    }
+  ]
+}

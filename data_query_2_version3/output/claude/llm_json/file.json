@@ -1,0 +1,54 @@
+{
+  "source_pdf": "file.pdf",
+  "paper_meta": {
+    "Paper_title": "file",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "3b9c358f36"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Strand Transfer and Elongation of HIV-1 Reverse Transcription Is Facilitated by Cell Factors In Vitro",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PCR/qPCR",
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "virions delipidated with low concentrations of non-ionic detergent; lyse virions (0.2 mM Triton X-100); incubated at 37C; ultracentrifugation",
+      "Source_page": "2-3"
+    },
+    {
+      "Paper_title": "Strand Transfer and Elongation of HIV-1 Reverse Transcription Is Facilitated by Cell Factors In Vitro",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Cells grown to near-confluence were washed and lysed using the Dounce homogeniser. The lysate was cleared by centrifugation ... followed by ultracentrifugation",
+      "Source_page": "1"
+    },
+    {
+      "Paper_title": "Strand Transfer and Elongation of HIV-1 Reverse Transcription Is Facilitated by Cell Factors In Vitro",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Triton X-100 detergent was added at room temperature to virions ... then immediately diluted ... and centrifuged at 100,000 g for 2 h",
+      "Source_page": "1"
+    }
+  ]
+}

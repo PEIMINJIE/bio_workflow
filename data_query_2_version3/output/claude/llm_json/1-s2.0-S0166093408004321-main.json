@@ -1,0 +1,59 @@
+{
+  "source_pdf": "1-s2.0-S0166093408004321-main.pdf",
+  "paper_meta": {
+    "Paper_title": "1-s2.0-S0166093408004321-main",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "28626e51d3"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Purification of DNA from the cell-associated herpesvirus Marek's disease virus for 454 pyrosequencing using micrococcal nuclease digestion and polyethylene glycol precipitation",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "Sequencing"
+      ],
+      "Detergents_used_for_lysis": [
+        "Triton X-100",
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "cell pellet resuspended in cold permeabilization buffer [...1% Triton X-100]; ...0.5% SDS... viral DNA released by incubation at 50\u00b0C; suitable for pyrosequencing",
+      "Source_page": "3"
+    },
+    {
+      "Paper_title": "Purification of DNA from the cell-associated herpesvirus Marek's disease virus for 454 pyrosequencing using micrococcal nuclease digestion and polyethylene glycol precipitation",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PCR/qPCR",
+        "Sequencing"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [
+        "QIAamp DNA Mini Kit"
+      ],
+      "Protocol_described": true,
+      "Evidence": "treated with proteolytic enzymes at 56\u00b0C; ethanol added; DNA purified by affinity chromatography; ethanol/salt washes",
+      "Source_page": "2"
+    },
+    {
+      "Paper_title": "Purification of DNA from the cell-associated herpesvirus Marek's disease virus for 454 pyrosequencing using micrococcal nuclease digestion and polyethylene glycol precipitation",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "Sequencing"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": false,
+      "Evidence": "",
+      "Source_page": ""
+    }
+  ]
+}

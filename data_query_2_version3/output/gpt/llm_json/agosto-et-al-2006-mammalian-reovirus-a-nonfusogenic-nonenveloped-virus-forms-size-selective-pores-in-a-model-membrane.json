@@ -1,0 +1,123 @@
+{
+  "source_pdf": "agosto-et-al-2006-mammalian-reovirus-a-nonfusogenic-nonenveloped-virus-forms-size-selective-pores-in-a-model-membrane.pdf",
+  "paper_meta": {
+    "Paper_title": "agosto-et-al-2006-mammalian-reovirus-a-nonfusogenic-nonenveloped-virus-forms-size-selective-pores-in-a-model-membrane",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "48802a47ed"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Mammalian reovirus, a nonfusogenic nonenveloped virus, forms size-selective pores in a model membrane",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Hemolysis reactions... incubated at 37\u00b0C... centrifuged... to pellet unlysed cells... detergent reaction... containing 1% Triton X-100",
+      "Source_page": "5"
+    },
+    {
+      "Paper_title": "Mammalian reovirus, a nonfusogenic nonenveloped virus, forms size-selective pores in a model membrane",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Ghosts were made by lysing cells hypotonically... and washing three to four times... ghosts were pelleted at 16,000 \u00d7 g",
+      "Source_page": "5"
+    },
+    {
+      "Paper_title": "Mammalian reovirus, a nonfusogenic nonenveloped virus, forms size-selective pores in a model membrane",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Ghosts resuspended in... lysis buffer were resealed... incubation on ice... then at 37\u00b0C... Resealed ghosts (RGs) were washed",
+      "Source_page": "5"
+    },
+    {
+      "Paper_title": "Mammalian reovirus, a nonfusogenic nonenveloped virus, forms size-selective pores in a model membrane",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "detergent reaction... containing 1% Triton X-100",
+      "Source_page": "5"
+    },
+    {
+      "Paper_title": "Mammalian reovirus, a nonfusogenic nonenveloped virus, forms size-selective pores in a model membrane",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "PEG washout... reactions were centrifuged... washed by gently resuspending... centrifuged... resuspended... and centrifuged",
+      "Source_page": "5"
+    },
+    {
+      "Paper_title": "Mammalian reovirus, a nonfusogenic nonenveloped virus, forms size-selective pores in a model membrane",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Leakage from RGs... reactions... incubated at 37\u00b0C... chilled on ice... diluted... and analyzed by flow cytometry",
+      "Source_page": "5"
+    },
+    {
+      "Paper_title": "Mammalian reovirus, a nonfusogenic nonenveloped virus, forms size-selective pores in a model membrane",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "reaction end points were spotted... covered with a coverslip, and imaged immediately",
+      "Source_page": "6"
+    },
+    {
+      "Paper_title": "Mammalian reovirus, a nonfusogenic nonenveloped virus, forms size-selective pores in a model membrane",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Trypsin sensitivity of \u03bc1... digestion... on ice... Samples were centrifuged",
+      "Source_page": "6"
+    },
+    {
+      "Paper_title": "Mammalian reovirus, a nonfusogenic nonenveloped virus, forms size-selective pores in a model membrane",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [
+        "Laemmli sample buffer"
+      ],
+      "Protocol_described": true,
+      "Evidence": "Density Sedimentation... layered atop... Percoll... Gradients were centrifuged... tubes were washed once... then boiled with 1\u00d7 Laemmli sample buffer",
+      "Source_page": "6"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "source_pdf": "J Eukaryotic Microbiology - 2008 - AKUNYILI - Ingestion without Inactivation of Bacteriophages by Tetrahymena.pdf",
+  "paper_meta": {
+    "Paper_title": "J Eukaryotic Microbiology - 2008 - AKUNYILI - Ingestion without Inactivation of Bacteriophages by Tetrahymena",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "d06ccb6917"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Ingestion without Inactivation of Bacteriophages by Tetrahymena",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Preparation of cell-free medium (CFM)... cells were removed... by centrifugation... The supernatant was then filtered through a... surfactant-free... filter",
+      "Source_page": "207"
+    },
+    {
+      "Paper_title": "Ingestion without Inactivation of Bacteriophages by Tetrahymena",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Co-incubation of phages with Tetrahymena... After thorough mixing, samples were withdrawn, passed through 0.2-mm filters",
+      "Source_page": "208"
+    },
+    {
+      "Paper_title": "Ingestion without Inactivation of Bacteriophages by Tetrahymena",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Two phage pulse-chase experiment... cells were collected by centrifugation... and washed 4 times to remove free phages",
+      "Source_page": "208"
+    },
+    {
+      "Paper_title": "Ingestion without Inactivation of Bacteriophages by Tetrahymena",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Recovery of intracellular phages by SDS lysis... Both tubes then received... sodium dodecyl sulfate (SDS) and were vortexed",
+      "Source_page": "208"
+    },
+    {
+      "Paper_title": "Ingestion without Inactivation of Bacteriophages by Tetrahymena",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "The cells were centrifuged... The washes were repeated... then... samples were... mixed with... SDS to lyse the T. thermophila",
+      "Source_page": "208"
+    },
+    {
+      "Paper_title": "Ingestion without Inactivation of Bacteriophages by Tetrahymena",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u03a6X174 were fed... The cells were then washed by centrifugation and resuspended... Both tubes then received... sodium dodecyl sulfate",
+      "Source_page": "209"
+    },
+    {
+      "Paper_title": "Ingestion without Inactivation of Bacteriophages by Tetrahymena",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": false,
+      "Evidence": "",
+      "Source_page": ""
+    }
+  ]
+}

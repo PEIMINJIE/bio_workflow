@@ -1,0 +1,73 @@
+{
+  "source_pdf": "CGT-18-366.pdf",
+  "paper_meta": {
+    "Paper_title": "CGT-18-366",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "3b5dc8f6b4"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Clinical-grade Oncolytic Adenovirus Purification using Polysorbate 20 as an Alternative for Cell Lysis",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100",
+        "Polysorbate 20"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cTwo detergents were evaluated for cell lysis, Triton X-100 and Polysorbate 20\u2026 The digestion proceeded\u2026 at 37\u00b0C\u2026 Clarification\u2026 filters were previously washed\u2026\u201d",
+      "Source_page": "2"
+    },
+    {
+      "Paper_title": "Clinical-grade Oncolytic Adenovirus Purification using Polysorbate 20 as an Alternative for Cell Lysis",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PCR/qPCR"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [
+        "High Pure Viral Nucleic Acid Kit"
+      ],
+      "Protocol_described": true,
+      "Evidence": "\u201cviral genomes were then extracted using High Pure Viral Nucleic Acid Kit\u2026 The viral genome copies were quantified by qPCR\u201d",
+      "Source_page": "3"
+    },
+    {
+      "Paper_title": "Clinical-grade Oncolytic Adenovirus Purification using Polysorbate 20 as an Alternative for Cell Lysis",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PCR/qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "Triton X-100",
+        "Polysorbate 20"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201ctwo different detergents for cell lysis - Triton X-100 and Polysorbate 20\u2026 Total viral particles (TP) recovery was determined by qPCR.\u201d",
+      "Source_page": "2"
+    },
+    {
+      "Paper_title": "Clinical-grade Oncolytic Adenovirus Purification using Polysorbate 20 as an Alternative for Cell Lysis",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Polysorbate 20"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cThe scale-up process was performed with Polysorbate 20 as cell lysis agent\u2026 an UHPLC quantification was assessed for the final process sample.\u201d",
+      "Source_page": "3"
+    }
+  ]
+}

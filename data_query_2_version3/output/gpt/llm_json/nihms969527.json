@@ -1,0 +1,140 @@
+{
+  "source_pdf": "nihms969527.pdf",
+  "paper_meta": {
+    "Paper_title": "nihms969527",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "a1c26413f9"
+  },
+  "protocols": [
+    {
+      "Paper_title": "The holin of bacteriophage lambda forms rings with large diameter",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": false,
+      "Evidence": "",
+      "Source_page": ""
+    },
+    {
+      "Paper_title": "The holin of bacteriophage lambda forms rings with large diameter",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "unspecified_detergent"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cPurification in DDM, \u03b2-OG and LDAO was performed as follows\u2026 Total membrane pellets were solubilized\u2026 1%\u2026 DDM\u2026 \u03b2-OG\u2026 LDAO\u201d",
+      "Source_page": "8"
+    },
+    {
+      "Paper_title": "The holin of bacteriophage lambda forms rings with large diameter",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "DDM",
+        "LDAO"
+      ],
+      "Detergent_products_unresolved_for_lysis": [
+        "EBB",
+        "\u03b2-OG"
+      ],
+      "Protocol_described": true,
+      "Evidence": "\u201cCell pellets were resuspended in lysis buffer\u2026 Lysates were cleared\u2026 by centrifugation\u2026 Total membrane pellets were solubilized\u2026 1%\u2026 EBB\u2026 DDM\u2026 \u03b2-OG\u2026 LDAO\u201d",
+      "Source_page": "8"
+    },
+    {
+      "Paper_title": "The holin of bacteriophage lambda forms rings with large diameter",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [
+        "EBB",
+        "DDM"
+      ],
+      "Protocol_described": true,
+      "Evidence": "\u201cDSP cross-linking of S105 purified in EBB and DDM\u2026 [buffers contained] 1%\u2026 EBB or 0.1%\u2026 DDM\u201d",
+      "Source_page": "9"
+    },
+    {
+      "Paper_title": "The holin of bacteriophage lambda forms rings with large diameter",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [
+        "EBB",
+        "DDM"
+      ],
+      "Protocol_described": true,
+      "Evidence": "\u201cS105 alleles were purified\u2026 with either\u2026 EBB or\u2026 DDM. CD measurements were carried out\u2026\u201d",
+      "Source_page": "9"
+    },
+    {
+      "Paper_title": "The holin of bacteriophage lambda forms rings with large diameter",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [
+        "DDM"
+      ],
+      "Protocol_described": true,
+      "Evidence": "\u201cNegative stain and cryo-EM\u2026 For cryo specimens, S105 in DDM\u2026 was applied\u2026 Vitrification was carried out\u2026\u201d",
+      "Source_page": "9"
+    },
+    {
+      "Paper_title": "The holin of bacteriophage lambda forms rings with large diameter",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [
+        "DDM"
+      ],
+      "Protocol_described": true,
+      "Evidence": "\u201cFor purified samples\u2026 in protease-DDM buffer\u2026 0.1% (w/v) DDM\u2026 Digestion reactions\u2026 at 37\u00b0C\u201d",
+      "Source_page": "10"
+    },
+    {
+      "Paper_title": "The holin of bacteriophage lambda forms rings with large diameter",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": true,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "DDM",
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cCysteine modification\u2026 diluted\u2026 into buffer\u2026 0.1%\u2026 DDM\u2026 either\u2026 SDS\u2026 was added\u2026 incubat[ed] at 25\u00b0C\u201d",
+      "Source_page": "10"
+    },
+    {
+      "Paper_title": "The holin of bacteriophage lambda forms rings with large diameter",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": false,
+      "Evidence": "",
+      "Source_page": ""
+    }
+  ]
+}

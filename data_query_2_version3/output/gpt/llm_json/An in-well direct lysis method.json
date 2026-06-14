@@ -1,0 +1,43 @@
+{
+  "source_pdf": "An in-well direct lysis method.pdf",
+  "paper_meta": {
+    "Paper_title": "An in-well direct lysis method",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "ba743b1bb9"
+  },
+  "protocols": [
+    {
+      "Paper_title": "An in-well direct lysis method for rapid detection of SARS-CoV-2 by real time RT-PCR in eSwab specimens",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "IGEPAL CA-630"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cIGEPAL-CA-630 (IGEPAL) was added \u2026 and crude sample was added directly to the PCR well \u2026 in-well lysis, direct rRT-PCR.\u201d",
+      "Source_page": "2"
+    },
+    {
+      "Paper_title": "An in-well direct lysis method for rapid detection of SARS-CoV-2 by real time RT-PCR in eSwab specimens",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [
+        "MagNA Pure 96 DNA and Viral NA small volume kit"
+      ],
+      "Protocol_described": true,
+      "Evidence": "\u201cpurification of total NA (TNA) on a MagNA Pure 96 using the MagNA Pure 96 DNA and Viral NA small volume kit\u201d",
+      "Source_page": "2"
+    }
+  ]
+}

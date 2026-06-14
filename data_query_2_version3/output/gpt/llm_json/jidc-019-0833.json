@@ -1,0 +1,74 @@
+{
+  "source_pdf": "jidc-019-0833.pdf",
+  "paper_meta": {
+    "Paper_title": "jidc-019-0833",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "33c3f99be6"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Development of nucleic acid extraction-free one-step real-time RT-PCR for diagnosis of SARS-CoV-2 infection",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "Tween 20",
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cLysis buffers were prepared\u2026supplemented with\u2026Triton X-100 and\u2026Tween-20\u2026 incubated at room temperature\u2026; \u2026\u2018lysis\u2019\u2026 added in\u2026rtRT-PCR.\u201d",
+      "Source_page": "2-3"
+    },
+    {
+      "Paper_title": "Development of nucleic acid extraction-free one-step real-time RT-PCR for diagnosis of SARS-CoV-2 infection",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cviscous solution was\u2026precipitated\u2026after centrifugation, followed by washing with 70% ethanol\u2026drying\u2026at RT.\u201d",
+      "Source_page": "3"
+    },
+    {
+      "Paper_title": "Development of nucleic acid extraction-free one-step real-time RT-PCR for diagnosis of SARS-CoV-2 infection",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "Tween 20",
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cTriton-X100 and Tween 20 were used in lysis buffer\u2026 The sample swabs were thoroughly mixed with lysis buffer, and lysate was then subjected to rtRT-PCR\u201d",
+      "Source_page": "839"
+    },
+    {
+      "Paper_title": "Development of nucleic acid extraction-free one-step real-time RT-PCR for diagnosis of SARS-CoV-2 infection",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "Tween 20",
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cA lysis solution was prepared using Tween-20, Triton X-100, EDTA, and Tris buffer (pH 7.4)\u2026 optimize a lysis buffer\u2026 for direct quantitative PCR.\u201d",
+      "Source_page": "Page 1"
+    }
+  ]
+}

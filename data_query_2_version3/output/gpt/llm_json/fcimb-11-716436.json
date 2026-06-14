@@ -1,0 +1,83 @@
+{
+  "source_pdf": "fcimb-11-716436.pdf",
+  "paper_meta": {
+    "Paper_title": "fcimb-11-716436",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "3f76a560df"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Evaluation of the SARS-CoV-2 Inactivation Efficacy Associated With Buffers From Three Kits Used on High-Throughput RNA Extraction Platforms",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Qiagen QIAamp 96 Virus QIAcube HT Kit... active virucidal components... <3% SDS... tested with and without... heat... 68\u00b0C",
+      "Source_page": "3"
+    },
+    {
+      "Paper_title": "Evaluation of the SARS-CoV-2 Inactivation Efficacy Associated With Buffers From Three Kits Used on High-Throughput RNA Extraction Platforms",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "Zwittergent"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "MagMAX Pathogen RNA/DNA kit (MagMAX Protocol 1)... active virucidal components... Zwittergent... evaluated with and without... heat... 68\u00b0C",
+      "Source_page": "3"
+    },
+    {
+      "Paper_title": "Evaluation of the SARS-CoV-2 Inactivation Efficacy Associated With Buffers From Three Kits Used on High-Throughput RNA Extraction Platforms",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "Zwittergent"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "MagMAX viral/pathogen nucleic acid isolation kit (MagMAX Protocol 2)... active virucidal components... Zwittergent... evaluated with and without... heat... 68\u00b0C",
+      "Source_page": "3"
+    },
+    {
+      "Paper_title": "Evaluation of the SARS-CoV-2 Inactivation Efficacy Associated With Buffers From Three Kits Used on High-Throughput RNA Extraction Platforms",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "After inactivation (with or without heat treatment), all samples and controls were centrifuged... supernatant was discarded and replaced... Following the inactivation procedure, residual... removed by... multiple wash steps.",
+      "Source_page": "3-4"
+    },
+    {
+      "Paper_title": "Evaluation of the SARS-CoV-2 Inactivation Efficacy Associated With Buffers From Three Kits Used on High-Throughput RNA Extraction Platforms",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": false,
+      "Evidence": "",
+      "Source_page": ""
+    }
+  ]
+}

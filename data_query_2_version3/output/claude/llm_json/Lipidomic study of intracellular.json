@@ -1,0 +1,35 @@
+{
+  "source_pdf": "Lipidomic study of intracellular.pdf",
+  "paper_meta": {
+    "Paper_title": "Lipidomic study of intracellular",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "59b125a31e"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Lipidomic study of intracellular Singapore grouper iridovirus",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Cells washed twice with ice-cold TNE buffer; harvested by centrifugation at 500xg; homogenized in ice-cold TNE buffer; subjected to lipid extraction.",
+      "Source_page": "1"
+    },
+    {
+      "Paper_title": "Lipidomic study of intracellular Singapore grouper iridovirus",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Detergent treatment (Triton X-100, DDM, OG) used to test virus sensitivity, not lysis for downstream amplification; washing and centrifugation used.",
+      "Source_page": "2"
+    }
+  ]
+}

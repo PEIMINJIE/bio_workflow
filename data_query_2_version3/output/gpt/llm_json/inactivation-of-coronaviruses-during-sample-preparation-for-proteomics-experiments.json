@@ -1,0 +1,28 @@
+{
+  "source_pdf": "inactivation-of-coronaviruses-during-sample-preparation-for-proteomics-experiments.pdf",
+  "paper_meta": {
+    "Paper_title": "inactivation-of-coronaviruses-during-sample-preparation-for-proteomics-experiments",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "90f955347a"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Inactivation of Coronaviruses during Sample Preparation for Proteomics Experiments",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "SDS",
+        "deoxycholate"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Virus stock solutions were mixed with lysis buffers (1:4) ... incubated at RT or at 95 \u00b0C for 5 min... supernatants were collected for real-time PCR analysis.",
+      "Source_page": "2"
+    }
+  ]
+}

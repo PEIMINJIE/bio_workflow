@@ -1,0 +1,44 @@
+{
+  "source_pdf": "ofz466.pdf",
+  "paper_meta": {
+    "Paper_title": "ofz466",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "a18d0633fe"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Rapid, Sample-to-Answer Host Gene Expression Test to Diagnose Viral Infection",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR",
+        "PCR/qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "unspecified_detergent"
+      ],
+      "Detergent_products_unresolved_for_lysis": [
+        "PAXgene Blood RNA tubes"
+      ],
+      "Protocol_described": true,
+      "Evidence": "\u201cStabilized mRNA was released from cleaned and stabilized RNA-surfactant complexes using e-lysis\u2026 providing a\u2026 PCR-ready sample.\u201d \u201cIntegrated centrifugal processing.\u201d",
+      "Source_page": "1-2"
+    },
+    {
+      "Paper_title": "Rapid, Sample-to-Answer Host Gene Expression Test to Diagnose Viral Infection",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cFAST HR process\u2026 centrifugally removing qRT-PCR inhibitors\u2026 RNase enzymes are inactivated by electrically-induced flash heating\u2026 suspension\u2026 in a qRT-PCR-ready matrix\u201d",
+      "Source_page": "7"
+    }
+  ]
+}

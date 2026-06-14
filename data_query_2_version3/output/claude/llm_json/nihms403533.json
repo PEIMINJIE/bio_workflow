@@ -1,0 +1,39 @@
+{
+  "source_pdf": "nihms403533.pdf",
+  "paper_meta": {
+    "Paper_title": "nihms403533",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "d32f55c5ea"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Maturation of the Gag core decreases the stability of retroviral lipid membranes",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Empigen",
+        "Tween 20",
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "VLPs were washed 3x with PBS and treated with 1% Empigen, 1% Tween 20, or 1% Triton X-100 for 10 minutes at room temperature; lysed in sample buffer with SDS, boiled 5 min",
+      "Source_page": "3"
+    },
+    {
+      "Paper_title": "Maturation of the Gag core decreases the stability of retroviral lipid membranes",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": false,
+      "Evidence": "",
+      "Source_page": ""
+    }
+  ]
+}

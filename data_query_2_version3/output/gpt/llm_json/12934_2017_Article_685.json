@@ -1,0 +1,103 @@
+{
+  "source_pdf": "12934_2017_Article_685.pdf",
+  "paper_meta": {
+    "Paper_title": "12934_2017_Article_685",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "957f9235eb"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Re-directing bacterial microcompartment systems to enhance recombinant expression of lysis protein E from bacteriophage \u03c6X174 in Escherichia coli",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [
+        "BPER-II"
+      ],
+      "Protocol_described": true,
+      "Evidence": "\u201cBMCs were isolated\u2026 Cell pellet\u2026 re-suspended in\u2026 60% BPER-II\u2026 Cells were lysed\u2026 and centrifuged\u2026 The BMCs were washed\u2026\u201d",
+      "Source_page": "4"
+    },
+    {
+      "Paper_title": "Re-directing bacterial microcompartment systems to enhance recombinant expression of lysis protein E from bacteriophage \u03c6X174 in Escherichia coli",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201ccells\u2026 were harvested\u2026 immediately re-suspended in\u2026 Laemmli buffer. Samples were boiled\u2026 For Western blot\u2026 blocked\u2026 containing\u2026 Tween20\u201d",
+      "Source_page": "4"
+    },
+    {
+      "Paper_title": "Re-directing bacterial microcompartment systems to enhance recombinant expression of lysis protein E from bacteriophage \u03c6X174 in Escherichia coli",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "unspecified_detergent"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cEBB detergent\u2026 was added\u2026 and rocked\u2026 The supernatant was then centrifuged\u2026\u201d",
+      "Source_page": "5"
+    },
+    {
+      "Paper_title": "Re-directing bacterial microcompartment systems to enhance recombinant expression of lysis protein E from bacteriophage \u03c6X174 in Escherichia coli",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "unspecified_detergent"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cFor purification from isolated BMCs, EBB detergent was added\u2026 to solubilize\u2026 then\u2026 added to\u2026 Ni\u2013NTA resin\u2026 The column was washed\u2026\u201d",
+      "Source_page": "5"
+    },
+    {
+      "Paper_title": "Re-directing bacterial microcompartment systems to enhance recombinant expression of lysis protein E from bacteriophage \u03c6X174 in Escherichia coli",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "unspecified_detergent"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201ctreated with\u2026 in\u2026 0.06% EBB\u2026 Ni\u2013NTA resin was removed by centrifugation\u2026 The mixture was then directly used in growth inhibition assays.\u201d",
+      "Source_page": "5"
+    },
+    {
+      "Paper_title": "Re-directing bacterial microcompartment systems to enhance recombinant expression of lysis protein E from bacteriophage \u03c6X174 in Escherichia coli",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": false,
+      "Evidence": "",
+      "Source_page": ""
+    },
+    {
+      "Paper_title": "Re-directing bacterial microcompartment systems to enhance recombinant expression of lysis protein E from bacteriophage \u03c6X174 in Escherichia coli",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": false,
+      "Evidence": "",
+      "Source_page": ""
+    }
+  ]
+}

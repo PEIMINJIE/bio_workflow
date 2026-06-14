@@ -1,0 +1,121 @@
+{
+  "source_pdf": "1640.pdf",
+  "paper_meta": {
+    "Paper_title": "1640",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "cdbe4e7e26"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Role of DLP12 lysis genes in Escherichia coli biofilm formation",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Deletion mutants were constructed by allele replacement using the Lambda RED strategy... created using PCR-mediated ligation",
+      "Source_page": "1641"
+    },
+    {
+      "Paper_title": "Role of DLP12 lysis genes in Escherichia coli biofilm formation",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "wells were thoroughly washed with water... 95% ethanol was added to each well",
+      "Source_page": "1643"
+    },
+    {
+      "Paper_title": "Role of DLP12 lysis genes in Escherichia coli biofilm formation",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Cell autoaggregation was measured as described... cultures were vortexed and sampled again",
+      "Source_page": "1643"
+    },
+    {
+      "Paper_title": "Role of DLP12 lysis genes in Escherichia coli biofilm formation",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "grids were then rinsed in MilliQ water... and allowed to dry before observation",
+      "Source_page": "1643"
+    },
+    {
+      "Paper_title": "Role of DLP12 lysis genes in Escherichia coli biofilm formation",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "cells were centrifuged... and resuspended in... Congo red",
+      "Source_page": "1643"
+    },
+    {
+      "Paper_title": "Role of DLP12 lysis genes in Escherichia coli biofilm formation",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": true,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Reporter plasmid pJBA110... was transformed... fluorescence was measured",
+      "Source_page": "1644"
+    },
+    {
+      "Paper_title": "Role of DLP12 lysis genes in Escherichia coli biofilm formation",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "samples were taken and boiled in 4% (w/v) SDS... Filters were washed",
+      "Source_page": "1644"
+    },
+    {
+      "Paper_title": "Role of DLP12 lysis genes in Escherichia coli biofilm formation",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": true,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Cells were challenged with an inhibitory concentration of SDS",
+      "Source_page": "1644"
+    },
+    {
+      "Paper_title": "Role of DLP12 lysis genes in Escherichia coli biofilm formation",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": false,
+      "Evidence": "",
+      "Source_page": ""
+    }
+  ]
+}

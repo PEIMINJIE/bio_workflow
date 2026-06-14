@@ -1,0 +1,39 @@
+{
+  "source_pdf": "jove-60-3643.pdf",
+  "paper_meta": {
+    "Paper_title": "jove-60-3643",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "7abea0f598"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Identification of Protein Interacting Partners Using Tandem Affinity Purification",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "NP-40"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cWash the cells three times\u2026 Lyse cells in\u2026 lysis buffer\u2026 0.2% NP-40\u2026 remove unlysed cells and debris by centrifugation\u201d",
+      "Source_page": "2"
+    },
+    {
+      "Paper_title": "Identification of Protein Interacting Partners Using Tandem Affinity Purification",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "NP-40"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cWash\u2026 with TEV-protease cleavage buffer\u2026 and 0.2% NP-40\u201d",
+      "Source_page": "2"
+    }
+  ]
+}

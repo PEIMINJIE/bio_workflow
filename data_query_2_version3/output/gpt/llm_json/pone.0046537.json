@@ -1,0 +1,51 @@
+{
+  "source_pdf": "pone.0046537.pdf",
+  "paper_meta": {
+    "Paper_title": "pone.0046537",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "14071a49c5"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Isolation and Characterization of \u03d5km18p, a Novel Lytic Phage with Therapeutic Potential against Extensively Drug Resistant Acinetobacter baumannii",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [
+        "Viral Nucleic Extraction Kit II (Geneaid)"
+      ],
+      "Protocol_described": true,
+      "Evidence": "Phage DNA was extracted... following the procedure described in the Viral Nucleic Extraction Kit II (Geneaid).",
+      "Source_page": "2"
+    },
+    {
+      "Paper_title": "Isolation and Characterization of \u03d5km18p, a Novel Lytic Phage with Therapeutic Potential against Extensively Drug Resistant Acinetobacter baumannii",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "N-lauroylsarcosine (Sarkosyl)"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "solid block was lysed at 55\u00b0C overnight... in cell lysis buffer... 1% Sarcosine. After... lysis step, the block... was washed in TE buffer",
+      "Source_page": "2"
+    },
+    {
+      "Paper_title": "Isolation and Characterization of wkm18p, a Novel Lytic Phage with Therapeutic Potential against Extensively Drug Resistant Acinetobacter baumannii",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": false,
+      "Evidence": "",
+      "Source_page": ""
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "source_pdf": "Biotech   Bioengineering - 2020 - Menacho\u2010Melgar - Improved two\u2010stage protein expression and purification via autoinduction.pdf",
+  "paper_meta": {
+    "Paper_title": "Biotech   Bioengineering - 2020 - Menacho\u2010Melgar - Improved two\u2010stage protein expression and purification via autoinduction",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "f16e7fac29"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Improved two stage protein expression and purification via autoinduction of both autolysis and auto DNA/RNA hydrolysis conferred by phage lysozyme and DNA/RNA endonuclease",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": false,
+      "Evidence": "",
+      "Source_page": ""
+    },
+    {
+      "Paper_title": "Improved two stage protein expression and purification via autoinduction of both autolysis and auto DNA/RNA hydrolysis conferred by phage lysozyme and DNA/RNA endonuclease",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cTo measure lysis\u2026 cells were\u2026 resuspended in lysis buffer\u2026 supplemented with\u2026 Triton X-100\u2026 After lysis, samples were centrifuged\u2026\u201d",
+      "Source_page": "3"
+    },
+    {
+      "Paper_title": "Improved two stage protein expression and purification via autoinduction of both autolysis and auto DNA/RNA hydrolysis conferred by phage lysozyme and DNA/RNA endonuclease",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cCells were harvested by centrifugation and resuspended in lysis/hydrolysis buffer\u2026 0.1% Triton X-100\u2026 subjected to a single freeze thaw\u2026\u201d",
+      "Source_page": "4"
+    },
+    {
+      "Paper_title": "Improved two stage protein expression and purification via autoinduction of both autolysis and auto DNA/RNA hydrolysis conferred by phage lysozyme and DNA/RNA endonuclease",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201c96-well plates\u2026 cells were harvested using a\u2026 plate centrifuge\u2026 lysis buffer\u2026 added\u2026 placed at \u221260\u00b0C\u2026 lysates clarified by centrifugation again\u2026\u201d",
+      "Source_page": "4"
+    },
+    {
+      "Paper_title": "Improved two stage protein expression and purification via autoinduction of both autolysis and auto DNA/RNA hydrolysis conferred by phage lysozyme and DNA/RNA endonuclease",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cCell pellets were washed in PBS and Triton X-100 was added\u2026 GFP release was measured\u2026 by centrifugation\u2026\u201d",
+      "Source_page": "4"
+    },
+    {
+      "Paper_title": "Improved two stage protein expression and purification via autoinduction of both autolysis and auto DNA/RNA hydrolysis conferred by phage lysozyme and DNA/RNA endonuclease",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201ccell lysates were more concentrated\u2026 Cell pellets were resuspended\u2026 in a lysis buffer\u2026 and 0.1% Triton X-100\u201d",
+      "Source_page": "4"
+    },
+    {
+      "Paper_title": "Improved two stage protein expression and purification via autoinduction of both autolysis and auto DNA/RNA hydrolysis conferred by phage lysozyme and DNA/RNA endonuclease",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "unspecified_downstream_assay"
+      ],
+      "Detergents_used_for_lysis": [
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cPercent viability was measured after washing with ice-cold water (twice), ice-cold 10% glycerol (once), and a single freeze thaw\u2026 (0.1% Triton X-100)\u2026 compatible with our autolysis/hydrolysis protocol\u201d",
+      "Source_page": "2858"
+    }
+  ]
+}

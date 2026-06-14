@@ -1,0 +1,206 @@
+{
+  "source_pdf": "s13007-022-00860-8.pdf",
+  "paper_meta": {
+    "Paper_title": "s13007-022-00860-8",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "8b683c0f32"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Simple and efficient isolation of plant genomic DNA using magnetic ionic liquids",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PCR/qPCR",
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cDNA-enriched MIL or IL was successfully integrated into the qPCR buffer without inhibiting the reaction.\u201d (Table 1: static extraction method; add to qPCR buffer)",
+      "Source_page": "1-2"
+    },
+    {
+      "Paper_title": "Simple and efficient isolation of plant genomic DNA using magnetic ionic liquids",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PCR/qPCR"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Table 1 lists a \u201cDispersive extraction method\u201d with \u201cRecover the MIL with a magnet\u201d and \u201cPipette \u2026 into the qPCR buffer.\u201d",
+      "Source_page": "2"
+    },
+    {
+      "Paper_title": "Simple and efficient isolation of plant genomic DNA using magnetic ionic liquids",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PCR/qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "Tween 20"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cThe effect of adding a non-ionic surfactant was investigated\u2026 The addition of 0.05% Tween20 to the desorption solution improved DNA recovery\u2026\u201d",
+      "Source_page": "4"
+    },
+    {
+      "Paper_title": "Simple and efficient isolation of plant genomic DNA using magnetic ionic liquids",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PCR/qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "CTAB",
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Fig. 4 caption: \u201cplant cell lysate generated using CTAB, SDS, [MILs]\u2026\u201d",
+      "Source_page": "5"
+    },
+    {
+      "Paper_title": "Simple and efficient isolation of plant genomic DNA using magnetic ionic liquids",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PCR/qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "Tween 20"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Section heading: \u201cOne-pot plant cell lysis and qPCR assay\u201d; \u201cintroducing\u2026 Tween20 to the reaction buffer\u2026 recovered amplification.\u201d",
+      "Source_page": "6"
+    },
+    {
+      "Paper_title": "Simple and efficient isolation of plant genomic DNA using magnetic ionic liquids",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PCR/qPCR",
+        "RT-PCR/RT-qPCR",
+        "Sequencing"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Fig. 10: \"Add IL/MIL ... Recover IL/MIL by pipette ... Desorb in qPCR buffer\"; also mentions \"desorption ... at 90 \u00b0C\" and compatibility with \"sequencing\".",
+      "Source_page": "10"
+    },
+    {
+      "Paper_title": "Simple and efficient isolation of plant genomic DNA using magnetic ionic liquids",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PCR/qPCR"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [
+        "Phire Plant PCR buffer"
+      ],
+      "Protocol_described": true,
+      "Evidence": "Text compares \"commercial one-pot PCR assay\" (Phire) and notes lysate used for qPCR quantification; Phire assay described as \"one-pot\" and \"not qPCR compatible\".",
+      "Source_page": "8"
+    },
+    {
+      "Paper_title": "Simple and efficient isolation of plant genomic DNA using magnetic ionic liquids",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PCR/qPCR"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "qPCR assays: reactions \"containing ... MIL ... or ... IL\"; and qPCR buffer includes \"0.05% Tween20\".",
+      "Source_page": "12"
+    },
+    {
+      "Paper_title": "Simple and efficient isolation of plant genomic DNA using magnetic ionic liquids",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "SDS",
+        "CTAB"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": false,
+      "Evidence": "",
+      "Source_page": ""
+    },
+    {
+      "Paper_title": "Simple and efficient isolation of plant genomic DNA using magnetic ionic liquids",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "PCR/qPCR"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cstatic one-step cell lysis and DNA extraction\u2026 incubated at 25 \u00b0C\u2026 DNA-enriched MIL\u2026 added to the qPCR assay\u201d",
+      "Source_page": "13"
+    },
+    {
+      "Paper_title": "Simple and efficient isolation of plant genomic DNA using magnetic ionic liquids",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PCR/qPCR"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cAfter recovering the MIL with a rod magnet\u2026 the DNA-enriched MIL was washed once with water\u2026 integrating\u2026 into the qPCR assay\u2026 or by heating\u2026 at 90 \u00b0C\u201d",
+      "Source_page": "13"
+    },
+    {
+      "Paper_title": "Simple and efficient isolation of plant genomic DNA using magnetic ionic liquids",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "CTAB"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cConventional plant cell lysis was performed using the CTAB lysis\u2026 suspended in\u2026 CTAB lysis buffer (\u2026 CTAB\u2026)\u2026 After heating\u2026 at 60 \u00b0C\u2026 The sample was centrifuged\u2026\u201d",
+      "Source_page": "13"
+    },
+    {
+      "Paper_title": "Simple and efficient isolation of plant genomic DNA using magnetic ionic liquids",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cSDS lysis was performed\u2026 exposed to\u2026 Tris\u2013EDTA\u2026 for\u2026 at 100 \u00b0C. Afterwards\u2026 centrifuged\u2026 and the supernatant was collected\u2026\u201d",
+      "Source_page": "13"
+    }
+  ]
+}

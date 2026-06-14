@@ -1,0 +1,74 @@
+{
+  "source_pdf": "JCM.01713-20.pdf",
+  "paper_meta": {
+    "Paper_title": "JCM.01713-20",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "53f24d2991"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Analysis of Inactivation of SARS-CoV-2 by Specimen Transport Media, Nucleic Acid Extraction Reagents, Detergents, and Fixatives",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100",
+        "Tween 20",
+        "NP-40",
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": [
+        "AVL",
+        "RLT",
+        "AL (Buffer AL)",
+        "MagNA Pure external lysis buffer",
+        "Cobas Omni LYS",
+        "viral PCR sample solution (VPSS)",
+        "E&O Laboratories lysis buffer",
+        "NeuMoDx lysis buffer",
+        "Samba II SCoV lysis buffer",
+        "NucliSENS lysis buffer",
+        "Panther Fusion specimen lysis tubes",
+        "DNA/RNA Shield",
+        "eNAT",
+        "Primestore MTM",
+        "Cobas PCR medium",
+        "Aptima specimen transport medium",
+        "Sigma molecular transport medium"
+      ],
+      "Protocol_described": true,
+      "Evidence": "guanidine thiocyanate and Triton X-100 in-house extraction buffer; detergents tested: Tween 20, Triton X-100, NP-40, SDS; all inactivation steps at ambient room temperature (18 to 25C)",
+      "Source_page": "3"
+    },
+    {
+      "Paper_title": "Analysis of Inactivation of SARS-CoV-2 by Specimen Transport Media, Nucleic Acid Extraction Reagents, Detergents, and Fixatives",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "Triton X-100",
+        "SDS",
+        "NP-40",
+        "Tween 20"
+      ],
+      "Detergent_products_unresolved_for_lysis": [
+        "AVL",
+        "RLT",
+        "MagNA Pure External LB",
+        "AL",
+        "Cobas Omni LYS",
+        "NucliSENS LB",
+        "Panther Fusion specimen lysis tubes",
+        "DNA/RNA Shield"
+      ],
+      "Protocol_described": true,
+      "Evidence": "Detergents can be used to inactivate lipid enveloped viruses; Triton X-100, SDS, NP-40, Tween 20 evaluated; RNA tested by SARS-CoV-2-specific qRT-PCR",
+      "Source_page": "3-4"
+    }
+  ]
+}

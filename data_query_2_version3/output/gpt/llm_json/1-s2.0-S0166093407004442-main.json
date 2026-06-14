@@ -1,0 +1,43 @@
+{
+  "source_pdf": "1-s2.0-S0166093407004442-main.pdf",
+  "paper_meta": {
+    "Paper_title": "1-s2.0-S0166093407004442-main",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "69619de75b"
+  },
+  "protocols": [
+    {
+      "Paper_title": "A simplified method for the extraction of baculoviral DNA for PCR analysis: A practical application",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PCR/qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cviral DNA was isolated in three steps: SDS lysis, chloroform extraction and ethanol precipitation\u2026 analysed by PCR.\u201d",
+      "Source_page": "286"
+    },
+    {
+      "Paper_title": "A simplified method for the extraction of baculoviral DNA for PCR analysis: A practical application",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PCR/qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201clysis buffer\u2026 0.25% SDS\u2026 then centrifuged\u2026 DNA\u2026 precipitated with\u2026 ethanol\u2026 pellet\u2026 dried\u2026 60 \u00b0C\u2026 used as template\u2026 PCR.\u201d",
+      "Source_page": "288"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "source_pdf": "nihms286034.pdf",
+  "paper_meta": {
+    "Paper_title": "nihms286034",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "cad0d15d8e"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Purification and Functional Characterization of the \u03d5X174 Lysis Protein E",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Empigen BB"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cMembrane pellets were resuspended in buffer \u2026 plus various detergents\u2026 Insoluble material was removed by centrifugation\u2026 The E6his polypeptide, extracted in \u2026 EBB, was purified\u2026\u201d",
+      "Source_page": "3"
+    },
+    {
+      "Paper_title": "Purification and Functional Characterization of the \u03d5X174 Lysis Protein E",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "n-dodecyl-\u03b2-D-maltoside"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cTo extract MraY activity, membrane pellets were resuspended in Buffer R plus \u2026 DDM\u2026 Insoluble material was removed by centrifugation\u2026 The supernatant\u2026 was used\u2026 for MraY reactions.\u201d",
+      "Source_page": "5"
+    },
+    {
+      "Paper_title": "Purification and Functional Characterization of the \u03d5X174 Lysis Protein E",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": false,
+      "Evidence": "",
+      "Source_page": ""
+    },
+    {
+      "Paper_title": "Purification and Functional Characterization of the X174 Lysis Protein E",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cPurification of E\u2026 Lanes 3 and 9: \u2026 imidazole wash fraction\u2026 elution fractions\u2026\u201d",
+      "Source_page": "14"
+    },
+    {
+      "Paper_title": "Purification and Functional Characterization of the X174 Lysis Protein E",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "DDM"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cReaction mixtures\u2026 supplemented with DDM-solubilized MraY\u2026 incubated at 37\u00b0C\u2026 quenched by heating at 100\u00b0C\u2026\u201d",
+      "Source_page": "16"
+    },
+    {
+      "Paper_title": "Purification and Functional Characterization of the X174 Lysis Protein E",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100",
+        "Tween 20",
+        "NP-40",
+        "SDS",
+        "cholic acid",
+        "saponin"
+      ],
+      "Detergent_products_unresolved_for_lysis": [
+        "DHPC",
+        "EBB"
+      ],
+      "Protocol_described": true,
+      "Evidence": "\u201cMembranes\u2026 were extracted with the indicated detergents\u2026 (Table 1): Triton X-100, Tween 20, Nonidet P40, SDS, Cholic acid, DHPC, EBB, Saponin.\u201d",
+      "Source_page": "21"
+    }
+  ]
+}

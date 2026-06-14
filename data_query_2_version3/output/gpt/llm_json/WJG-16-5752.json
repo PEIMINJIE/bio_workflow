@@ -1,0 +1,78 @@
+{
+  "source_pdf": "WJG-16-5752.pdf",
+  "paper_meta": {
+    "Paper_title": "WJG-16-5752",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "b486c61d68"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Expression and purification of a functional human hepatitis B virus polymerase",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Cells were harvested by centrifugation and disrupted with lysis-buffer... 1% SDS",
+      "Source_page": "3"
+    },
+    {
+      "Paper_title": "Expression and purification of a functional human hepatitis B virus polymerase",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "SDS",
+        "NP-40"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "The suspension was centrifuged... Resin was washed... washing buffer... 1% NP-40",
+      "Source_page": "3"
+    },
+    {
+      "Paper_title": "Expression and purification of a functional human hepatitis B virus polymerase",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Total lysate and other washing/elution fractions were heated at 95\u00b0C for 5 min for denaturation.",
+      "Source_page": "3"
+    },
+    {
+      "Paper_title": "Expression and purification of a functional human hepatitis B virus polymerase",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [
+        "Qiagen Midiprep DNA purification kit"
+      ],
+      "Protocol_described": true,
+      "Evidence": "The recombinant plasmid pT7-Pol was purified with Qiagen Midiprep DNA purification kit.",
+      "Source_page": "3"
+    },
+    {
+      "Paper_title": "Expression and purification of a functional human hepatitis B virus polymerase",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": false,
+      "Evidence": "",
+      "Source_page": ""
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "source_pdf": "s12934-022-01766-9.pdf",
+  "paper_meta": {
+    "Paper_title": "s12934-022-01766-9",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "011aa8ba17"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Evaluation of factors influencing expression and extraction of recombinant bacteriophage endolysins in Escherichia coli",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100",
+        "Tween 20",
+        "NP-40",
+        "CHAPS",
+        "N-lauroylsarcosine"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": false,
+      "Evidence": "",
+      "Source_page": ""
+    },
+    {
+      "Paper_title": "Evaluation of factors influencing expression and extraction of recombinant bacteriophage endolysins in Escherichia coli",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "N-lauroylsarcosine",
+        "Tween 20",
+        "Triton X-100",
+        "CHAPS",
+        "NP-40"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Cell pellets lysis was performed by bead-beating in lysis buffer supplemented with N-lauroylsarcosine, glycerol, trehalose or glycine betaine",
+      "Source_page": "4-6"
+    },
+    {
+      "Paper_title": "Evaluation of factors influencing expression and extraction of recombinant bacteriophage endolysins in Escherichia coli",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Tween 20",
+        "Triton X-100",
+        "NP-40",
+        "CHAPS",
+        "N-lauroylsarcosine"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "case of Tween 20, Triton-X100 or Nonidet P40; or 0.5% w/v in the case of CHAPS or N-lauroylsarcosine",
+      "Source_page": "1"
+    }
+  ]
+}

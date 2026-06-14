@@ -1,0 +1,101 @@
+{
+  "source_pdf": "zam6755.pdf",
+  "paper_meta": {
+    "Paper_title": "zam6755",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "1182723993"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Lytic Myophage Abp53 Encodes Several Proteins Similar to Those Encoded by Host Acinetobacter baumannii and Phage phiKO2",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "High-titer lysates of Abp53 ... were centrifuged... passed through a membrane filter... loaded on a block gradient of CsCl... followed by ultracentrifugation...",
+      "Source_page": "2"
+    },
+    {
+      "Paper_title": "Lytic Myophage Abp53 Encodes Several Proteins Similar to Those Encoded by Host Acinetobacter baumannii and Phage phiKO2",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "purified phage particles ... were boiled in loading buffer... separated by sodium dodecyl sulfate-polyacrylamide gel electrophoresis (SDS-PAGE)...",
+      "Source_page": "2"
+    },
+    {
+      "Paper_title": "Lytic Myophage Abp53 Encodes Several Proteins Similar to Those Encoded by Host Acinetobacter baumannii and Phage phiKO2",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Patient sputum samples... were collected... The samples were centrifuged... and after filtering through a membrane filter... the supernatants were checked for the presence of phages",
+      "Source_page": "2"
+    },
+    {
+      "Paper_title": "Lytic Myophage Abp53 Encodes Several Proteins Similar to Those Encoded by Host Acinetobacter baumannii and Phage phiKO2",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Following centrifugation..., the supernatants containing unadsorbed phage were diluted and the titers were determined by plaque assay.",
+      "Source_page": "2"
+    },
+    {
+      "Paper_title": "Lytic Myophage Abp53 Encodes Several Proteins Similar to Those Encoded by Host Acinetobacter baumannii and Phage phiKO2",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "One-step growth experiments... Cells... were harvested by centrifugation... The mixture was centrifuged... One set was ... centrifuged to remove host cells and determine the phage titers",
+      "Source_page": "2"
+    },
+    {
+      "Paper_title": "Lytic Myophage Abp53 Encodes Several Proteins Similar to Those Encoded by Host Acinetobacter baumannii and Phage phiKO2",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PFGE"
+      ],
+      "Detergents_used_for_lysis": [
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Phage DNA isolation... Phage particles ... were treated with SDS (1%) ... at 58\u00b0C... followed by ... phenol-chloroform ...",
+      "Source_page": "2"
+    },
+    {
+      "Paper_title": "Lytic Myophage Abp53 Encodes Several Proteins Similar to Those Encoded by Host Acinetobacter baumannii and Phage phiKO2",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": false,
+      "Evidence": "",
+      "Source_page": ""
+    }
+  ]
+}

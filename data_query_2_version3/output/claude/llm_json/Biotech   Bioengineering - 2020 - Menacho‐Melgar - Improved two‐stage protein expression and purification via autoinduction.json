@@ -1,0 +1,55 @@
+{
+  "source_pdf": "Biotech   Bioengineering - 2020 - Menacho\u2010Melgar - Improved two\u2010stage protein expression and purification via autoinduction.pdf",
+  "paper_meta": {
+    "Paper_title": "Biotech   Bioengineering - 2020 - Menacho\u2010Melgar - Improved two\u2010stage protein expression and purification via autoinduction",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "f16e7fac29"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Improved two-stage protein expression and purification via autoinduction of both autolysis and auto DNA/RNA hydrolysis conferred by phage lysozyme and DNA/RNA endonuclease",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "cells were harvested by centrifugation...resuspended in lysis buffer...0.1% Triton X-100...single freeze thaw...incubated at 37C",
+      "Source_page": "4-5"
+    },
+    {
+      "Paper_title": "Improved two-stage protein expression and purification via autoinduction of both autolysis and auto DNA/RNA hydrolysis conferred by phage lysozyme and DNA/RNA endonuclease",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Supernatant removed using plate washer/filler; lysis buffer added...placed at -60C for 30 min...lysates clarified by centrifugation",
+      "Source_page": "5"
+    },
+    {
+      "Paper_title": "Improved two-stage protein expression and purification via autoinduction of both autolysis and auto DNA/RNA hydrolysis conferred by phage lysozyme and DNA/RNA endonuclease",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "Sequencing"
+      ],
+      "Detergents_used_for_lysis": [
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": false,
+      "Evidence": "The low concentration of mild detergents (0.1% Triton X-100) used are also compatible with high-throughput... capillary electrophoresis systems",
+      "Source_page": "2"
+    }
+  ]
+}

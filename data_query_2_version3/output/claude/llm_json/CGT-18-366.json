@@ -1,0 +1,43 @@
+{
+  "source_pdf": "CGT-18-366.pdf",
+  "paper_meta": {
+    "Paper_title": "CGT-18-366",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "3b5dc8f6b4"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Clinical-grade Oncolytic Adenovirus Purification using Polysorbate 20 as an Alternative for Cell Lysis",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PCR/qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "Triton X-100",
+        "Tween 20"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Two detergents were evaluated for cell lysis, Triton X-100 and Polysorbate 20. ... DNA digestion ... Benzonase ... proceeded for 4 hours at 37C",
+      "Source_page": "2"
+    },
+    {
+      "Paper_title": "Clinical-grade Oncolytic Adenovirus Purification using Polysorbate 20 as an Alternative for Cell Lysis",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Tween 20",
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Polysorbate 20 as cell lysis agent compared with Triton X-100; both used as cell lysis detergents in downstream processing",
+      "Source_page": "2-3"
+    }
+  ]
+}

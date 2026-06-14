@@ -1,0 +1,41 @@
+{
+  "source_pdf": "12934_2017_Article_685.pdf",
+  "paper_meta": {
+    "Paper_title": "12934_2017_Article_685",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "957f9235eb"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Re-directing bacterial microcompartment systems to enhance recombinant expression of lysis protein E from bacteriophage \u03c6X174 in Escherichia coli",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [
+        "BPER-II"
+      ],
+      "Protocol_described": true,
+      "Evidence": "Cells were lysed via a French pressure cell at 12,000 psi and centrifuged...BMCs were washed with...60% BPER-II in buffer A",
+      "Source_page": "4"
+    },
+    {
+      "Paper_title": "Re-directing bacterial microcompartment systems to enhance recombinant expression of lysis protein E from bacteriophage \u03c6X174 in Escherichia coli",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "unspecified_detergent"
+      ],
+      "Detergent_products_unresolved_for_lysis": [
+        "Empigen BB (EBB)"
+      ],
+      "Protocol_described": true,
+      "Evidence": "Cells were lysed via a French pressure cell...EBB detergent was added to the supernatant...The column was washed with...",
+      "Source_page": "5"
+    }
+  ]
+}

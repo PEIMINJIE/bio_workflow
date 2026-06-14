@@ -1,0 +1,97 @@
+{
+  "source_pdf": "1-s2.0-S0166093408004321-main.pdf",
+  "paper_meta": {
+    "Paper_title": "1-s2.0-S0166093408004321-main",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "28626e51d3"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Purification of DNA from the cell-associated herpesvirus Marek\u2019s disease virus for 454 pyrosequencing using micrococcal nuclease digestion and polyethylene glycol precipitation",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "Sequencing"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [
+        "QIAamp DNA Mini Kit"
+      ],
+      "Protocol_described": true,
+      "Evidence": "\u201cTotal cellular DNA was extracted\u2026 using the QIAamp DNA Mini Kit\u2026 proteins were removed via ethanol/salt washes\u201d",
+      "Source_page": "2"
+    },
+    {
+      "Paper_title": "Purification of DNA from the cell-associated herpesvirus Marek\u2019s disease virus for 454 pyrosequencing using micrococcal nuclease digestion and polyethylene glycol precipitation",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cDNA\u2026 treated with\u2026 ATP-dependent exonuclease\u2026 stopped by heating\u2026 purified with\u2026 phenol/chloroform\u2026 precipitated with\u2026 ethanol.\u201d",
+      "Source_page": "2"
+    },
+    {
+      "Paper_title": "Purification of DNA from the cell-associated herpesvirus Marek\u2019s disease virus for 454 pyrosequencing using micrococcal nuclease digestion and polyethylene glycol precipitation",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PCR/qPCR",
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cqPCR conditions\u2026 Amplification reactions included\u2026 DNA template\u2026\u201d",
+      "Source_page": "2"
+    },
+    {
+      "Paper_title": "Purification of DNA from the cell-associated herpesvirus Marek\u2019s disease virus for 454 pyrosequencing using micrococcal nuclease digestion and polyethylene glycol precipitation",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "Sequencing"
+      ],
+      "Detergents_used_for_lysis": [
+        "Triton X-100",
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cInfected cells were washed\u2026 permeabilization buffer\u2026 1% Triton X-100\u2026 digestion buffer\u2026 0.5% SDS\u201d",
+      "Source_page": "3"
+    },
+    {
+      "Paper_title": "Purification of DNA from the cell-associated herpesvirus Marek\u2019s disease virus for 454 pyrosequencing using micrococcal nuclease digestion and polyethylene glycol precipitation",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "Sequencing"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cPolyethylene glycol precipitation of high-molecular weight\u2026 DNA\u2026 centrifuged\u2026 washed with\u2026 70% ethanol\u201d",
+      "Source_page": "3"
+    },
+    {
+      "Paper_title": "Purification of DNA from the cell-associated herpesvirus Marek\u2019s disease virus for 454 pyrosequencing using micrococcal nuclease digestion and polyethylene glycol precipitation",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": false,
+      "Evidence": "",
+      "Source_page": ""
+    }
+  ]
+}

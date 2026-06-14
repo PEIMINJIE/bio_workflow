@@ -1,0 +1,68 @@
+{
+  "source_pdf": "fcimb-11-716436.pdf",
+  "paper_meta": {
+    "Paper_title": "fcimb-11-716436",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "3f76a560df"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Evaluation of the SARS-CoV-2 Inactivation Efficacy Associated With Buffers From Three Kits Used on High-Throughput RNA Extraction Platforms",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": [
+        "QIAamp 96 Virus QIAcube HT Kit lysis buffer (Qiagen ACL/ATL)",
+        "MagMAX Pathogen RNA/DNA kit lysis binding buffer",
+        "MagMAX Viral/Pathogen Nucleic Acid Isolation kit lysis binding buffer"
+      ],
+      "Protocol_described": true,
+      "Evidence": "lysis buffer preparations, 200 ul of virus in VTM was added; incubated for 10 min at room temperature; heat-treated tubes incubated at 75C; samples centrifuged at 6,000 x g",
+      "Source_page": "3"
+    },
+    {
+      "Paper_title": "Evaluation of the SARS-CoV-2 Inactivation Efficacy Associated With Buffers From Three Kits Used on High-Throughput RNA Extraction Platforms",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "unspecified_detergent"
+      ],
+      "Detergent_products_unresolved_for_lysis": [
+        "MagMAX Pathogen RNA/DNA kit lysis binding buffer (contains Zwittergent)"
+      ],
+      "Protocol_described": true,
+      "Evidence": "MagMAX lysis binding buffer that contained GITC and the detergent Zwittergent; with addition of 2-propanol; required multiple wash steps and centrifugation",
+      "Source_page": "6"
+    },
+    {
+      "Paper_title": "fcimb-11-716436",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "Zwittergent"
+      ],
+      "Detergent_products_unresolved_for_lysis": [
+        "MagMAX Lysis Buffer",
+        "Qiagen lysis buffer"
+      ],
+      "Protocol_described": true,
+      "Evidence": "samples are sequentially mixed with lysis buffer and then followed with heat treatment; heating sample to 68C for 15 min; heat inactivation does not adversely affect PCR",
+      "Source_page": "7"
+    }
+  ]
+}

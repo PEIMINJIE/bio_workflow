@@ -1,0 +1,109 @@
+{
+  "source_pdf": "s12934-022-01766-9.pdf",
+  "paper_meta": {
+    "Paper_title": "s12934-022-01766-9",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "011aa8ba17"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Evaluation of factors influencing expression and extraction of recombinant bacteriophage endolysins in Escherichia coli",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": false,
+      "Evidence": "",
+      "Source_page": ""
+    },
+    {
+      "Paper_title": "Evaluation of factors influencing expression and extraction of recombinant bacteriophage endolysins in Escherichia coli",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100",
+        "Tween 20",
+        "NP-40",
+        "CHAPS",
+        "N-lauroylsarcosine (Sarkosyl)"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": false,
+      "Evidence": "",
+      "Source_page": ""
+    },
+    {
+      "Paper_title": "Evaluation of factors influencing expression and extraction of recombinant bacteriophage endolysins in Escherichia coli",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Induced cells ... were harvested by centrifugation ... pellet was re-suspended in ... lysis buffer ... Disruption ... using a bead beater ... Lysates were centrifuged ... to separate soluble and insoluble fractions",
+      "Source_page": "12"
+    },
+    {
+      "Paper_title": "Evaluation of factors influencing expression and extraction of recombinant bacteriophage endolysins in Escherichia coli",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "N-lauroylsarcosine"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Cell pellets lysis was performed by a bead-beating approach in lysis buffer ... supplemented with various concentrations of N-lauroylsarcosine (N-LS)",
+      "Source_page": "10"
+    },
+    {
+      "Paper_title": "Evaluation of factors influencing expression and extraction of recombinant bacteriophage endolysins in Escherichia coli",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "cultures were grown ... harvested by centrifugation ... and the pellet was re-suspended in ... lysis buffer",
+      "Source_page": "12"
+    },
+    {
+      "Paper_title": "Evaluation of factors influencing expression and extraction of recombinant bacteriophage endolysins in Escherichia coli",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Tween 20",
+        "Triton X-100",
+        "CHAPS",
+        "N-lauroylsarcosine",
+        "NP-40"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": false,
+      "Evidence": "",
+      "Source_page": ""
+    },
+    {
+      "Paper_title": "Evaluation of factors influencing expression and extraction of recombinant bacteriophage endolysins in Escherichia coli",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": false,
+      "Evidence": "",
+      "Source_page": ""
+    }
+  ]
+}

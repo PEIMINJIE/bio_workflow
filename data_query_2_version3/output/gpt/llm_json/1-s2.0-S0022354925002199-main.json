@@ -1,0 +1,42 @@
+{
+  "source_pdf": "1-s2.0-S0022354925002199-main.pdf",
+  "paper_meta": {
+    "Paper_title": "1-s2.0-S0022354925002199-main",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "a0f3d5023a"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Streamlining viral safety in AAV manufacturing: Simultaneous cell lysis and viral inactivation using biodegradable detergents",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Polysorbate 20",
+        "Poloxamer 188"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cHEK293 cells were lysed using detergent compositions A and B\u2026 The experiment was conducted at 25 \u00b1 1\u00b0C\u2026 for simultaneous cell lysis and VI.\u201d",
+      "Source_page": "2"
+    },
+    {
+      "Paper_title": "Streamlining viral safety in AAV manufacturing: Simultaneous cell lysis and viral inactivation using biodegradable detergents",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Polysorbate 20",
+        "Poloxamer 188",
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cthe required lysis solution\u2026 were added\u2026 After 24 h\u2026 the contents were centrifuged\u2026 collected for ddPCR analysis\u2026 A 1% Triton X-100 solution was included as a positive control.\u201d",
+      "Source_page": "2,4"
+    }
+  ]
+}
