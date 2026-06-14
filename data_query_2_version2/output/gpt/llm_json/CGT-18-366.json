@@ -1,0 +1,67 @@
+{
+  "source_pdf": "CGT-18-366.pdf",
+  "paper_meta": {
+    "Paper_title": "CGT-18-366",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "3b5dc8f6b4"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Clinical-grade Oncolytic Adenovirus Purification using Polysorbate 20 as an Alternative for Cell Lysis",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cTwo detergents were evaluated for cell lysis, Triton X-100 and Polysorbate 20.\u201d"
+    },
+    {
+      "Paper_title": "Clinical-grade Oncolytic Adenovirus Purification using Polysorbate 20 as an Alternative for Cell Lysis",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Polysorbate 20"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cTwo detergents were evaluated for cell lysis, Triton X-100 and Polysorbate 20.\u201d"
+    },
+    {
+      "Paper_title": "Clinical-grade Oncolytic Adenovirus Purification using Polysorbate 20 as an Alternative for Cell Lysis",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PCR/qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Comparison of downstream steps using two different detergents for cell lysis - Triton X-100 and Polysorbate 20; TP recovery was determined by qPCR."
+    },
+    {
+      "Paper_title": "Clinical-grade Oncolytic Adenovirus Purification using Polysorbate 20 as an Alternative for Cell Lysis",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PCR/qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "Polysorbate 20"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Scale-up runs were performed using Polysorbate 20 as the cell lysis agent; TP recovery was determined by qPCR."
+    }
+  ]
+}

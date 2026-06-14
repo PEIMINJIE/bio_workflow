@@ -1,0 +1,84 @@
+{
+  "source_pdf": "s41598-021-93333-2.pdf",
+  "paper_meta": {
+    "Paper_title": "s41598-021-93333-2",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "e18779230c"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Direct RT-PCR amplification of SARS-CoV-2 from clinical samples using a concentrated viral lysis-amplification buffer prepared with IGEPAL-630",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "IGEPAL CA-630"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "virus was diluted in vLAB... samples were incubated at room temperature... tested direct amplification"
+    },
+    {
+      "Paper_title": "Direct RT-PCR amplification of SARS-CoV-2 from clinical samples using a concentrated viral lysis-amplification buffer prepared with IGEPAL-630",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "IGEPAL CA-630"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "heat-inactivated clinical samples... diluted in vLAB... tested direct amplification"
+    },
+    {
+      "Paper_title": "Direct RT-PCR amplification of SARS-CoV-2 from clinical samples using a concentrated viral lysis-amplification buffer prepared with IGEPAL-630",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "standard amplification... purified SARS-CoV-2 RNA using QIAamp... clinical samples... treated with Trizol"
+    },
+    {
+      "Paper_title": "Direct RT-PCR amplification of SARS-CoV-2 from clinical samples using a concentrated viral lysis-amplification buffer prepared with IGEPAL-630",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [
+        "Panther Fusion SARS-CoV-2 assay"
+      ],
+      "Protocol_described": true,
+      "Evidence": "Fusion SARS-CoV-2 assay involves sample lysis, nucleic acid capture, elution transfer, and multiplex RT-PCR"
+    },
+    {
+      "Paper_title": "Direct RT-PCR amplification of SARS-CoV-2 from clinical samples using a concentrated viral lysis-amplification buffer prepared with IGEPAL-630",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "IGEPAL CA-630"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "clinical samples ... diluted with vLAB; vLAB prepared with IGEPAL allows dRT-PCR amplification"
+    }
+  ]
+}

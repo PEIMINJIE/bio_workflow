@@ -1,0 +1,129 @@
+{
+  "source_pdf": "Lipidomic study of intracellular.pdf",
+  "paper_meta": {
+    "Paper_title": "Lipidomic study of intracellular",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "59b125a31e"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Lipidomic study of intracellular Singapore grouper iridovirus",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "electron microscopy",
+        "Western blot",
+        "HPLC-ESI-MS",
+        "MRM lipid analysis"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Cells were harvested to purify intracellular SGIV by density gradient centrifugation; the figure notes an after-final-wash preparation."
+    },
+    {
+      "Paper_title": "Lipidomic study of intracellular Singapore grouper iridovirus",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "TCID50 infectivity assay",
+        "lipid composition analysis",
+        "SDS-PAGE",
+        "MALDI-TOF/TOF MS/MS",
+        "electron microscopy"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Viruses were treated with solvent, detergents and lipases; detergent-treated proteins were examined after centrifugation."
+    },
+    {
+      "Paper_title": "Lipidomic study of intracellular Singapore grouper iridovirus",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "lipid extraction",
+        "transmission electron microscopy",
+        "Western blotting"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Collected cells were washed and subjected to lipid extraction; purified virus was examined by EM and Western blotting."
+    },
+    {
+      "Paper_title": "Lipidomic study of intracellular Singapore grouper iridovirus",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "transmission electron microscopy"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Purified viruses were incubated with ether or DDM, then washed by centrifugation and examined under EM."
+    },
+    {
+      "Paper_title": "Lipidomic study of intracellular Singapore grouper iridovirus",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "TCID50 assay",
+        "lipid extraction and analysis",
+        "SDS-PAGE",
+        "MALDI-TOF/TOF MS/MS"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Solvent, detergent, and lipase-treated viruses were used for titer, lipid, and protein analyses."
+    },
+    {
+      "Paper_title": "Lipidomic study of intracellular Singapore grouper iridovirus",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "TCID50 assay"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Liposomes were prepared from extracted lipids; pretreated viruses were incubated with liposomes and titer was determined."
+    },
+    {
+      "Paper_title": "Lipidomic study of intracellular Singapore grouper iridovirus",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "ESI-MS",
+        "MRM mass spectrometry"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Lipid extracts were prepared from virus and cells; mixtures were centrifuged, and sphingolipid extraction used heating above 40C."
+    },
+    {
+      "Paper_title": "Lipidomic study of intracellular Singapore grouper iridovirus",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "phase contrast microscopy",
+        "fluorescence microscopy"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Apoptotic changes were monitored by microscopy; cells were labelled and stained using an apoptosis assay kit."
+    }
+  ]
+}

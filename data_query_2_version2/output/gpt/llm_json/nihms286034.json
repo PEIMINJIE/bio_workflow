@@ -1,0 +1,129 @@
+{
+  "source_pdf": "nihms286034.pdf",
+  "paper_meta": {
+    "Paper_title": "nihms286034",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "cad0d15d8e"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Purification and Functional Characterization of the \u03c6X174 Lysis Protein E",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "SDS-PAGE/immunoblotting",
+        "IMAC purification",
+        "MraY in vitro inhibition assay"
+      ],
+      "Detergents_used_for_lysis": [
+        "Empigen BB",
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "cells were collected by centrifugation in the cold, disrupted by French press; E was extracted with EBB or SDS"
+    },
+    {
+      "Paper_title": "Purification and Functional Characterization of the \u03c6X174 Lysis Protein E",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "immunoblotting"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "samples were harvested by centrifugation in the cold; cells were resuspended in cold buffer and lysed by French press"
+    },
+    {
+      "Paper_title": "Purification and Functional Characterization of the \u03c6X174 Lysis Protein E",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "MraY reactions",
+        "fluorescence-based transfer assay"
+      ],
+      "Detergents_used_for_lysis": [
+        "n-dodecyl-\u03b2-D-maltoside"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "cells were harvested by centrifugation in the cold, disrupted by French press; MraY activity was extracted with DDM"
+    },
+    {
+      "Paper_title": "Purification and Functional Characterization of the \u03d5X174 Lysis Protein E",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": false,
+      "Evidence": ""
+    },
+    {
+      "Paper_title": "Purification and Functional Characterization of the \u03d5X174 Lysis Protein E",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Cultures were induced and monitored for culture turbidity as described in Experimental Procedures."
+    },
+    {
+      "Paper_title": "Purification and Functional Characterization of the \u03d5X174 Lysis Protein E",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "SDS-PAGE",
+        "immunoblot"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Purification steps were analyzed by Coomassie-stained SDS PAGE and immunoblot; an imidazole wash fraction is noted."
+    },
+    {
+      "Paper_title": "Purification and Functional Characterization of the \u03d5X174 Lysis Protein E",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "immunoblot"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Immunoblots of membranes from cells lysed by induction of E6his."
+    },
+    {
+      "Paper_title": "Purification and Functional Characterization of the \u03c6X174 Lysis Protein E",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "immunoblot"
+      ],
+      "Detergents_used_for_lysis": [
+        "Triton X-100",
+        "Tween 20",
+        "NP-40",
+        "SDS",
+        "cholic acid",
+        "DHPC",
+        "EBB",
+        "saponin"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Membranes containing over-produced E6his were extracted with the indicated detergents; distribution was estimated by immunoblot and densitometry."
+    }
+  ]
+}

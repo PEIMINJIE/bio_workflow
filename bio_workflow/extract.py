@@ -189,11 +189,25 @@ Return ONLY a JSON array.
 """
 
 
-def _select_prompt(stage: str | None, safe_mode: bool) -> str:
+def _strip_source_page(prompt: str) -> str:
+    """Remove the Source_page field/rule so the model does not emit it."""
+    prompt = prompt.replace("Protocol_described, Evidence, Source_page,", "Protocol_described, Evidence,")
+    prompt = prompt.replace("Protocol_described, Evidence, Source_page", "Protocol_described, Evidence")
+    lines = [ln for ln in prompt.split("\n") if not ln.lstrip().startswith("- Source_page:")]
+    prompt = "\n".join(lines)
+    prompt = prompt.replace('set Evidence="" and Source_page="".', 'set Evidence="".')
+    return prompt
+
+
+def _select_prompt(stage: str | None, safe_mode: bool, include_source_page: bool = True) -> str:
     normalized = (stage or "").strip().lower()
     if normalized == "stage_1":
-        return PROMPT_TEMPLATE_STAGE_1_SAFE if safe_mode else PROMPT_TEMPLATE_STAGE_1_FULL
-    return PROMPT_TEMPLATE_SAFE if safe_mode else PROMPT_TEMPLATE_FULL
+        prompt = PROMPT_TEMPLATE_STAGE_1_SAFE if safe_mode else PROMPT_TEMPLATE_STAGE_1_FULL
+    else:
+        prompt = PROMPT_TEMPLATE_SAFE if safe_mode else PROMPT_TEMPLATE_FULL
+    if not include_source_page:
+        prompt = _strip_source_page(prompt)
+    return prompt
 
 
 def _parse_json_array(text: str) -> List[Dict[str, object]]:
@@ -320,6 +334,7 @@ def extract_protocols_from_text(
     debug_log_dir: str | None = None,
     debug_print: bool = False,
     debug_minimize: bool = False,
+    include_source_page: bool = True,
 ) -> List[Dict[str, object]]:
     provider = _provider_for_model(model)
     client = _make_client(provider)
@@ -328,7 +343,7 @@ def extract_protocols_from_text(
 
     all_protocols: List[Dict[str, object]] = []
     for chunk_index, chunk in enumerate(chunks, start=1):
-        prompt = _select_prompt(stage, safe_mode)
+        prompt = _select_prompt(stage, safe_mode, include_source_page)
         system = prompt.strip()
         # Logged messages include the system prompt for parity with prior logs.
         debug_messages = [{"role": "system", "content": system}, {"role": "user", "content": chunk}]
@@ -403,6 +418,7 @@ def extract_protocols_from_images(
     debug_print: bool = False,
     debug_request_meta: Dict[str, object] | None = None,
     debug_minimize: bool = False,
+    include_source_page: bool = True,
 ) -> List[Dict[str, object]]:
     if not images:
         return []
@@ -414,7 +430,7 @@ def extract_protocols_from_images(
     client = _make_client(provider)
     safety_identifier = _resolve_safety_identifier(provider, safety_identifier)
 
-    prompt = _select_prompt(stage, safe_mode)
+    prompt = _select_prompt(stage, safe_mode, include_source_page)
     system = prompt.strip()
     all_protocols: List[Dict[str, object]] = []
     for start in range(0, len(images), image_batch_size):

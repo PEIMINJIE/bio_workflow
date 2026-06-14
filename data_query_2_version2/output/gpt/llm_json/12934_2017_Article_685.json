@@ -1,0 +1,156 @@
+{
+  "source_pdf": "12934_2017_Article_685.pdf",
+  "paper_meta": {
+    "Paper_title": "12934_2017_Article_685",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "957f9235eb"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Re-directing bacterial microcompartment systems to enhance recombinant expression of lysis protein E from bacteriophage \u03c6X174 in Escherichia coli",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "SDS-PAGE",
+        "Western blot"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [
+        "Laemmli buffer"
+      ],
+      "Protocol_described": true,
+      "Evidence": "cells were harvested, re-suspended in Laemmli buffer, and boiled; samples were resolved for SDS-PAGE and Western blot"
+    },
+    {
+      "Paper_title": "Re-directing bacterial microcompartment systems to enhance recombinant expression of lysis protein E from bacteriophage \u03c6X174 in Escherichia coli",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "TEM",
+        "Bradford assay"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [
+        "BPER-II"
+      ],
+      "Protocol_described": true,
+      "Evidence": "Cell pellet was re-suspended in BPER-II; cells were lysed via French pressure, centrifuged, and BMCs were washed"
+    },
+    {
+      "Paper_title": "Re-directing bacterial microcompartment systems to enhance recombinant expression of lysis protein E from bacteriophage \u03c6X174 in Escherichia coli",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "TEM"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Purified BMC suspension was applied to a grid, stained, dried at room temperature, and analyzed by TEM"
+    },
+    {
+      "Paper_title": "Re-directing bacterial microcompartment systems to enhance recombinant expression of lysis protein E from bacteriophage \u03c6X174 in Escherichia coli",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "growth inhibition assay",
+        "UV absorbance protein quantification"
+      ],
+      "Detergents_used_for_lysis": [
+        "Empigen BB"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Cells were lysed via French pressure; lysates were centrifuged, treated with EBB detergent, purified, and quantified"
+    },
+    {
+      "Paper_title": "Re-directing bacterial microcompartment systems to enhance recombinant expression of lysis protein E from bacteriophage \u03c6X174 in Escherichia coli",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "SDS-PAGE",
+        "Western blot"
+      ],
+      "Detergents_used_for_lysis": [
+        "Empigen BB"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "For purification from isolated BMCs, EBB detergent was used to solubilize PduP-E; fractions were analyzed by SDS-PAGE and Western blot"
+    },
+    {
+      "Paper_title": "Re-directing bacterial microcompartment systems to enhance recombinant expression of lysis protein E from bacteriophage \u03c6X174 in Escherichia coli",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "growth inhibition assay"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Factor Xa-treated PduP-E was centrifuged to remove resin; the mixture was directly used in growth inhibition assays"
+    },
+    {
+      "Paper_title": "Re-directing bacterial microcompartment systems to enhance recombinant expression of lysis protein E from bacteriophage \u03c6X174 in Escherichia coli",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "SDS-PAGE",
+        "Western blot",
+        "TEM"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "BMCs were isolated from cells...; SDS-PAGE analysis after each centrifugation step in the BMC isolation..."
+    },
+    {
+      "Paper_title": "Re-directing bacterial microcompartment systems to enhance recombinant expression of lysis protein E from bacteriophage \u03c6X174 in Escherichia coli",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "Ni-NTA purification",
+        "Factor Xa proteolysis",
+        "cell growth inhibition assay",
+        "SDS-PAGE"
+      ],
+      "Detergents_used_for_lysis": [
+        "unspecified_detergent"
+      ],
+      "Detergent_products_unresolved_for_lysis": [
+        "EBB buffer"
+      ],
+      "Protocol_described": true,
+      "Evidence": "we extracted PduP-E from total lysate...; extraction of E by the EBB detergent..."
+    },
+    {
+      "Paper_title": "Re-directing bacterial microcompartment systems to enhance recombinant expression of lysis protein E from bacteriophage \u03c6X174 in Escherichia coli",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "Ni-NTA purification",
+        "SDS-PAGE",
+        "Western blot",
+        "cell growth inhibition assay"
+      ],
+      "Detergents_used_for_lysis": [
+        "unspecified_detergent"
+      ],
+      "Detergent_products_unresolved_for_lysis": [
+        "EBB buffer"
+      ],
+      "Protocol_described": true,
+      "Evidence": "purified from isolated BMCs by extraction with EBB followed by Ni-NTA purification; sequential wash fractions..."
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "source_pdf": "inactivation-of-coronaviruses-during-sample-preparation-for-proteomics-experiments.pdf",
+  "paper_meta": {
+    "Paper_title": "inactivation-of-coronaviruses-during-sample-preparation-for-proteomics-experiments",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "90f955347a"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Inactivation of Coronaviruses during Sample Preparation for Proteomics Experiments",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "Mass spectrometry-based proteomics"
+      ],
+      "Detergents_used_for_lysis": [
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Proteomics lysis buffers included SDS; lysis was performed at room temperature."
+    },
+    {
+      "Paper_title": "Inactivation of Coronaviruses during Sample Preparation for Proteomics Experiments",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "Mass spectrometry-based proteomics"
+      ],
+      "Detergents_used_for_lysis": [
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Combining these lysis buffers with heating results in complete inactivation."
+    },
+    {
+      "Paper_title": "Inactivation of Coronaviruses during Sample Preparation for Proteomics Experiments",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "Mass spectrometry-based proteomics"
+      ],
+      "Detergents_used_for_lysis": [
+        "sodium deoxycholate"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Proteomics lysis buffers included sodium deoxycholate; lysis was performed at room temperature."
+    },
+    {
+      "Paper_title": "Inactivation of Coronaviruses during Sample Preparation for Proteomics Experiments",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "Mass spectrometry-based proteomics"
+      ],
+      "Detergents_used_for_lysis": [
+        "sodium deoxycholate"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Combining these lysis buffers with heating results in complete inactivation."
+    },
+    {
+      "Paper_title": "Inactivation of Coronaviruses during Sample Preparation for Proteomics Experiments",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "Mass spectrometry-based proteomics"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Proteomics lysis buffers included TFA; lysis was performed at room temperature."
+    },
+    {
+      "Paper_title": "Inactivation of Coronaviruses during Sample Preparation for Proteomics Experiments",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "Mass spectrometry-based proteomics"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Combining these lysis buffers with heating results in complete inactivation."
+    },
+    {
+      "Paper_title": "Inactivation of Coronaviruses during Sample Preparation for Proteomics Experiments",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "Mass spectrometry-based proteomics"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Proteomics lysis buffers included GdmCl; lysis was performed at room temperature."
+    },
+    {
+      "Paper_title": "Inactivation of Coronaviruses during Sample Preparation for Proteomics Experiments",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "Mass spectrometry-based proteomics"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Combining these lysis buffers with heating results in complete inactivation."
+    },
+    {
+      "Paper_title": "Inactivation of Coronaviruses during Sample Preparation for Proteomics Experiments",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "Mass spectrometry-based proteomics"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Proteomics lysis buffers included urea; lysis was performed at room temperature."
+    },
+    {
+      "Paper_title": "Inactivation of Coronaviruses during Sample Preparation for Proteomics Experiments",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "Mass spectrometry-based proteomics"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Combining these lysis buffers with heating results in complete inactivation."
+    },
+    {
+      "Paper_title": "Inactivation of Coronaviruses during Sample Preparation for Proteomics Experiments",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "As a control, heat inactivation without lysis buffer was performed."
+    },
+    {
+      "Paper_title": "Inactivation of Coronaviruses during Sample Preparation for Proteomics Experiments",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [
+        "QIAamp Viral RNA Mini Kit"
+      ],
+      "Protocol_described": true,
+      "Evidence": "RNA extraction was performed with the QIAamp Viral RNA Mini Kit; real-time PCR was performed."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "source_pdf": "253_2017_Article_8281.pdf",
+  "paper_meta": {
+    "Paper_title": "253_2017_Article_8281",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "83e42d0cb9"
+  },
+  "protocols": [
+    {
+      "Paper_title": "A novel method to recover inclusion body protein from recombinant E. coli fed-batch processes based on phage \u03a6X174-derived lysis protein E",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "SDS-PAGE",
+        "RP-HPLC"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "protein E-mediated lysis; inclusion bodies... harvested via centrifugation; lysed samples were used for SDS gel/HPLC"
+    },
+    {
+      "Paper_title": "A novel method to recover inclusion body protein from recombinant E. coli fed-batch processes based on phage \u03a6X174-derived lysis protein E",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "SDS-PAGE",
+        "RP-HPLC"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "fermentation broth was centrifuged and washed once... samples... were homogenized; homogenized samples were used for SDS gel/HPLC"
+    },
+    {
+      "Paper_title": "A novel method to recover inclusion body protein from recombinant E. coli fed-batch processes based on phage \u03a6X174-derived lysis protein E",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": false,
+      "Evidence": ""
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "source_pdf": "1-s2.0-S002196732500901X-main.pdf",
+  "paper_meta": {
+    "Paper_title": "1-s2.0-S002196732500901X-main",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "87a4bf06e5"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Integrating the affinity and anion-exchange purification of AAV8: how the selective enrichment of full capsids at the affinity capture step enhances the downstream processing of gene therapies",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "PCR/qPCR",
+        "ELISA",
+        "flow cytometry"
+      ],
+      "Detergents_used_for_lysis": [
+        "Triton X-100",
+        "deoxycholate",
+        "Deviron C16",
+        "Deviron 13S9",
+        "CTAB"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "cultures were exposed to detergents including Triton X100, sodium deoxycholate, Deviron C16/13S9, and CTAB; debris was removed by centrifugation"
+    },
+    {
+      "Paper_title": "Integrating the affinity and anion-exchange purification of AAV8: how the selective enrichment of full capsids at the affinity capture step enhances the downstream processing of gene therapies",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "PCR/qPCR",
+        "ELISA",
+        "flow cytometry"
+      ],
+      "Detergents_used_for_lysis": [
+        "unspecified_detergent"
+      ],
+      "Detergent_products_unresolved_for_lysis": [
+        "AAV-MAX Lysis Buffer"
+      ],
+      "Protocol_described": true,
+      "Evidence": "cultures were exposed to AAV-MAX lysis buffer; later described as a Tween-based buffer with proprietary composition"
+    },
+    {
+      "Paper_title": "Integrating the affinity and anion-exchange purification of AAV8: how the selective enrichment of full capsids at the affinity capture step enhances the downstream processing of gene therapies",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "PCR/qPCR",
+        "ELISA",
+        "flow cytometry"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "cultures were exposed to high-salt conditions, NaCl or KCl; debris was removed by centrifugation"
+    },
+    {
+      "Paper_title": "Integrating the affinity and anion-exchange purification of AAV8: how the selective enrichment of full capsids at the affinity capture step enhances the downstream processing of gene therapies",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PCR/qPCR"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "clarified and conditioned lysates were quantified by qPCR; samples were treated to inactivate DNase and analyzed by TaqMan qPCR"
+    },
+    {
+      "Paper_title": "Integrating the affinity and anion-exchange purification of AAV8: how the selective enrichment of full capsids at the affinity capture step enhances the downstream processing of gene therapies",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "tangential flow filtration",
+        "affinity chromatography",
+        "anion-exchange chromatography",
+        "AEX-HPLC/MALS",
+        "transduction assay"
+      ],
+      "Detergents_used_for_lysis": [
+        "sodium deoxycholate"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Sodium deoxycholate is listed as a lysis condition; lysates were processed by TFF and advanced to affinity chromatography."
+    },
+    {
+      "Paper_title": "Integrating the affinity and anion-exchange purification of AAV8: how the selective enrichment of full capsids at the affinity capture step enhances the downstream processing of gene therapies",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "tangential flow filtration"
+      ],
+      "Detergents_used_for_lysis": [
+        "CTAB"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "CTAB is described as a cationic detergent used in lysates; CTAB lysates maintained flux during TFF."
+    },
+    {
+      "Paper_title": "Integrating the affinity and anion-exchange purification of AAV8: how the selective enrichment of full capsids at the affinity capture step enhances the downstream processing of gene therapies",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "tangential flow filtration",
+        "affinity chromatography",
+        "anion-exchange chromatography",
+        "AEX-HPLC/MALS",
+        "transduction assay"
+      ],
+      "Detergents_used_for_lysis": [
+        "Deviron 13-S9"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Deviron 13-S9 lysates were processed by TFF, with affinity eluates analyzed by AEX-HPLC/MALS and transduction assays."
+    },
+    {
+      "Paper_title": "Integrating the affinity and anion-exchange purification of AAV8: how the selective enrichment of full capsids at the affinity capture step enhances the downstream processing of gene therapies",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "tangential flow filtration",
+        "affinity chromatography",
+        "transduction assay"
+      ],
+      "Detergents_used_for_lysis": [
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Triton X-100 is listed among lysis conditions; affinity eluates from HEK293 lysates were evaluated for enrichment and transduction."
+    },
+    {
+      "Paper_title": "Integrating the affinity and anion-exchange purification of AAV8: how the selective enrichment of full capsids at the affinity capture step enhances the downstream processing of gene therapies",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "tangential flow filtration"
+      ],
+      "Detergents_used_for_lysis": [
+        "sodium deoxycholate"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Sodium deoxycholate lysates supplemented with salt before diafiltration showed improved flux and AAV recovery."
+    },
+    {
+      "Paper_title": "Integrating the affinity and anion-exchange purification of AAV8: how the selective enrichment of full capsids at the affinity capture step enhances the downstream processing of gene therapies",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "tangential flow filtration",
+        "affinity chromatography",
+        "AEX-HPLC/MALS",
+        "transduction assay"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "KCl is listed as a salt-only lysis condition; KCl-derived lysates were processed through TFF and AvXcel analysis."
+    },
+    {
+      "Paper_title": "Integrating the affinity and anion-exchange purification of AAV8: how the selective enrichment of full capsids at the affinity capture step enhances the downstream processing of gene therapies",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "tangential flow filtration",
+        "affinity chromatography",
+        "anion-exchange chromatography",
+        "AEX-HPLC/MALS",
+        "transduction assay"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "NaCl is listed as a salt-only lysis condition; NaCl-derived feeds were used for affinity and AEX polishing workflows."
+    },
+    {
+      "Paper_title": "Integrating the affinity and anion-exchange purification of AAV8: how the selective enrichment of full capsids at the affinity capture step enhances the downstream processing of gene therapies",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": false,
+      "Evidence": ""
+    }
+  ]
+}

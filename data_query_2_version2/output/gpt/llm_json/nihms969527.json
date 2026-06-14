@@ -1,0 +1,68 @@
+{
+  "source_pdf": "nihms969527.pdf",
+  "paper_meta": {
+    "Paper_title": "nihms969527",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "a1c26413f9"
+  },
+  "protocols": [
+    {
+      "Paper_title": "The holin of bacteriophage lambda forms rings with large diameter",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "gel-permeation chromatography",
+        "SDS-PAGE",
+        "electron microscopy",
+        "circular dichroism",
+        "cryo-EM",
+        "chemical cross-linking"
+      ],
+      "Detergents_used_for_lysis": [
+        "Empigen BB",
+        "n-dodecyl-\u03b2-D-maltopyranoside (DDM)",
+        "n-octyl-\u03b2-D-glucopyranoside (OG)",
+        "lauryldimethylamine-oxide (LDAO)"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "S105 was \u201cextracted and purified using\u201d Empigen BB; DDM, OG and LDAO were also reported for purified S105."
+    },
+    {
+      "Paper_title": "The holin of bacteriophage lambda forms rings with large diameter",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "proteolysis assay",
+        "SDS-PAGE",
+        "immunoblotting",
+        "electron microscopy",
+        "chemical modification assay"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "IMVs \u201cproduced by the passage of cells expressing S105\u201d were used as membrane-associated S105 for proteolysis studies."
+    },
+    {
+      "Paper_title": "The holin of bacteriophage lambda forms rings with large diameter",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "DDM",
+        "\u03b2-OG",
+        "LDAO"
+      ],
+      "Detergent_products_unresolved_for_lysis": [
+        "EBB"
+      ],
+      "Protocol_described": true,
+      "Evidence": "Cells were lysed by French press; lysates were cleared by centrifugation; membrane pellets were solubilized in EBB, DDM, \u03b2-OG or LDAO."
+    }
+  ]
+}

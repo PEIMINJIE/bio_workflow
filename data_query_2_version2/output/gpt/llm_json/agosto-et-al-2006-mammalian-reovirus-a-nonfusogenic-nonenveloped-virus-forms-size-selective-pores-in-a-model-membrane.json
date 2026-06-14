@@ -1,0 +1,71 @@
+{
+  "source_pdf": "agosto-et-al-2006-mammalian-reovirus-a-nonfusogenic-nonenveloped-virus-forms-size-selective-pores-in-a-model-membrane.pdf",
+  "paper_meta": {
+    "Paper_title": "agosto-et-al-2006-mammalian-reovirus-a-nonfusogenic-nonenveloped-virus-forms-size-selective-pores-in-a-model-membrane",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "48802a47ed"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Mammalian reovirus, a nonfusogenic nonenveloped virus, forms size-selective pores in a model membrane",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "Flow cytometry",
+        "Fluorescence microscopy",
+        "Density sedimentation"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "RBC ghosts were made by hypotonic lysis, washed, pelleted, resealed, and later used as RG preparations."
+    },
+    {
+      "Paper_title": "Mammalian reovirus, a nonfusogenic nonenveloped virus, forms size-selective pores in a model membrane",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "Absorbance measurement",
+        "Protease sensitivity assay"
+      ],
+      "Detergents_used_for_lysis": [
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Hemolysis reactions were chilled and centrifuged; a detergent reaction containing Triton X-100 served as the complete-lysis reference."
+    },
+    {
+      "Paper_title": "Mammalian reovirus, a nonfusogenic nonenveloped virus, forms size-selective pores in a model membrane",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "Flow cytometry",
+        "Fluorescence microscopy"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Hemolysis-like reactions with RGs were chilled, diluted, and analyzed by flow cytometry; microscopy was also used for RG leakage."
+    },
+    {
+      "Paper_title": "Mammalian reovirus, a nonfusogenic nonenveloped virus, forms size-selective pores in a model membrane",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "SDS/PAGE",
+        "Immunoblotting",
+        "Scintillation counting"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "RG leakage reactions were fractionated on gradients, tubes were washed and boiled, and fractions were analyzed by SDS/PAGE or counting."
+    }
+  ]
+}

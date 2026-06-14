@@ -1,0 +1,52 @@
+{
+  "source_pdf": "Delta-24-RGD_Induces_Cytotoxicity_of_Glioblastoma_Spheroids_in_Three_Dimensional_PEG_Microwells.pdf",
+  "paper_meta": {
+    "Paper_title": "Delta-24-RGD_Induces_Cytotoxicity_of_Glioblastoma_Spheroids_in_Three_Dimensional_PEG_Microwells",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "28b5447d61"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Delta-24-RGD Induces Cytotoxicity of Glioblastoma Spheroids in Three Dimensional PEG Microwells",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "trypan blue cell viability assay"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "cultures infected with Delta-24-RGD were washed with PBS and mixed with trypan blue; cells were counted"
+    },
+    {
+      "Paper_title": "Delta-24-RGD Induces Cytotoxicity of Glioblastoma Spheroids in Three Dimensional PEG Microwells",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "confocal microscopy"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Cells were stained with ethidium homodimer-1; microwells were rinsed and analyzed using confocal microscopy"
+    },
+    {
+      "Paper_title": "Delta-24-RGD Induces Cytotoxicity of Glioblastoma Spheroids in Three Dimensional PEG Microwells",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "Western blot"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [
+        "RIPA buffer"
+      ],
+      "Protocol_described": true,
+      "Evidence": "cultures were resuspended in PBS and subjected to lysis with RIPA buffer; lysate protein concentrations were determined"
+    }
+  ]
+}

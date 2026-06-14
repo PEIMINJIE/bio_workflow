@@ -1,0 +1,113 @@
+{
+  "source_pdf": "cells-08-00487.pdf",
+  "paper_meta": {
+    "Paper_title": "cells-08-00487",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "88bce882dc"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Endoplasmic Reticulum Detergent-Resistant Membranes Accommodate Hepatitis C Virus Proteins for Viral Assembly",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "flotation-gradient fractionation",
+        "immunoprecipitation",
+        "western blotting/immunoblotting"
+      ],
+      "Detergents_used_for_lysis": [
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "infected cells lysed with Triton X-100 (Tx) buffer; lysates were subjected to flotation-gradient fractionation and immunoblotting"
+    },
+    {
+      "Paper_title": "Endoplasmic Reticulum Detergent-Resistant Membranes Accommodate Hepatitis C Virus Proteins for Viral Assembly",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "flotation-gradient fractionation",
+        "immunoprecipitation",
+        "western blotting/immunoblotting"
+      ],
+      "Detergents_used_for_lysis": [
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "cell lysates were prepared with Triton X-100 buffer plus freezing (TxF) and analyzed by immunoprecipitation/immunoblotting"
+    },
+    {
+      "Paper_title": "Endoplasmic Reticulum Detergent-Resistant Membranes Accommodate Hepatitis C Virus Proteins for Viral Assembly",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "flotation-gradient fractionation",
+        "immunoprecipitation",
+        "western blotting/immunoblotting"
+      ],
+      "Detergents_used_for_lysis": [
+        "Triton X-100",
+        "n-octyl-\u03b2-D-glucopyranoside"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "cells lysed with Tx buffer then frozen/thawed and treated with n-octyl-\u03b2-D-glucopyranoside buffer (TxnO)"
+    },
+    {
+      "Paper_title": "Endoplasmic Reticulum Detergent-Resistant Membranes Accommodate Hepatitis C Virus Proteins for Viral Assembly",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "immunoprecipitation",
+        "immunoblotting",
+        "chemiluminescence immunoassay"
+      ],
+      "Detergents_used_for_lysis": [
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "cells were lysed with Triton X-100 (Tx) buffer; the resulting cell lysate was subjected to immunoprecipitation"
+    },
+    {
+      "Paper_title": "Endoplasmic Reticulum Detergent-Resistant Membranes Accommodate Hepatitis C Virus Proteins for Viral Assembly",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "immunoprecipitation",
+        "chemiluminescence immunoassay"
+      ],
+      "Detergents_used_for_lysis": [
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "lysed with Triton X-100 buffer + freezing (TxF); Core was quantified by... chemiluminescence immunoassay after immunoprecipitation"
+    },
+    {
+      "Paper_title": "Endoplasmic Reticulum Detergent-Resistant Membranes Accommodate Hepatitis C Virus Proteins for Viral Assembly",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "immunoprecipitation",
+        "chemiluminescence immunoassay"
+      ],
+      "Detergents_used_for_lysis": [
+        "Triton X-100",
+        "n-octyl-\u03b2-D-glucopyranoside"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "lysed with... Triton X-100 buffer + freezing + n-octyl-\u03b2-D-glucopyranoside buffer (TxnO)"
+    }
+  ]
+}

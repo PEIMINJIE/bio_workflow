@@ -1,0 +1,113 @@
+{
+  "source_pdf": "JCM.01713-20.pdf",
+  "paper_meta": {
+    "Paper_title": "JCM.01713-20",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "53f24d2991"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Analysis of Inactivation of SARS-CoV-2 by Specimen Transport Media, Nucleic Acid Extraction Reagents, Detergents, and Fixatives",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "Cell culture/TCID50 assay"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "treated sample was purified through filtration matrices; eluate was used directly in cell culture"
+    },
+    {
+      "Paper_title": "Analysis of Inactivation of SARS-CoV-2 by Specimen Transport Media, Nucleic Acid Extraction Reagents, Detergents, and Fixatives",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "unspecified_downstream_assay"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [
+        "BioComma",
+        "Sigma MM",
+        "eNAT",
+        "PrimeStore MTM",
+        "Cobas PCR medium",
+        "Aptima specimen TM",
+        "DNA/RNA Shield"
+      ],
+      "Protocol_described": true,
+      "Evidence": "Specimen transport tubes are designed to inactivate microorganisms while preserving nucleic acids for molecular testing"
+    },
+    {
+      "Paper_title": "Analysis of Inactivation of SARS-CoV-2 by Specimen Transport Media, Nucleic Acid Extraction Reagents, Detergents, and Fixatives",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "unspecified_downstream_assay"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [
+        "AVL",
+        "RLT",
+        "MagNA Pure External LB",
+        "AL",
+        "Cobas Omni LYS",
+        "PHE in-house LB",
+        "E&O Lab VPSS",
+        "E&O Lab LB",
+        "NeuMoDx LB",
+        "Samba II SCoV LB",
+        "NucliSENS LB",
+        "Panther Fusion specimen lysis tubes"
+      ],
+      "Protocol_described": true,
+      "Evidence": "molecular extraction lysis buffers used in several manual and automated extraction protocols"
+    },
+    {
+      "Paper_title": "Analysis of Inactivation of SARS-CoV-2 by Specimen Transport Media, Nucleic Acid Extraction Reagents, Detergents, and Fixatives",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "Triton X-100",
+        "SDS",
+        "NP-40",
+        "Tween 20"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "evaluated Triton X-100, SDS, NP-40, and Tween 20; extracted RNA from treated samples was tested using qRT-PCR"
+    },
+    {
+      "Paper_title": "Analysis of Inactivation of SARS-CoV-2 by Specimen Transport Media, Nucleic Acid Extraction Reagents, Detergents, and Fixatives",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "Electron microscopy"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "formaldehyde or formaldehyde and glutaraldehyde is a well-established protocol, particularly for diagnostic electron microscopy"
+    },
+    {
+      "Paper_title": "Analysis of Inactivation of SARS-CoV-2 by Specimen Transport Media, Nucleic Acid Extraction Reagents, Detergents, and Fixatives",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "PHMB is a polymer used as a disinfectant and antiseptic, evaluated here as a potential lysis buffer"
+    }
+  ]
+}

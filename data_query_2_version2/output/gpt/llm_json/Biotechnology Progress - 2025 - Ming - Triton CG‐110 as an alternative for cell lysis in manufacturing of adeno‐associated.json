@@ -1,0 +1,111 @@
+{
+  "source_pdf": "Biotechnology Progress - 2025 - Ming - Triton CG\u2010110 as an alternative for cell lysis in manufacturing of adeno\u2010associated.pdf",
+  "paper_meta": {
+    "Paper_title": "Biotechnology Progress - 2025 - Ming - Triton CG\u2010110 as an alternative for cell lysis in manufacturing of adeno\u2010associated",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "7800fd665f"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Triton CG-110 as an alternative for cell lysis in manufacturing of adeno-associated virus-based gene therapy",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": true,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Tween 20",
+        "Tween 80",
+        "n-Dodecyl-\u03b2-D-maltoside (DDM)",
+        "Triton CG-110",
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cSmall-scale lysis and clarification\u201d; \u201cTween 20, Tween 80, DDM, and Triton CG-110 were tested\u2026\u201d"
+    },
+    {
+      "Paper_title": "Triton CG-110 as an alternative for cell lysis in manufacturing of adeno-associated virus-based gene therapy",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": true,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100",
+        "Triton CG-110",
+        "n-Dodecyl-\u03b2-D-maltoside (DDM)"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cAt-scale lysis, clarification, and affinity chromatography\u201d; \u201cTriton X-100, Triton CG-110, and DDM were assessed.\u201d"
+    },
+    {
+      "Paper_title": "Triton CG-110 as an alternative for cell lysis in manufacturing of adeno-associated virus-based gene therapy",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "affinity chromatography"
+      ],
+      "Detergents_used_for_lysis": [
+        "Triton X-100",
+        "Triton CG-110",
+        "n-Dodecyl-\u03b2-D-maltoside"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Figure 4 describes Molecule 2 at-scale clarification with Triton X-100, Triton CG-110, and DDM, measuring cell lysate, CCL, harvest yield, and affinity chromatography."
+    },
+    {
+      "Paper_title": "Triton CG-110 as an alternative for cell lysis in manufacturing of adeno-associated virus-based gene therapy",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "affinity chromatography"
+      ],
+      "Detergents_used_for_lysis": [
+        "Triton X-100",
+        "Triton CG-110",
+        "n-Dodecyl-\u03b2-D-maltoside"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Section 3.4 reports Molecule 4 at-scale results with Triton X-100, DDM, and Triton CG-110; turbidity and affinity chromatography were compared."
+    },
+    {
+      "Paper_title": "Triton CG-110 as an alternative for cell lysis in manufacturing of adeno-associated virus-based gene therapy",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "affinity chromatography"
+      ],
+      "Detergents_used_for_lysis": [
+        "Triton CG-110"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Section 3.5/Figure 6 reports Molecule 1 harvesting with Triton CG-110 and COHC; CCL turbidity, harvest yield, and affinity chromatography were reported."
+    },
+    {
+      "Paper_title": "Triton CG-110 as an alternative for cell lysis in manufacturing of adeno-associated virus-based gene therapy",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "affinity chromatography"
+      ],
+      "Detergents_used_for_lysis": [
+        "Tween 20",
+        "Tween 80",
+        "n-Dodecyl-\u03b2-D-maltoside",
+        "Triton CG-110",
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Discussion states that small-scale lysis screened Tween 20, Tween 80, DDM, and Triton CG-110; the conclusion compares them with Triton X-100."
+    }
+  ]
+}

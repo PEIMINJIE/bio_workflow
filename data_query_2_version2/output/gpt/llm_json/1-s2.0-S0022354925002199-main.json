@@ -1,0 +1,46 @@
+{
+  "source_pdf": "1-s2.0-S0022354925002199-main.pdf",
+  "paper_meta": {
+    "Paper_title": "1-s2.0-S0022354925002199-main",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "a0f3d5023a"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Streamlining viral safety in AAV manufacturing: Simultaneous cell lysis and viral inactivation using biodegradable detergents",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "TCID50 infectivity assay"
+      ],
+      "Detergents_used_for_lysis": [
+        "TDA-9",
+        "Polysorbate 20",
+        "Poloxamer 188"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "treated with detergent compositions A and B... at 37\u00b0C; compositions consist of TDA-9, Polysorbate 20, and Poloxamer 188."
+    },
+    {
+      "Paper_title": "Streamlining viral safety in AAV manufacturing: Simultaneous cell lysis and viral inactivation using biodegradable detergents",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "ddPCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "TDA-9",
+        "Polysorbate 20",
+        "Poloxamer 188",
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "room temperature... contents were centrifuged... samples collected for ddPCR; Triton X-100 solution was included as a positive control."
+    }
+  ]
+}

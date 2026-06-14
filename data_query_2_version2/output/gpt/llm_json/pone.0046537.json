@@ -1,0 +1,114 @@
+{
+  "source_pdf": "pone.0046537.pdf",
+  "paper_meta": {
+    "Paper_title": "pone.0046537",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "14071a49c5"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Isolation and Characterization of \u03c6km18p, a Novel Lytic Phage with Therapeutic Potential against Extensively Drug Resistant Acinetobacter baumannii",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "phage enrichment technique; bacterial cells were centrifuged and the supernatant was filtered"
+    },
+    {
+      "Paper_title": "Isolation and Characterization of \u03c6km18p, a Novel Lytic Phage with Therapeutic Potential against Extensively Drug Resistant Acinetobacter baumannii",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "phage lysate was centrifuged, filtered, treated with nucleases, and banded particles were collected and dialyzed"
+    },
+    {
+      "Paper_title": "Isolation and Characterization of \u03c6km18p, a Novel Lytic Phage with Therapeutic Potential against Extensively Drug Resistant Acinetobacter baumannii",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "phage-infected culture sample was centrifuged; the pellet was washed with PBS"
+    },
+    {
+      "Paper_title": "Isolation and Characterization of \u03c6km18p, a Novel Lytic Phage with Therapeutic Potential against Extensively Drug Resistant Acinetobacter baumannii",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "restriction enzyme digestion",
+        "agarose gel electrophoresis"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [
+        "Viral Nucleic Extraction Kit II"
+      ],
+      "Protocol_described": true,
+      "Evidence": "Phage DNA was extracted from purified phage particles following the Viral Nucleic Extraction Kit II procedure"
+    },
+    {
+      "Paper_title": "Isolation and Characterization of \u03c6km18p, a Novel Lytic Phage with Therapeutic Potential against Extensively Drug Resistant Acinetobacter baumannii",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "restriction enzyme digestion",
+        "PFGE"
+      ],
+      "Detergents_used_for_lysis": [
+        "N-lauroylsarcosine (Sarkosyl)"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "solid block was lysed with proteinase K in cell lysis buffer containing Sarcosine; agarose block was washed"
+    },
+    {
+      "Paper_title": "Isolation and Characterization of \u03c6km18p, a Novel Lytic Phage with Therapeutic Potential against Extensively Drug Resistant Acinetobacter baumannii",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "transmission electron microscopy"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "phage suspension was spotted onto a mesh grid, stained, and examined under an electron microscope"
+    },
+    {
+      "Paper_title": "Isolation and Characterization of \u03c6km18p, a Novel Lytic Phage with Therapeutic Potential against Extensively Drug Resistant Acinetobacter baumannii",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "SDS-PAGE",
+        "bacterium overlay assay"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "phage lysate was centrifuged and filtered; proteins were dialyzed and run on SDS-PAGE without boiling"
+    },
+    {
+      "Paper_title": "Isolation and Characterization of \u03c6km18p, a Novel Lytic Phage with Therapeutic Potential against Extensively Drug Resistant Acinetobacter baumannii",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "wells were washed twice with PBS and incubated with trypsin-EDTA solution"
+    }
+  ]
+}

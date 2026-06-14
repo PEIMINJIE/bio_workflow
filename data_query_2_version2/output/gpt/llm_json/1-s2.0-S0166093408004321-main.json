@@ -1,0 +1,70 @@
+{
+  "source_pdf": "1-s2.0-S0166093408004321-main.pdf",
+  "paper_meta": {
+    "Paper_title": "1-s2.0-S0166093408004321-main",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "28626e51d3"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Purification of DNA from the cell-associated herpesvirus Marek\u2019s disease virus for 454 pyrosequencing using micrococcal nuclease digestion and polyethylene glycol precipitation",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "Phi29 DNA polymerase amplification"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [
+        "QIAamp DNA Mini Kit"
+      ],
+      "Protocol_described": true,
+      "Evidence": "Total cellular DNA was extracted using the QIAamp DNA Mini Kit ... ethanol/salt washes; for Phi29 DNA polymerase amplification."
+    },
+    {
+      "Paper_title": "Purification of DNA from the cell-associated herpesvirus Marek\u2019s disease virus for 454 pyrosequencing using micrococcal nuclease digestion and polyethylene glycol precipitation",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "Phi29 DNA polymerase amplification",
+        "PCR/qPCR"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "ATP-dependent exonuclease treatment of whole infected cell DNA preps ... prior to Phi29 amplification; measured by qPCR."
+    },
+    {
+      "Paper_title": "Purification of DNA from the cell-associated herpesvirus Marek\u2019s disease virus for 454 pyrosequencing using micrococcal nuclease digestion and polyethylene glycol precipitation",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "restriction endonuclease profiling"
+      ],
+      "Detergents_used_for_lysis": [
+        "Triton X-100",
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Hypotonic lysis and micrococcal nuclease treatment used Triton X-100 and SDS; washed cells and centrifuged pellets."
+    },
+    {
+      "Paper_title": "Purification of DNA from the cell-associated herpesvirus Marek\u2019s disease virus for 454 pyrosequencing using micrococcal nuclease digestion and polyethylene glycol precipitation",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "Sequencing",
+        "Phi29 DNA polymerase amplification"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "PEG precipitation of nuclease-treated DNA used centrifugation and ethanol washing; DNA was suitable for direct pyrosequencing and Phi29 amplification."
+    }
+  ]
+}

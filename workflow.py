@@ -278,6 +278,7 @@ def run_extract(config_path: Path, candidate_csv: Path | None = None) -> Path:
         temperature = float(cfg.llm.get("temperature", 0.0))
         safe_mode = bool(cfg.llm.get("safe_mode", True))
         safety_identifier = str(cfg.llm.get("safety_identifier", "")).strip() or None
+        include_source_page = bool(cfg.llm.get("include_source_page", True))
         ocr_lang = str(cfg.pdf.get("ocr_language", "eng"))
         debug_save_images = bool(cfg.pdf.get("debug_save_images", False))
         pdf_debug_dir = debug_dir / pdf.stem if debug_enabled else None
@@ -362,6 +363,7 @@ def run_extract(config_path: Path, candidate_csv: Path | None = None) -> Path:
                                     debug_log_path=debug_log_path,
                                     debug_print=debug_print,
                                     debug_minimize=debug_minimize,
+                                    include_source_page=include_source_page,
                                     debug_request_meta={
                                         "pdf": pdf.name,
                                         "pages": [p + 1 for p in batch_pages],
@@ -404,6 +406,7 @@ def run_extract(config_path: Path, candidate_csv: Path | None = None) -> Path:
                     debug_log_dir=str(pdf_debug_dir) if pdf_debug_dir else None,
                     debug_print=debug_print,
                     debug_minimize=debug_minimize,
+                    include_source_page=include_source_page,
                 )
             elif last_exc is not None:
                 raise last_exc

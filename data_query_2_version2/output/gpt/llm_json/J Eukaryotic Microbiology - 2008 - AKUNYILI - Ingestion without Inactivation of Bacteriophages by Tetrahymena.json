@@ -1,0 +1,142 @@
+{
+  "source_pdf": "J Eukaryotic Microbiology - 2008 - AKUNYILI - Ingestion without Inactivation of Bacteriophages by Tetrahymena.pdf",
+  "paper_meta": {
+    "Paper_title": "J Eukaryotic Microbiology - 2008 - AKUNYILI - Ingestion without Inactivation of Bacteriophages by Tetrahymena",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "d06ccb6917"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Ingestion without Inactivation of Bacteriophages by Tetrahymena",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cStarvation was induced by centrifugation... washing... and resuspension in HEPES at 30 \u00b0C\u201d"
+    },
+    {
+      "Paper_title": "Ingestion without Inactivation of Bacteriophages by Tetrahymena",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cPreparation of cell-free medium (CFM)\u201d with cells \u201cremoved... by centrifugation\u201d and the filtrate used immediately"
+    },
+    {
+      "Paper_title": "Ingestion without Inactivation of Bacteriophages by Tetrahymena",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "plaque assay"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cCo-incubation of phages with Tetrahymena\u201d; samples were filtered, diluted, and plated with an E. coli indicator"
+    },
+    {
+      "Paper_title": "Ingestion without Inactivation of Bacteriophages by Tetrahymena",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "plaque assay"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Pulse-chase cells were \u201ccollected by centrifugation\u201d and \u201cwashed... to remove free phages\u201d; samples were plated for enumeration"
+    },
+    {
+      "Paper_title": "Ingestion without Inactivation of Bacteriophages by Tetrahymena",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "plaque assay"
+      ],
+      "Detergents_used_for_lysis": [
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cRecovery of intracellular phages by SDS lysis\u201d; cells were centrifuged/washed and diluted samples were plated"
+    },
+    {
+      "Paper_title": "Ingestion without Inactivation of Bacteriophages by Tetrahymena",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "plaque assay"
+      ],
+      "Detergents_used_for_lysis": [
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "UVC protection experiment: \u201cAll procedures were at room temperature\u201d; samples were mixed with SDS \u201cto lyse\u201d cells for plaque counts"
+    },
+    {
+      "Paper_title": "Ingestion without Inactivation of Bacteriophages by Tetrahymena",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "plaque assay"
+      ],
+      "Detergents_used_for_lysis": [
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "UVB protection experiment was \u201cas described above\u201d; figure notes samples were processed as in the UVC protocol"
+    },
+    {
+      "Paper_title": "Ingestion without Inactivation of Bacteriophages by Tetrahymena",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "microscopy",
+        "plaque assay"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Transport-diffusion experiment: \u201cAll procedures were at room temperature\u201d; cells were concentrated by centrifugation and samples assayed"
+    },
+    {
+      "Paper_title": "Ingestion without Inactivation of Bacteriophages by Tetrahymena",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "Transmission electron microscopy"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Electron microscopy prep harvested cells by centrifugation, washed them, and observed thin sections by TEM"
+    },
+    {
+      "Paper_title": "Ingestion without Inactivation of Bacteriophages by Tetrahymena",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": false,
+      "Evidence": ""
+    }
+  ]
+}

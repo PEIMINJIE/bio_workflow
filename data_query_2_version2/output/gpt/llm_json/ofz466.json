@@ -1,0 +1,39 @@
+{
+  "source_pdf": "ofz466.pdf",
+  "paper_meta": {
+    "Paper_title": "ofz466",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "a18d0633fe"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Rapid, Sample-to-Answer Host Gene Expression Test to Diagnose Viral Infection",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [
+        "Qiagen PAXgene Blood RNA tubes"
+      ],
+      "Protocol_described": true,
+      "Evidence": "FAST HR separates stabilized mRNA from debris; figure notes integrated centrifugal processing and E-Lysis, yielding medium suitable for qRT-PCR assays."
+    },
+    {
+      "Paper_title": "Rapid, Sample-to-Answer Host Gene Expression Test to Diagnose Viral Infection",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "RT-PCR/RT-qPCR"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "FAST HR process...centrifugally removing qRT-PCR inhibitors...RNase enzymes are inactivated by electrically-induced flash heating...qRT-PCR-ready matrix"
+    }
+  ]
+}

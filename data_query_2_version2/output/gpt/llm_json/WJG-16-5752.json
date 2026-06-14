@@ -1,0 +1,74 @@
+{
+  "source_pdf": "WJG-16-5752.pdf",
+  "paper_meta": {
+    "Paper_title": "WJG-16-5752",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "b486c61d68"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Expression and purification of a functional human hepatitis B virus polymerase",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "PCR"
+      ],
+      "Detergents_used_for_lysis": [
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "cellular DNA was isolated from tissues by SDS-protease K digestion and phenol-chloroform extraction; HBV-Pol sequence was amplified"
+    },
+    {
+      "Paper_title": "Expression and purification of a functional human hepatitis B virus polymerase",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "dot blot"
+      ],
+      "Detergents_used_for_lysis": [
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Cells were harvested by centrifugation and disrupted with lysis-buffer ... SDS; expression level was determined with dot blot"
+    },
+    {
+      "Paper_title": "Expression and purification of a functional human hepatitis B virus polymerase",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "SDS-PAGE",
+        "Western blotting",
+        "DNA polymerase activity assay",
+        "reverse transcriptase activity assay"
+      ],
+      "Detergents_used_for_lysis": [
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "strong detergent (SDS) was employed in the lysis step; SDS was replaced by NP-40 during washing and elution"
+    },
+    {
+      "Paper_title": "Expression and purification of a functional human hepatitis B virus polymerase",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "in vitro transcription/translation"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [
+        "Qiagen Midiprep DNA purification kit"
+      ],
+      "Protocol_described": true,
+      "Evidence": "plasmid pT7-Pol was purified with Qiagen Midiprep DNA purification kit; in vitro transcription and translation reactions were performed"
+    }
+  ]
+}

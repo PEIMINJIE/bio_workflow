@@ -1,0 +1,43 @@
+project:
+  name: data-query-2-version2-gpt
+  output_dir: data_query_2_version2/output/gpt
+  cache_dir: data_query_2_version2/cache
+search:
+  # Not used by --extract; present so config loads cleanly.
+  query: ""
+pdf:
+  input_dir: data_query_2_version3/input/pdfs   # 实际 PDF 存放处(与 Claude 那次同一批)
+  input_mode: image
+  ocr_enabled: false
+  ocr_language: eng
+  max_pages: 50
+  image_dpi: 200
+  image_batch_size: 6
+  debug_save_images: false
+  method_keywords:
+    - materials and methods
+    - methods
+    - methodology
+    - procedure
+    - protocol
+    - steps
+    - materials
+llm:
+  model: gpt-5.5             # gpt-* -> OpenAI provider (needs OPENAI_API_KEY)
+  temperature: 0.0
+  safe_mode: true
+  safety_identifier: "user_dq2_v2_gpt"
+  max_chars_per_chunk: 8000
+  max_protocols_per_paper: 50
+  max_workers: 16
+  include_source_page: false   # 这次不生成 Source_page
+  debug: false
+  debug_print: true
+  debug_minimize_json: false
+  save_raw_json: true
+extract:
+  stage: stage_2
+scoring:
+  t_threshold_c: 40
+  top_n: 20
+  label_mode: detergents_capture

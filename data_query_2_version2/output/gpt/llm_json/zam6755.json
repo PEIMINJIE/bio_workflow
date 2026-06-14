@@ -1,0 +1,83 @@
+{
+  "source_pdf": "zam6755.pdf",
+  "paper_meta": {
+    "Paper_title": "zam6755",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "1182723993"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Lytic Myophage Abp53 Encodes Several Proteins Similar to Those Encoded by Host Acinetobacter baumannii and Phage phiKO2",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "spot test",
+        "plaque assay"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Hospital samples were centrifuged and filtered; supernatants were checked for phages by spot test."
+    },
+    {
+      "Paper_title": "Lytic Myophage Abp53 Encodes Several Proteins Similar to Those Encoded by Host Acinetobacter baumannii and Phage phiKO2",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "SDS-PAGE",
+        "Electron microscopy",
+        "DNA isolation"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "High-titer lysates were centrifuged, filtered, ultracentrifuged, and dialyzed to recover phage particles."
+    },
+    {
+      "Paper_title": "Lytic Myophage Abp53 Encodes Several Proteins Similar to Those Encoded by Host Acinetobacter baumannii and Phage phiKO2",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "SDS-PAGE"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Purified phage particles were boiled in loading buffer and separated by SDS-PAGE."
+    },
+    {
+      "Paper_title": "Lytic Myophage Abp53 Encodes Several Proteins Similar to Those Encoded by Host Acinetobacter baumannii and Phage phiKO2",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "Restriction enzyme digestion",
+        "PFGE",
+        "Sequencing"
+      ],
+      "Detergents_used_for_lysis": [
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Phage particles purified by ultracentrifugation were treated with SDS and proteinase K above 40\u00b0C; DNA was used for digestion/PFGE."
+    },
+    {
+      "Paper_title": "Lytic Myophage Abp53 Encodes Several Proteins Similar to Those Encoded by Host Acinetobacter baumannii and Phage phiKO2",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "Sequencing"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Purified phage DNA was fragmented, cloned, and subjected to nucleotide sequencing."
+    }
+  ]
+}

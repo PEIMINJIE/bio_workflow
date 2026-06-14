@@ -1,0 +1,75 @@
+{
+  "source_pdf": "lee-et-al-2015-a-novel-bacteriophage-targeting-cronobacter-sakazakii-is-a-potential-biocontrol-agent-in-foods.pdf",
+  "paper_meta": {
+    "Paper_title": "lee-et-al-2015-a-novel-bacteriophage-targeting-cronobacter-sakazakii-is-a-potential-biocontrol-agent-in-foods",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "98857ac48e"
+  },
+  "protocols": [
+    {
+      "Paper_title": "A Novel Bacteriophage Targeting Cronobacter sakazakii Is a Potential Biocontrol Agent in Foods",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Bacteriophage isolation and purification included filtration and subsequent centrifugation of samples."
+    },
+    {
+      "Paper_title": "A Novel Bacteriophage Targeting Cronobacter sakazakii Is a Potential Biocontrol Agent in Foods",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "TEM"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "The morphology of the purified phage CR5 was observed using transmission electron microscope analysis; the grid was washed."
+    },
+    {
+      "Paper_title": "A Novel Bacteriophage Targeting Cronobacter sakazakii Is a Potential Biocontrol Agent in Foods",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "Sequencing"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Before isolation of the phage genomic DNA, phage particles were treated with DNase I and RNase A; genomic DNA was then sequenced."
+    },
+    {
+      "Paper_title": "A Novel Bacteriophage Targeting Cronobacter sakazakii Is a Potential Biocontrol Agent in Foods",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "SDS-PAGE",
+        "MALDI-TOF MS"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Proteomic analysis of phage structural proteins used SDS-PAGE and MALDI-TOF MS; the sample was treated in boiling water."
+    },
+    {
+      "Paper_title": "A Novel Bacteriophage Targeting Cronobacter sakazakii Is a Potential Biocontrol Agent in Foods",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "viable cell counting"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Food application testing used infant formula milk samples, and viable cell numbers of C. sakazakii were monitored."
+    }
+  ]
+}

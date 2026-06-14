@@ -1,0 +1,52 @@
+{
+  "source_pdf": "jambio1939.pdf",
+  "paper_meta": {
+    "Paper_title": "jambio1939",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "500aa7f622"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Identification and characterization of the two-component cell lysis cassette encoded by temperate bacteriophage \u03c6PYB5 of Lactobacillus fermentum",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "SDS-PAGE"
+      ],
+      "Detergents_used_for_lysis": [
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "total proteins were extracted by suspending the cells in SDS-buffer ... denatured by heating ... analysed on an SDS gel"
+    },
+    {
+      "Paper_title": "Identification and characterization of the two-component cell lysis cassette encoded by temperate bacteriophage \u03c6PYB5 of Lactobacillus fermentum",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "zymogram analysis"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "supernatant obtained from E. coli BL\u2013hyb5\u2013lyb5 by centrifugation after induction was used as the crude Lyb5 extract"
+    },
+    {
+      "Paper_title": "Identification and characterization of the two-component cell lysis cassette encoded by temperate bacteriophage \u03c6PYB5 of Lactobacillus fermentum",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "zymogram analysis"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Bacteria cells were harvested ... washed ... suspended ... and autoclaved as substrates"
+    }
+  ]
+}

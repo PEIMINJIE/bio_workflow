@@ -1,0 +1,98 @@
+{
+  "source_pdf": "1-s2.0-S0168160506005757-main.pdf",
+  "paper_meta": {
+    "Paper_title": "1-s2.0-S0168160506005757-main",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "d9ccc77361"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Enterobacter sakazakii bacteriophages can prevent bacterial growth in reconstituted infant formula",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "plaque assay",
+        "spot assay"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Sewage samples were centrifuged, filter-sterilized, and supernatants tested for bacteriophages using overlay and spot assays."
+    },
+    {
+      "Paper_title": "Enterobacter sakazakii bacteriophages can prevent bacterial growth in reconstituted infant formula",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "Transmission electron microscopy",
+        "restriction enzyme digestion",
+        "SDS-PAGE",
+        "bacterial growth inhibition assay"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Phage suspensions were purified using centrifugation-based steps and stored for the reported experiments."
+    },
+    {
+      "Paper_title": "Enterobacter sakazakii bacteriophages can prevent bacterial growth in reconstituted infant formula",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "Transmission electron microscopy"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Electron micrographs were obtained from phage particles purified by density-gradient centrifugation and negatively stained."
+    },
+    {
+      "Paper_title": "Enterobacter sakazakii bacteriophages can prevent bacterial growth in reconstituted infant formula",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "restriction enzyme digestion",
+        "agarose gel electrophoresis"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [
+        "QIA Lambda Minikit"
+      ],
+      "Protocol_described": true,
+      "Evidence": "Phage genomic DNA was isolated from purified particles using QIA Lambda Minikit and then analyzed by restriction digestion."
+    },
+    {
+      "Paper_title": "Enterobacter sakazakii bacteriophages can prevent bacterial growth in reconstituted infant formula",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "SDS-PAGE"
+      ],
+      "Detergents_used_for_lysis": [
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": [
+        "SDS-PAGE sample buffer (Bio-Rad)"
+      ],
+      "Protocol_described": true,
+      "Evidence": "Bacteriophage suspension was pelleted, mixed with SDS-PAGE sample buffer, boiled, and analyzed by SDS-PAGE."
+    },
+    {
+      "Paper_title": "Enterobacter sakazakii bacteriophages can prevent bacterial growth in reconstituted infant formula",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": false,
+      "Evidence": ""
+    }
+  ]
+}

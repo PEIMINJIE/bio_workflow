@@ -1,0 +1,143 @@
+{
+  "source_pdf": "nihms403533.pdf",
+  "paper_meta": {
+    "Paper_title": "nihms403533",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "d32f55c5ea"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Maturation of the Gag core decreases the stability of retroviral lipid membranes",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "Dynamic Light Scattering"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "VLPs were produced, purified through sucrose cushions, re-suspended, stored cold, and assayed for homogeneity by DLS."
+    },
+    {
+      "Paper_title": "Maturation of the Gag core decreases the stability of retroviral lipid membranes",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "optical biosensor assay"
+      ],
+      "Detergents_used_for_lysis": [
+        "Triton X-100",
+        "Tween 20",
+        "Tween 80",
+        "\u03b2-octylglucoside",
+        "CHAPS",
+        "NP-40",
+        "Empigen BB",
+        "Lubrol",
+        "saponin"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Biosensor stability studies exposed captured VLPs to detergent solutions; a wash between injections was described."
+    },
+    {
+      "Paper_title": "Maturation of the Gag core decreases the stability of retroviral lipid membranes",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "SDS-PAGE",
+        "Western blot"
+      ],
+      "Detergents_used_for_lysis": [
+        "Empigen BB",
+        "Tween 20",
+        "Triton X-100",
+        "SDS"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Western blot detection described VLP detergent treatment and lysis in SDS-containing sample buffer before SDS-PAGE."
+    },
+    {
+      "Paper_title": "Maturation of the Gag core decreases the stability of retroviral lipid membranes",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": false,
+      "Evidence": ""
+    },
+    {
+      "Paper_title": "Maturation of the Gag core decreases the stability of retroviral lipid membranes",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Detection of detergent-mediated rupture of viral membranes using an optical biosensor; Triton X-100 shown."
+    },
+    {
+      "Paper_title": "Maturation of the Gag core decreases the stability of retroviral lipid membranes",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100",
+        "\u03b2-octylglucoside",
+        "CHAPS",
+        "NP-40",
+        "Empigen BB",
+        "Tween 20",
+        "Tween 80",
+        "Lubrol",
+        "saponin"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "VLP membranes were treated with a panel of indicated detergents and optical resonance signals were normalized."
+    },
+    {
+      "Paper_title": "Maturation of the Gag core decreases the stability of retroviral lipid membranes",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Triton X-100",
+        "Tween 20"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Prolonged exposure of VLP membranes to Triton X-100 or Tween 20 on a Biacore biosensor chip."
+    },
+    {
+      "Paper_title": "Maturation of the Gag core decreases the stability of retroviral lipid membranes",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "SDS-PAGE",
+        "Western blot"
+      ],
+      "Detergents_used_for_lysis": [
+        "Tween 20",
+        "Triton X-100",
+        "Empigen"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "VLPs were incubated with Tween 20, Triton X-100, or Empigen, then analyzed by SDS-PAGE and immunoblotting."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "source_pdf": "micropatterned-viral-membrane-clusters-for-antiviral-drug-evaluation.pdf",
+  "paper_meta": {
+    "Paper_title": "micropatterned-viral-membrane-clusters-for-antiviral-drug-evaluation",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "57d6ca6e40"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Micropatterned Viral Membrane Clusters for Antiviral Drug Evaluation",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cSmall unilamellar liposomes were prepared by an extrusion method\u201d and later used for fluorescence-based cluster measurements."
+    },
+    {
+      "Paper_title": "Micropatterned Viral Membrane Clusters for Antiviral Drug Evaluation",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cPDMS Stamp Fabrication\u201d describes fabrication of patterned stamps for later microcontact printing."
+    },
+    {
+      "Paper_title": "Micropatterned Viral Membrane Clusters for Antiviral Drug Evaluation",
+      "Wash_free": false,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cMicrocontact Printing\u201d describes cleaned coverslips and PDMS stamps, followed by patterned neutravidin transfer."
+    },
+    {
+      "Paper_title": "Micropatterned Viral Membrane Clusters for Antiviral Drug Evaluation",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "The study tracked \u201cmembrane lysis by the AH peptide\u201d by monitoring fluorescence signals from patterned liposome clusters."
+    },
+    {
+      "Paper_title": "Micropatterned Viral Membrane Clusters for Antiviral Drug Evaluation",
+      "Wash_free": false,
+      "Centrifugation_free": false,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": false,
+      "Evidence": ""
+    }
+  ]
+}

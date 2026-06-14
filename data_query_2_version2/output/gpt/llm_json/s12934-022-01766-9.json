@@ -1,0 +1,174 @@
+{
+  "source_pdf": "s12934-022-01766-9.pdf",
+  "paper_meta": {
+    "Paper_title": "s12934-022-01766-9",
+    "Year": "",
+    "DOI": "",
+    "Paper_ID": "011aa8ba17"
+  },
+  "protocols": [
+    {
+      "Paper_title": "Evaluation of factors influencing expression and extraction of recombinant bacteriophage endolysins in Escherichia coli",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [
+        "SDS-PAGE"
+      ],
+      "Detergents_used_for_lysis": [
+        "Triton X-100",
+        "Tween 20",
+        "NP-40",
+        "CHAPS",
+        "N-lauroylsarcosine (Sarkosyl)"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "tensioactives ... in the cell disruption system; cells were processed to obtain soluble and insoluble fractions for SDS-PAGE"
+    },
+    {
+      "Paper_title": "Evaluation of factors influencing expression and extraction of recombinant bacteriophage endolysins in Escherichia coli",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Table 1 reports a lysis buffer for LysH5 with phosphate buffer, salt, imidazole, and pH information."
+    },
+    {
+      "Paper_title": "Evaluation of factors influencing expression and extraction of recombinant bacteriophage endolysins in Escherichia coli",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "NP-40"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Table 1 lists a lysis buffer containing Tris-HCl, MgCl2 and NP-40 for Lys-phiSA012."
+    },
+    {
+      "Paper_title": "Evaluation of factors influencing expression and extraction of recombinant bacteriophage endolysins in Escherichia coli",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Table 1 reports PBS as the lysis buffer for LysGH15."
+    },
+    {
+      "Paper_title": "Evaluation of factors influencing expression and extraction of recombinant bacteriophage endolysins in Escherichia coli",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Table 1 lists a phosphate-buffer lysis condition with DTT for ClyS."
+    },
+    {
+      "Paper_title": "Evaluation of factors influencing expression and extraction of recombinant bacteriophage endolysins in Escherichia coli",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [
+        "BugBuster protein extraction reagent"
+      ],
+      "Protocol_described": true,
+      "Evidence": "Table 1 lists BugBuster protein extraction reagent as the lysis buffer for LysDW2."
+    },
+    {
+      "Paper_title": "Evaluation of factors influencing expression and extraction of recombinant bacteriophage endolysins in Escherichia coli",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Table 1 reports a phosphate-buffer lysis condition with EDTA and DTT for SAL-1."
+    },
+    {
+      "Paper_title": "Evaluation of factors influencing expression and extraction of recombinant bacteriophage endolysins in Escherichia coli",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "Table 1 lists a phosphate-buffer and salt lysis condition for LysCSA13."
+    },
+    {
+      "Paper_title": "Evaluation of factors influencing expression and extraction of recombinant bacteriophage endolysins in Escherichia coli",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "SDS-PAGE"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "pellet was re-suspended in lysis buffer. Disruption of cells was accomplished using a bead beater... rest on ice"
+    },
+    {
+      "Paper_title": "Evaluation of factors influencing expression and extraction of recombinant bacteriophage endolysins in Escherichia coli",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "SDS-PAGE",
+        "zymogram"
+      ],
+      "Detergents_used_for_lysis": [
+        "Tween 20",
+        "Triton X-100",
+        "CHAPS",
+        "N-lauroylsarcosine",
+        "NP-40"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "tested several detergents... Tween 20, Triton-X100, CHAPS, N-lauroylsarcosine, and Nonidet P40"
+    },
+    {
+      "Paper_title": "Evaluation of factors influencing expression and extraction of recombinant bacteriophage endolysins in Escherichia coli",
+      "Wash_free": true,
+      "Centrifugation_free": false,
+      "Heat_free": true,
+      "Downstream_compatibility": [
+        "SDS-PAGE"
+      ],
+      "Detergents_used_for_lysis": [],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "harvested by centrifugation... pellet was re-suspended... in lysis buffer"
+    },
+    {
+      "Paper_title": "Evaluation of factors influencing expression and extraction of recombinant bacteriophage endolysins in Escherichia coli",
+      "Wash_free": true,
+      "Centrifugation_free": true,
+      "Heat_free": false,
+      "Downstream_compatibility": [],
+      "Detergents_used_for_lysis": [
+        "Tween 20",
+        "Triton X-100",
+        "NP-40",
+        "CHAPS",
+        "N-lauroylsarcosine (Sarkosyl)"
+      ],
+      "Detergent_products_unresolved_for_lysis": [],
+      "Protocol_described": true,
+      "Evidence": "\u201cLysis buffer additives screening\u201d; detergents named include Tween 20, Triton-X100, Nonidet P40, CHAPS, and N-lauroylsarcosine."
+    }
+  ]
+}
